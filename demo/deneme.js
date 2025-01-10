@@ -99,3 +99,18 @@ function addKeyboardListeners() {
 // Başlangıç fonksiyonları
 loadQuestions();
 addKeyboardListeners();
+
+function mysubmit() {
+
+    myDataRef = {
+        "certainty": userResponses.certainty,
+        "choice": userResponses.choice,
+    };
+    // save data as JSONs
+    saveData(JSON.stringify(myDataRef))
+}
+
+function saveData(filedata) {
+    var filename = "./data/" + subjectID + ".json";
+    $.post("save_data.php", { postresult: filedata + "\n", postfile: filename })
+}
