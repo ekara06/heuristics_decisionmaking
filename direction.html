@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decision Making Experiment</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        .button-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .button-with-option {
+            text-align: center;
+            margin: 0 20px;
+        }
+        .keyboard-button {
+            width: 150px;
+            height: 70px;
+            background-color: #007bff;
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .option-text {
+            display: block;
+            margin-top: 10px;
+            font-size: 18px;
+        }
+        h1, h2, .certainty-scale p {
+            text-align: center;
+            font-size: 24px;
+        }
+        .intro-text {
+            font-size: 18px;
+            text-align: center;
+            margin: 20px;
+        }
+        img {
+            display: inline-block;
+            margin: 10px;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Introduction Page -->
+    <div class="container" id="pageIntro" style="display: block;">
+        <h1>Welcome to the Decision-Making Experiment</h1>
+        <div class="intro-text">
+            <p>Thank you for participating in our research study!</p>
+            <p>This study is part of a project conducted by the <b>Human-Centered AI Lab</b> at Helmholtz Munich, Germany.</p>
+            <p>In this experiment, you will be asked to make a series of decisions between two options.</p>
+            <p>To proceed, please read the consent form carefully and confirm your participation below.</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="./figs/munich.jpeg" height="300px" />
+            <img src="./figs/helm.jpeg" height="300px" />
+        </div>
+        <div class="intro-text">
+            <p>Click the button below to consent and begin the experiment.</p>
+        </div>
+        <div style="text-align: center;">
+            <button class="keyboard-button" id="buttonConsent">I Consent</button>
+        </div>
+    </div>
+
+    <!-- Task Introduction Page -->
+    <div id="pageTaskIntro" style="display: none;">
+        <br>
+        <p style="font-size:125%; text-align: center;">
+            <img src="figs/matrix.jpeg" height="300px"> 
+            <br>
+            Now you will be presented with various questions with two options, D and K.<br>
+            To choose the option you want, please press the buttons D or K on your keyboard.<br>
+            <br>
+            After each question, you will be asked how certain you are about your answer.<br>
+            To state your certainty, please use the number buttons on your keyboard.<br>
+            <br>
+            <button class="keyboard-button" id="buttonTaskIntroNext">Next</button>
+        </p>
+    </div>
+
+    <!-- Page 1: Question Page -->
+    <div class="container" id="page1" style="display: none;">
+        <h1>Imagine you have to predict <span id="target"></span>. If <span id="target2"></span> is higher, <span id="option-placeholder"></span> will be</h1>
+        <div class="button-container">
+            <div class="button-with-option">
+                <button class="keyboard-button" id="buttonD">D</button>
+                <span class="option-text" id="option1">Higher</span>
+            </div>
+            <div class="button-with-option">
+                <button class="keyboard-button" id="buttonK">K</button>
+                <span class="option-text" id="option2">Lower</span>
+            </div>
+        </div>
+    </div>
+    
+
+    <!-- Page 2: Certainty Page -->
+    <div class="container" id="page2" style="display: none;">
+        <h2>How Certain Are You?</h2>
+        <div class="certainty-scale">
+            <img src="figs/scale.jpg" style="display: block; margin: auto; max-width: 100%; height: auto;">
+            <p>Indicate your certainty about your choice by pressing keys 1-5.</p>
+        </div>
+    </div>
+
+    <!-- Page End: End of Experiment -->
+    <div class="container" id="pageEnd" style="display: none;">
+        <h2>This is the end of the study</h2>
+        <p>Thank you so much for your participation.</p>
+    </div>
+
+    <script src="direction.js"></script>
+</body>
+</html>
