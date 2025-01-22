@@ -69,6 +69,71 @@
             <img src="./figs/helm.jpeg" height="300px" />
         </div>
         <div class="intro-text">
+            <h4>Confidentiality</h4>
+			Your participation in this study will remain confidential.
+			Your Prolific ID will NOT be shared with anyone outside the research team.
+	  
+			<h4>Participation and withdrawal</h4>
+			Your participation in this study is completely voluntary and you may refuse to participate<br>
+			or you may choose to withdraw at any time.<br>
+			However, you will only be paid for the participation upon completion<br>
+			and if you enter the correct completion code provided at the end of the study.
+  
+			
+			<h4>Data protection</h4>
+			Your data will be anonymized and only used in the manner described in our data protection sheet,
+			available <a href="https://kyblab.tuebingen.mpg.de/compositionalbandits/data_protection.pdf" target="_blank">here</a> 
+			(please do not fill out this sheet!).
+			The following text box summarizes the main points. Please read it carefully and provide consent below:<br>
+			<br>
+			
+			<textarea rows="10" cols="150" readonly>
+The processing and use of the collected data occurs in a pseudoanonymized form within the scope of the legally prescribed provisions.
+As a general rule, the storage occurs in the form of answered questionnaires, as well as electronic data, for a duration of 10 years or longer, if this is required by the purpose of the study.
+
+By providing of further personal data in pseudoanonymized form, collected personal data may be used for the preparation of anonymized
+scientific research work and may also be published and used in an anonymized form in medical journals and scientific publications, so that a direct assignment to my person cannot be established.
+
+The information obtained during the course of this study may also be sent in an anonymized form to cooperation partners within the scope of
+the European General Data Protection Regulation for scientific purposes and to cooperation partners outside of the European Union, i.e. to countries with a lower data protection level (this also applies to the USA).
+
+The data collected within the scope of the study can also be used and processed in the future inside of the Max Planck Institute.
+
+I was informed about my rights, that at any time:
+
+I can withdraw this declaration of consent.
+
+I can request information about my stored data and request the correction or blocking of data.
+
+By cancellation of my participation in the study,
+I can request that any personal data of mine collected until that point are immediately deleted or anonymized.
+
+I can request that my personal data are handed out to me or to third parties (if technically feasible).
+
+I herewith declare that:
+
+I have been adequately informed about the collection and processing of my personal data and rights.
+
+I consent to the collection and processing of personal data within the scope of the study and its pseudoanonymized disclosure,
+so that only the persons conducting the study can establish a link between the data and my person.
+
+Agreement:
+
+I agree to participate in this experiment.
+
+I consent to the use of my data described in the Data Protection Information Sheet
+and confirm having received a copy of the Data Protection Sheet.
+
+I consent to data transfer.
+			</textarea>      
+			
+			<br>
+			<br>
+			By selecting the consent option below,
+			you acknowledge that you fulfill all of the participation criteria
+			and you agree to your data being used as described.
+			<br>
+			<br>
             <p>Click the button below to consent and begin the experiment.</p>
         </div>
         <div style="text-align: center;">
@@ -80,21 +145,32 @@
     <div id="pageTaskIntro" style="display: none;">
         <br>
         <p style="font-size:125%; text-align: center;">
-            <img src="figs/matrix.jpeg" height="300px"> 
             <br>
-            Now you will be presented with various questions with two options, D and K.<br>
-            To choose the option you want, please press the buttons D or K on your keyboard.<br>
+            Welcome to the study! This study aims to explore how people make choices in real life contexts.<br>
+            Your task is to choose the option you prefer in each condition. There are no correct or wrong answers. <br>
+            Please make your decision on your personal preference. <br>
             <br>
-            After each question, you will be asked how certain you are about your answer.<br>
+            Now you will be presented with various questions like down below, each question will offer two options; D and K.<br>
+            To answer the questions, please use the keyboard buttons D and K on your keyboard.<br> 
+            <img src="figs/matrix.jpg" style="max-width: 90%; height: auto; margin-top: 20px;">
+            <br>
+            After each question, you will be asked how certain you are about your answer like in the example down below. <br>
+                <div style="text-align: center; margin-top: 20px;">
+                <img src="figs/intro_scale.jpeg" style="max-width: 500px; height: auto;">
+                </div> 
+            <br>  
+            <p style="font-size:125%; text-align: center;">         
             To state your certainty, please use the number buttons on your keyboard.<br>
+            The study is not compatible with mobile devices, please make sure to use a computer.<br>
             <br>
             <button class="keyboard-button" id="buttonTaskIntroNext">Next</button>
+            </p>
         </p>
     </div>
 
     <!-- Page 1: Question Page -->
     <div class="container" id="page1" style="display: none;">
-        <h1>Imagine you have to predict <span id="target"></span>. If <span id="target2"></span> would be high, <span id="option-placeholder"></span> will be</h1>
+        <p style="font-size: 24px; text-align: center;">Imagine you have to predict <b><span id="target"></span></b>. If <b><span id="target2"></span></b> would be high, <b><span id="option-placeholder"></span></b> will be</p>
         <div class="button-container">
             <div class="button-with-option">
                 <button class="keyboard-button" id="buttonD">D</button>
