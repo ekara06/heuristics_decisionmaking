@@ -1,7 +1,7 @@
-let allQuestions = []; // Tüm soruları global olarak tanımlayın
-let randomizedQuestions = []; // Rastgele seçilen sorular
-const targetQuestionCount = 50; // Kaç soru gösterileceğini buradan kontrol edebilirsiniz
-let prolificID = null; // ProlificID'yi global olarak tanımlayın
+let allQuestions = []; 
+let randomizedQuestions = []; // Randomization
+const targetQuestionCount = 50; // How many questions there will be
+let prolificID = null; // ProlificID
 
 function getProlificID() {
     const urlParams = new URLSearchParams(window.location.search);
@@ -35,7 +35,7 @@ function loadQuestions() {
 
 // Rastgele soruları seçmek için düzenlenmiş fonksiyon
 function getRandomQuestions(questions, count) {
-    const shuffled = [...questions].sort(() => 0.5 - Math.random()); // Orijinal sırayı bozmamak için [...questions]
+    const shuffled = [...questions].sort(() => 0.5 - Math.random()); 
     return shuffled.slice(0, count);
 }
 
@@ -91,8 +91,8 @@ function saveData(filedata) {
 function saveResponses() {
     const dataToSave = {
         prolificID: prolificID, // Prolific ID
-        responses: userResponses, // Tüm kullanıcı cevapları
-        timestamp: new Date().toISOString(), // Zaman damgası
+        responses: userResponses, 
+        timestamp: new Date().toISOString(), 
     };
     const jsonData = JSON.stringify(dataToSave);
     saveData(jsonData); // Veriyi kaydet
@@ -143,7 +143,7 @@ function saveCertainty(certainty) {
 function showEndOfStudy() {
     const finalDataToSave = {
         prolificID: prolificID,
-        responses: userResponses, // Güncellenmiş yanıt yapısı artık options içeriyor
+        responses: userResponses, 
         timestamp: new Date().toISOString()
     };
 
@@ -155,7 +155,7 @@ function showEndOfStudy() {
             console.error("Error saving final data:", error);
         });
 
-    showPage("pageEnd"); // Katılımcıya teşekkür ekranını göster
+    showPage("pageEnd"); 
 }
 
 
