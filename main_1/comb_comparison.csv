@@ -1,0 +1,180 @@
+Feature_3 name,corr_1_3,corr_2_3,known_ranking,known_direction
+Speed (mph),0.97,0.92,True,True
+Exam Score,0.75,-0.75,False,False
+Value,1.0,0.94,True,True
+Satiety,0.97,0.96,True,True
+Travel Time (min),0.75,-0.16,True,False
+BMI,0.27,0.57,False,True
+Comfort Index,0.99,0.85,True,True
+Car Value ($),-0.94,-0.95,False,False
+Phone Satisfaction,0.88,0.91,False,True
+Comfort Rating,0.9,-0.96,False,False
+Phone battery life (hours),0.94,0.33,True,True
+Car acceleration (0-60 mph in seconds),-0.95,-0.84,True,False
+House price ($),0.92,0.92,False,True
+Race time (minutes),-0.94,-0.67,True,False
+Exam score (%),0.99,0.97,True,True
+Plant yield (kg),0.94,0.93,True,True
+Product popularity,0.89,-0.88,True,False
+Car cost ($),0.99,-0.98,True,False
+Taste rating (1-10),0.96,0.96,False,True
+Garden growth (cm/week),0.96,0.97,False,True
+Car Speed,1.0,0.99,True,True
+Phone Usage Time,1.0,1.0,False,True
+Meal Energy Boost,1.0,0.99,True,True
+Book Enjoyment,0.72,0.69,True,True
+Shoe Comfort,0.47,0.93,False,True
+Plant Growth,1.0,1.0,False,True
+Dog Energy Level,0.47,0.93,False,True
+Bike Speed,0.99,1.0,False,True
+Room Brightness,0.15,1.0,False,True
+Tea Effectiveness,0.57,0.95,False,True
+Time to Destination,-0.93,-0.04,True,False
+Time to Prepare,0.95,-0.62,True,False
+Battery Life,0.97,0.41,True,True
+Score,0.64,-0.65,False,False
+Fuel Efficiency,-0.96,-0.95,True,False
+Comfort,0.47,-0.95,False,False
+Fruit Yield,0.99,0.89,True,True
+Knowledge Content,0.01,0.45,False,True
+Effectiveness,0.4,0.51,False,True
+Market Price,-0.1,0.82,False,False
+Fuel Efficiency (miles per gallon),-0.98,-0.99,False,False
+BMI,0.01,0.53,False,True
+Test Score,-0.41,0.84,False,False
+Travel Time (minutes),0.32,-0.19,True,False
+Job Performance Score,0.78,-0.63,True,False
+Value per sq ft,0.21,-0.05,True,False
+Doneness Score,0.96,0.98,False,True
+Energy Boost Score,0.83,0.82,True,True
+Usage Time (hours),0.93,0.93,False,True
+Bread Rise Score,0.89,0.97,False,True
+Comfort (1-10),-0.69,0.89,False,False
+Distance Traveled (km),0.85,-0.85,False,False
+Battery Life (hours),-0.76,0.95,False,False
+Cooking Time (min),-0.94,0.98,False,False
+Fun Score (1-10),0.8,-0.96,False,False
+Sound Quality (1-10),-0.75,0.83,False,False
+Driving Range (km),0.9,-0.91,False,False
+Market Value (thousands $),-0.37,0.46,False,False
+Readability (1-10),-0.11,0.92,False,False
+Health Score (1-10),-0.53,0.93,False,False
+Fuel Consumption,0.82,-0.27,True,False
+Book Weight,0.88,-0.74,True,False
+Final Grade,0.97,-0.77,True,False
+Phone Performance Score,1.0,-0.3,True,False
+Comfort Score,-0.27,0.95,False,False
+Market Price,0.41,0.04,True,True
+Energy Consumption,0.96,-0.88,True,False
+Speed Potential,-0.96,-0.47,True,False
+Battery Life in Hours,0.95,-0.73,True,False
+Flavor Intensity,0.97,-1.0,False,False
+Distance traveled,0.96,-0.97,False,False
+Overall value,-0.2,0.73,False,False
+Test score,0.31,-0.86,False,False
+Top speed,0.98,-0.93,True,False
+Salary,0.89,0.81,True,True
+Viewing quality,0.94,-0.34,True,False
+Insulation,-0.96,1.0,False,False
+Resale value,-0.85,-0.97,False,False
+Bakedness,1.0,-0.99,True,False
+Taste rating,-0.32,0.94,False,False
+Fuel efficiency (km per liter),-0.95,-0.61,True,False
+House price (in thousands),0.48,-0.41,True,False
+Morning alertness (1-10),0.93,-0.98,False,False
+Exam score (1-100),0.98,-0.96,True,False
+Obedience score (1-10),-0.95,0.99,False,False
+Pizza tastiness (1-10),0.34,-0.87,False,False
+Energy level (1-10),0.65,-0.85,False,False
+Clothes cleanliness (1-10),0.48,0.81,False,True
+Mood score (1-10),-0.97,0.98,False,False
+Backpack comfort (1-10),-0.96,-0.96,False,False
+Fuel Efficiency (km/L),-0.87,-0.86,True,False
+Monthly Rent (USD),0.51,-0.91,False,False
+Exam Score (out of 100),0.96,0.29,True,True
+Comfort Rating (1-10),-0.93,-0.17,True,False
+Performance Rating (1-10),0.96,0.94,True,True
+Enjoyment Rating (1-10),-0.83,-0.83,False,False
+Trainability Rating (1-10),-0.77,-0.9,False,False
+Speed (km/h),-0.96,-0.63,True,False
+Growth Rate (cm/week),-0.93,-0.87,True,False
+Healthiness Rating (1-10),-0.98,-0.2,True,False
+Taste rating,-0.43,-0.7,False,False
+Fuel efficiency,-0.87,-0.97,False,False
+Exam score,-0.39,-0.41,False,False
+Reading speed,-0.84,-0.96,False,False
+Market value,-0.31,-0.45,False,False
+Job satisfaction,-1.0,-1.0,False,False
+User satisfaction,-0.93,-1.0,False,False
+Distance run,-0.97,-0.97,False,False
+Energy boost,-0.97,-0.97,False,False
+Flower bloom time,0.52,0.54,False,True
+Exam Score,0.97,-0.55,True,False
+Fuel Efficiency (km/L),-0.96,-0.53,True,False
+Weight Loss (kg/week),0.89,0.82,True,True
+Height (meters),0.96,-0.33,True,False
+Project Success Rate (%),0.92,0.9,True,True
+House Price ($1000s),0.89,0.29,True,True
+Mood Score (1-10),0.77,-0.94,False,False
+Energy Level (1-10),0.93,0.76,True,True
+Reading Time (minutes),0.89,-0.06,True,False
+User Engagement (%),0.91,-0.78,True,False
+Battery Life,0.48,0.97,False,True
+Fuel Efficiency,-0.76,-0.93,False,False
+Enjoyment,-0.86,0.96,False,False
+Flavor Strength,-0.32,0.85,False,False
+House Price,0.94,-0.65,True,False
+Exam Score,0.97,-0.89,True,False
+Trainability,-0.78,0.88,False,False
+Enjoyment,-0.77,0.85,False,False
+Comfort,0.96,-0.98,False,False
+Food Quality,-0.76,0.81,False,False
+Fuel Consumption,0.98,0.97,True,True
+Readability,0.97,0.81,True,True
+Sound Insulation,0.96,0.96,False,True
+Energy Level,0.27,-0.03,True,False
+Battery Life,0.35,0.27,True,True
+Running Speed,0.97,-0.68,True,False
+Battery Life,0.99,1.0,False,True
+Market Value,0.99,-0.97,True,False
+Taste Score,0.99,-0.94,True,False
+Taste Score,0.99,-0.87,True,False
+Distance traveled,0.99,0.98,True,True
+Taste rating,-0.91,0.93,False,False
+Natural light,-0.34,1.0,False,False
+Energy level,-0.98,0.98,False,False
+Battery life,0.96,-0.79,True,False
+Comfort level,-0.83,-0.99,False,False
+Resale value,-0.98,-0.98,False,False
+Readability,-0.99,0.99,False,False
+Enjoyment,-1.0,0.98,True,False
+Fuel Consumption,0.99,-0.78,True,False
+Market Price,0.97,-0.38,True,False
+Calories Burned,0.99,-0.94,True,False
+BMI,0.73,0.9,False,True
+Overall Popularity,0.96,-0.78,True,False
+Comfort Level,0.61,-0.79,False,False
+Mental Clarity,0.92,-0.96,False,False
+Mood Score,-0.97,1.0,False,False
+Plant Growth,-0.14,0.02,True,False
+Exam Score,0.97,-0.97,False,False
+Fuel Efficiency (km/l),-0.94,-0.97,False,False
+App Performance Score,0.95,0.82,True,True
+Energy Level (1-10),0.95,0.94,True,True
+Growth Rate (cm/week),0.97,0.96,True,True
+Customer Satisfaction (1-10),-0.98,-0.99,False,False
+Time to Finish (days),,,False,False
+Light Level (1-10),0.92,0.99,False,True
+Riding Comfort (1-10),-0.98,-0.96,True,False
+Commute Time (min),0.99,0.97,True,True
+Exam Score (1-100),0.93,0.49,True,True
+" ""Acceleration Time (seconds)""",-0.21,0.47,False,False
+" ""Floor Area (m²)""",0.83,0.5,True,True
+" ""Comfort Level""",-0.84,-0.88,False,False
+" ""Test Score (%)""",0.06,0.8,False,True
+" ""Used Car Value ($)""",0.74,-0.89,False,False
+" ""Vertical Jump (cm)""",-0.71,0.74,False,False
+" ""Healthiness Score""",-0.69,0.96,False,False
+" ""Fuel Consumption (l/100km)""",0.32,-0.98,False,False
+" ""Product Quality Score""",-0.44,0.94,False,False
+" ""Athlete Performance""",-0.86,0.96,False,False

@@ -1,0 +1,801 @@
+,Feature 1 name,Feature 2 name,Feature 3 name,Object 1 Feature 1 value,Object 1 Feature 2 value,Object 1 Feature 3 value,Object 2 Feature 1 value,Object 2 Feature 2 value,Object 2 Feature 3 value
+0,Engine Horsepower,Weight (kg),Speed (mph),300.0,1500.0,120.0,250.0,1400.0,110.0
+1,Engine Horsepower,Weight (kg),Speed (mph),400.0,1800.0,130.0,350.0,1700.0,125.0
+2,Engine Horsepower,Weight (kg),Speed (mph),200.0,1200.0,100.0,180.0,1100.0,95.0
+3,Engine Horsepower,Weight (kg),Speed (mph),350.0,1600.0,125.0,300.0,1500.0,120.0
+4,Engine Horsepower,Weight (kg),Speed (mph),450.0,2000.0,135.0,400.0,1900.0,130.0
+5,Engine Horsepower,Weight (kg),Speed (mph),250.0,1300.0,115.0,200.0,1200.0,110.0
+6,Engine Horsepower,Weight (kg),Speed (mph),300.0,1400.0,120.0,280.0,1300.0,118.0
+7,Engine Horsepower,Weight (kg),Speed (mph),500.0,2200.0,140.0,450.0,2100.0,138.0
+8,Engine Horsepower,Weight (kg),Speed (mph),320.0,1500.0,122.0,300.0,1400.0,120.0
+9,Engine Horsepower,Weight (kg),Speed (mph),400.0,1700.0,130.0,380.0,1600.0,128.0
+10,Study Time (hours),Difficulty Level,Exam Score,5.0,3.0,70.0,4.0,4.0,68.0
+11,Study Time (hours),Difficulty Level,Exam Score,6.0,2.0,75.0,5.0,3.0,73.0
+12,Study Time (hours),Difficulty Level,Exam Score,4.0,4.0,65.0,3.0,5.0,62.0
+13,Study Time (hours),Difficulty Level,Exam Score,7.0,1.0,85.0,6.0,2.0,83.0
+14,Study Time (hours),Difficulty Level,Exam Score,5.0,5.0,60.0,4.0,6.0,58.0
+15,Study Time (hours),Difficulty Level,Exam Score,8.0,2.0,88.0,7.0,3.0,86.0
+16,Study Time (hours),Difficulty Level,Exam Score,6.0,3.0,78.0,5.0,4.0,75.0
+17,Study Time (hours),Difficulty Level,Exam Score,4.0,2.0,72.0,3.0,3.0,70.0
+18,Study Time (hours),Difficulty Level,Exam Score,7.0,4.0,77.0,6.0,5.0,74.0
+19,Study Time (hours),Difficulty Level,Exam Score,5.0,1.0,80.0,4.0,2.0,78.0
+20,Price ($),Size (sq ft),Value,300000.0,2000.0,280000.0,280000.0,1800.0,260000.0
+21,Price ($),Size (sq ft),Value,400000.0,2200.0,380000.0,380000.0,2000.0,360000.0
+22,Price ($),Size (sq ft),Value,250000.0,1500.0,230000.0,230000.0,1400.0,210000.0
+23,Price ($),Size (sq ft),Value,350000.0,2400.0,330000.0,330000.0,2200.0,310000.0
+24,Price ($),Size (sq ft),Value,280000.0,1700.0,250000.0,260000.0,1600.0,230000.0
+25,Price ($),Size (sq ft),Value,450000.0,2600.0,420000.0,420000.0,2400.0,400000.0
+26,Price ($),Size (sq ft),Value,320000.0,1900.0,290000.0,300000.0,1800.0,270000.0
+27,Price ($),Size (sq ft),Value,370000.0,2100.0,340000.0,350000.0,2000.0,320000.0
+28,Price ($),Size (sq ft),Value,270000.0,1600.0,240000.0,250000.0,1500.0,220000.0
+29,Price ($),Size (sq ft),Value,420000.0,2500.0,390000.0,400000.0,2300.0,370000.0
+30,Protein (g),Calories,Satiety,20.0,150.0,8.0,18.0,140.0,7.0
+31,Protein (g),Calories,Satiety,25.0,200.0,9.0,22.0,180.0,8.0
+32,Protein (g),Calories,Satiety,15.0,100.0,6.0,13.0,90.0,5.0
+33,Protein (g),Calories,Satiety,30.0,250.0,10.0,28.0,240.0,9.0
+34,Protein (g),Calories,Satiety,10.0,80.0,5.0,8.0,70.0,4.0
+35,Protein (g),Calories,Satiety,28.0,220.0,9.0,25.0,200.0,8.0
+36,Protein (g),Calories,Satiety,18.0,130.0,7.0,16.0,120.0,6.0
+37,Protein (g),Calories,Satiety,22.0,180.0,8.0,20.0,160.0,7.0
+38,Protein (g),Calories,Satiety,27.0,230.0,9.0,25.0,210.0,8.0
+39,Protein (g),Calories,Satiety,19.0,140.0,7.0,17.0,130.0,6.0
+40,Distance (miles),Speed (mph),Travel Time (min),10.0,60.0,10.0,12.0,50.0,14.0
+41,Distance (miles),Speed (mph),Travel Time (min),20.0,70.0,17.0,25.0,60.0,25.0
+42,Distance (miles),Speed (mph),Travel Time (min),15.0,50.0,18.0,18.0,45.0,24.0
+43,Distance (miles),Speed (mph),Travel Time (min),25.0,80.0,19.0,30.0,70.0,26.0
+44,Distance (miles),Speed (mph),Travel Time (min),12.0,40.0,18.0,14.0,35.0,20.0
+45,Distance (miles),Speed (mph),Travel Time (min),18.0,65.0,17.0,20.0,60.0,20.0
+46,Distance (miles),Speed (mph),Travel Time (min),22.0,55.0,24.0,24.0,50.0,29.0
+47,Distance (miles),Speed (mph),Travel Time (min),16.0,70.0,14.0,18.0,65.0,16.0
+48,Distance (miles),Speed (mph),Travel Time (min),20.0,60.0,20.0,22.0,55.0,24.0
+49,Distance (miles),Speed (mph),Travel Time (min),14.0,50.0,17.0,16.0,45.0,21.0
+50,Height (in),Weight (lbs),BMI,70.0,180.0,23.0,68.0,170.0,22.0
+51,Height (in),Weight (lbs),BMI,65.0,160.0,24.0,63.0,150.0,23.0
+52,Height (in),Weight (lbs),BMI,72.0,200.0,25.0,70.0,190.0,24.0
+53,Height (in),Weight (lbs),BMI,68.0,190.0,26.0,66.0,180.0,25.0
+54,Height (in),Weight (lbs),BMI,60.0,140.0,25.0,58.0,130.0,24.0
+55,Height (in),Weight (lbs),BMI,64.0,170.0,26.0,62.0,160.0,25.0
+56,Height (in),Weight (lbs),BMI,70.0,210.0,27.0,68.0,200.0,26.0
+57,Height (in),Weight (lbs),BMI,66.0,180.0,26.0,64.0,170.0,25.0
+58,Height (in),Weight (lbs),BMI,62.0,150.0,25.0,60.0,140.0,24.0
+59,Height (in),Weight (lbs),BMI,72.0,220.0,27.0,70.0,210.0,26.0
+60,Temperature (°F),Humidity (%),Comfort Index,75.0,30.0,78.0,70.0,35.0,74.0
+61,Temperature (°F),Humidity (%),Comfort Index,80.0,40.0,82.0,75.0,45.0,79.0
+62,Temperature (°F),Humidity (%),Comfort Index,70.0,20.0,72.0,65.0,25.0,69.0
+63,Temperature (°F),Humidity (%),Comfort Index,85.0,50.0,85.0,80.0,55.0,82.0
+64,Temperature (°F),Humidity (%),Comfort Index,65.0,15.0,68.0,60.0,20.0,65.0
+65,Temperature (°F),Humidity (%),Comfort Index,72.0,25.0,75.0,68.0,30.0,72.0
+66,Temperature (°F),Humidity (%),Comfort Index,78.0,45.0,80.0,74.0,50.0,77.0
+67,Temperature (°F),Humidity (%),Comfort Index,68.0,20.0,70.0,64.0,25.0,67.0
+68,Temperature (°F),Humidity (%),Comfort Index,82.0,60.0,86.0,78.0,65.0,83.0
+69,Temperature (°F),Humidity (%),Comfort Index,70.0,35.0,73.0,66.0,40.0,70.0
+70,Age (years),Mileage (miles),Car Value ($),5.0,50000.0,15000.0,6.0,60000.0,14000.0
+71,Age (years),Mileage (miles),Car Value ($),3.0,30000.0,20000.0,4.0,40000.0,18000.0
+72,Age (years),Mileage (miles),Car Value ($),7.0,70000.0,12000.0,8.0,80000.0,11000.0
+73,Age (years),Mileage (miles),Car Value ($),2.0,20000.0,25000.0,3.0,30000.0,23000.0
+74,Age (years),Mileage (miles),Car Value ($),4.0,45000.0,17000.0,5.0,55000.0,15000.0
+75,Age (years),Mileage (miles),Car Value ($),6.0,65000.0,13000.0,7.0,75000.0,12000.0
+76,Age (years),Mileage (miles),Car Value ($),1.0,10000.0,30000.0,2.0,20000.0,28000.0
+77,Age (years),Mileage (miles),Car Value ($),8.0,85000.0,10000.0,9.0,95000.0,9000.0
+78,Age (years),Mileage (miles),Car Value ($),5.0,55000.0,14000.0,6.0,65000.0,13000.0
+79,Age (years),Mileage (miles),Car Value ($),3.0,35000.0,19000.0,4.0,45000.0,17000.0
+80,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.5,30.0,8.0,6.1,25.0,7.0
+81,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.7,35.0,9.0,6.3,30.0,8.0
+82,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.1,20.0,7.0,5.8,18.0,6.0
+83,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.8,40.0,9.0,6.5,35.0,8.0
+84,Screen Size (inches),Battery Life (hours),Phone Satisfaction,5.5,25.0,7.0,5.2,20.0,6.0
+85,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.6,32.0,8.0,6.3,28.0,7.0
+86,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.4,30.0,8.0,6.0,26.0,7.0
+87,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.9,38.0,9.0,6.6,34.0,8.0
+88,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.2,28.0,7.0,5.9,24.0,6.0
+89,Screen Size (inches),Battery Life (hours),Phone Satisfaction,6.5,33.0,8.0,6.2,29.0,7.0
+90,Room Size (sq ft),Noise Level (dB),Comfort Rating,200.0,40.0,8.0,180.0,45.0,7.0
+91,Room Size (sq ft),Noise Level (dB),Comfort Rating,250.0,35.0,9.0,230.0,40.0,8.0
+92,Room Size (sq ft),Noise Level (dB),Comfort Rating,150.0,50.0,6.0,130.0,55.0,5.0
+93,Room Size (sq ft),Noise Level (dB),Comfort Rating,300.0,30.0,9.0,280.0,35.0,8.0
+94,Room Size (sq ft),Noise Level (dB),Comfort Rating,180.0,45.0,7.0,160.0,50.0,6.0
+95,Room Size (sq ft),Noise Level (dB),Comfort Rating,220.0,38.0,8.0,200.0,43.0,7.0
+96,Room Size (sq ft),Noise Level (dB),Comfort Rating,240.0,36.0,8.0,220.0,41.0,7.0
+97,Room Size (sq ft),Noise Level (dB),Comfort Rating,260.0,32.0,9.0,240.0,37.0,8.0
+98,Room Size (sq ft),Noise Level (dB),Comfort Rating,190.0,47.0,7.0,170.0,52.0,6.0
+99,Room Size (sq ft),Noise Level (dB),Comfort Rating,210.0,39.0,8.0,190.0,44.0,7.0
+100,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),4000.0,6.1,24.0,3000.0,6.5,20.0
+101,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),5000.0,6.2,28.0,4500.0,6.8,26.0
+102,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),3500.0,5.8,18.0,4000.0,6.0,22.0
+103,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),4200.0,6.3,25.0,4400.0,6.1,26.0
+104,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),3800.0,6.5,23.0,3900.0,6.3,24.0
+105,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),4100.0,6.0,24.0,4000.0,6.6,25.0
+106,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),4800.0,6.4,29.0,4700.0,6.7,28.0
+107,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),3700.0,6.2,21.0,3600.0,6.5,20.0
+108,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),5100.0,6.3,30.0,5000.0,6.5,29.0
+109,Phone battery capacity (mAh),Screen size (inches),Phone battery life (hours),4500.0,6.4,26.0,4600.0,6.2,27.0
+110,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),250.0,1500.0,6.0,300.0,1800.0,5.8
+111,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),320.0,1600.0,5.5,350.0,1900.0,5.3
+112,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),200.0,1400.0,6.8,220.0,1600.0,6.5
+113,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),280.0,1700.0,6.1,300.0,1800.0,5.9
+114,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),240.0,1300.0,6.3,230.0,1500.0,6.5
+115,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),310.0,1800.0,5.7,330.0,1900.0,5.6
+116,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),260.0,1500.0,6.2,270.0,1600.0,6.1
+117,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),290.0,1700.0,5.9,310.0,1800.0,5.8
+118,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),340.0,1900.0,5.4,360.0,2000.0,5.3
+119,Car engine power (hp),Car weight (kg),Car acceleration (0-60 mph in seconds),270.0,1400.0,6.4,280.0,1500.0,6.3
+120,Number of bedrooms,House size (sq ft),House price ($),3.0,1500.0,250000.0,4.0,1600.0,300000.0
+121,Number of bedrooms,House size (sq ft),House price ($),4.0,1800.0,350000.0,5.0,1700.0,380000.0
+122,Number of bedrooms,House size (sq ft),House price ($),2.0,1200.0,200000.0,3.0,1400.0,240000.0
+123,Number of bedrooms,House size (sq ft),House price ($),5.0,2000.0,400000.0,4.0,2200.0,390000.0
+124,Number of bedrooms,House size (sq ft),House price ($),3.0,1600.0,260000.0,4.0,1700.0,290000.0
+125,Number of bedrooms,House size (sq ft),House price ($),4.0,1900.0,360000.0,5.0,2000.0,410000.0
+126,Number of bedrooms,House size (sq ft),House price ($),2.0,1300.0,210000.0,3.0,1400.0,230000.0
+127,Number of bedrooms,House size (sq ft),House price ($),5.0,2100.0,420000.0,4.0,2000.0,380000.0
+128,Number of bedrooms,House size (sq ft),House price ($),3.0,1700.0,270000.0,4.0,1800.0,310000.0
+129,Number of bedrooms,House size (sq ft),House price ($),4.0,1600.0,320000.0,5.0,1700.0,360000.0
+130,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),8.0,20.0,15.0,7.0,30.0,16.0
+131,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),9.0,25.0,14.0,10.0,22.0,13.0
+132,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),7.0,18.0,17.0,8.0,20.0,16.0
+133,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),10.0,28.0,12.0,9.0,30.0,13.0
+134,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),8.0,22.0,15.0,7.0,24.0,16.0
+135,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),9.0,26.0,14.0,10.0,27.0,13.0
+136,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),7.0,19.0,17.0,8.0,21.0,16.0
+137,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),10.0,30.0,12.0,9.0,28.0,13.0
+138,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),8.0,24.0,15.0,9.0,25.0,14.0
+139,Speed of runner (mph),Distance trained (miles/week),Race time (minutes),9.0,23.0,14.0,10.0,24.0,13.0
+140,Study time (hours/week),Number of subjects studied,Exam score (%),10.0,3.0,75.0,12.0,4.0,80.0
+141,Study time (hours/week),Number of subjects studied,Exam score (%),8.0,2.0,70.0,9.0,3.0,73.0
+142,Study time (hours/week),Number of subjects studied,Exam score (%),12.0,4.0,82.0,14.0,5.0,85.0
+143,Study time (hours/week),Number of subjects studied,Exam score (%),6.0,1.0,60.0,7.0,2.0,65.0
+144,Study time (hours/week),Number of subjects studied,Exam score (%),9.0,3.0,72.0,10.0,4.0,76.0
+145,Study time (hours/week),Number of subjects studied,Exam score (%),11.0,4.0,78.0,13.0,5.0,83.0
+146,Study time (hours/week),Number of subjects studied,Exam score (%),7.0,2.0,65.0,8.0,3.0,70.0
+147,Study time (hours/week),Number of subjects studied,Exam score (%),13.0,5.0,86.0,15.0,6.0,88.0
+148,Study time (hours/week),Number of subjects studied,Exam score (%),10.0,3.0,74.0,11.0,4.0,77.0
+149,Study time (hours/week),Number of subjects studied,Exam score (%),8.0,2.0,68.0,9.0,3.0,71.0
+150,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),2.0,30.0,5.0,3.0,28.0,6.0
+151,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),3.0,35.0,7.0,4.0,33.0,8.0
+152,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),1.0,25.0,3.0,2.0,27.0,4.0
+153,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),4.0,40.0,9.0,5.0,38.0,10.0
+154,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),2.0,32.0,5.0,3.0,30.0,6.0
+155,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),3.0,37.0,8.0,4.0,35.0,9.0
+156,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),1.0,26.0,3.0,2.0,28.0,4.0
+157,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),4.0,42.0,10.0,5.0,40.0,11.0
+158,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),2.0,34.0,6.0,3.0,32.0,7.0
+159,Amount of fertilizer (kg),Plant size (cm),Plant yield (kg),3.0,39.0,9.0,4.0,37.0,10.0
+160,Number of reviews,Rating (stars),Product popularity,100.0,4.5,80.0,200.0,4.3,90.0
+161,Number of reviews,Rating (stars),Product popularity,150.0,4.2,85.0,300.0,4.0,95.0
+162,Number of reviews,Rating (stars),Product popularity,50.0,4.7,70.0,100.0,4.6,75.0
+163,Number of reviews,Rating (stars),Product popularity,200.0,4.4,88.0,400.0,4.1,93.0
+164,Number of reviews,Rating (stars),Product popularity,120.0,4.6,82.0,240.0,4.5,87.0
+165,Number of reviews,Rating (stars),Product popularity,80.0,4.8,75.0,160.0,4.7,80.0
+166,Number of reviews,Rating (stars),Product popularity,180.0,4.3,86.0,360.0,4.2,92.0
+167,Number of reviews,Rating (stars),Product popularity,130.0,4.5,83.0,260.0,4.4,88.0
+168,Number of reviews,Rating (stars),Product popularity,90.0,4.7,78.0,180.0,4.6,84.0
+169,Number of reviews,Rating (stars),Product popularity,250.0,4.4,90.0,500.0,4.0,96.0
+170,Engine size (cc),Fuel efficiency (mpg),Car cost ($),2000.0,25.0,30000.0,2500.0,20.0,35000.0
+171,Engine size (cc),Fuel efficiency (mpg),Car cost ($),1800.0,30.0,28000.0,2200.0,25.0,32000.0
+172,Engine size (cc),Fuel efficiency (mpg),Car cost ($),2200.0,22.0,33000.0,2600.0,18.0,37000.0
+173,Engine size (cc),Fuel efficiency (mpg),Car cost ($),1600.0,35.0,25000.0,1900.0,30.0,29000.0
+174,Engine size (cc),Fuel efficiency (mpg),Car cost ($),2400.0,20.0,34000.0,2800.0,16.0,38000.0
+175,Engine size (cc),Fuel efficiency (mpg),Car cost ($),1900.0,28.0,29000.0,2300.0,24.0,33000.0
+176,Engine size (cc),Fuel efficiency (mpg),Car cost ($),2100.0,23.0,31000.0,2500.0,19.0,36000.0
+177,Engine size (cc),Fuel efficiency (mpg),Car cost ($),1700.0,32.0,26000.0,2000.0,27.0,30000.0
+178,Engine size (cc),Fuel efficiency (mpg),Car cost ($),2300.0,21.0,33000.0,2700.0,17.0,37000.0
+179,Engine size (cc),Fuel efficiency (mpg),Car cost ($),1800.0,29.0,28000.0,2200.0,25.0,32000.0
+180,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),30.0,5.0,7.0,40.0,6.0,8.0
+181,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),25.0,4.0,6.0,35.0,5.0,7.0
+182,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),45.0,7.0,9.0,50.0,8.0,10.0
+183,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),20.0,3.0,5.0,30.0,4.0,6.0
+184,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),35.0,6.0,8.0,45.0,7.0,9.0
+185,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),28.0,5.0,7.0,38.0,6.0,8.0
+186,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),40.0,8.0,9.0,50.0,9.0,10.0
+187,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),22.0,4.0,6.0,32.0,5.0,7.0
+188,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),37.0,7.0,8.0,47.0,8.0,9.0
+189,Time spent cooking (minutes),Number of ingredients,Taste rating (1-10),26.0,5.0,6.0,36.0,6.0,7.0
+190,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),5.0,6.0,10.0,7.0,8.0,12.0
+191,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),4.0,5.0,8.0,6.0,7.0,10.0
+192,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),6.0,7.0,11.0,8.0,9.0,13.0
+193,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),3.0,4.0,6.0,5.0,6.0,8.0
+194,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),5.0,6.0,10.0,6.0,7.0,11.0
+195,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),4.0,5.0,8.0,5.0,6.0,9.0
+196,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),7.0,8.0,12.0,9.0,10.0,14.0
+197,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),3.0,4.0,6.0,4.0,5.0,7.0
+198,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),6.0,7.0,11.0,7.0,8.0,12.0
+199,Amount of water (liters),Sunlight (hours/day),Garden growth (cm/week),5.0,6.0,10.0,7.0,7.0,11.0
+200,Car Horsepower,Car Weight,Car Speed,300.0,2000.0,120.0,200.0,1800.0,100.0
+201,Car Horsepower,Car Weight,Car Speed,350.0,2200.0,130.0,250.0,2000.0,110.0
+202,Car Horsepower,Car Weight,Car Speed,400.0,2400.0,140.0,300.0,2200.0,120.0
+203,Car Horsepower,Car Weight,Car Speed,450.0,2600.0,150.0,350.0,2400.0,130.0
+204,Car Horsepower,Car Weight,Car Speed,500.0,2800.0,160.0,400.0,2600.0,140.0
+205,Car Horsepower,Car Weight,Car Speed,550.0,3000.0,170.0,450.0,2800.0,150.0
+206,Car Horsepower,Car Weight,Car Speed,600.0,3200.0,180.0,500.0,3000.0,160.0
+207,Car Horsepower,Car Weight,Car Speed,650.0,3400.0,190.0,550.0,3200.0,170.0
+208,Car Horsepower,Car Weight,Car Speed,700.0,3600.0,200.0,600.0,3400.0,180.0
+209,Car Horsepower,Car Weight,Car Speed,750.0,3800.0,210.0,650.0,3600.0,190.0
+210,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,5000.0,6.5,24.0,4000.0,6.0,20.0
+211,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,6000.0,7.0,28.0,5000.0,6.5,24.0
+212,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,7000.0,7.5,32.0,6000.0,7.0,28.0
+213,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,8000.0,8.0,36.0,7000.0,7.5,32.0
+214,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,9000.0,8.5,40.0,8000.0,8.0,36.0
+215,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,10000.0,9.0,44.0,9000.0,8.5,40.0
+216,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,11000.0,9.5,48.0,10000.0,9.0,44.0
+217,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,12000.0,10.0,52.0,11000.0,9.5,48.0
+218,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,13000.0,10.5,56.0,12000.0,10.0,52.0
+219,Phone Battery Capacity,Phone Screen Size,Phone Usage Time,14000.0,11.0,60.0,13000.0,10.5,56.0
+220,Meal Calories,Meal Protein (g),Meal Energy Boost,500.0,20.0,40.0,400.0,18.0,35.0
+221,Meal Calories,Meal Protein (g),Meal Energy Boost,600.0,25.0,45.0,500.0,22.0,40.0
+222,Meal Calories,Meal Protein (g),Meal Energy Boost,700.0,30.0,50.0,600.0,26.0,45.0
+223,Meal Calories,Meal Protein (g),Meal Energy Boost,800.0,35.0,55.0,700.0,30.0,50.0
+224,Meal Calories,Meal Protein (g),Meal Energy Boost,900.0,40.0,60.0,800.0,34.0,55.0
+225,Meal Calories,Meal Protein (g),Meal Energy Boost,1000.0,45.0,65.0,900.0,38.0,60.0
+226,Meal Calories,Meal Protein (g),Meal Energy Boost,1100.0,50.0,70.0,1000.0,42.0,65.0
+227,Meal Calories,Meal Protein (g),Meal Energy Boost,1200.0,55.0,75.0,1100.0,46.0,70.0
+228,Meal Calories,Meal Protein (g),Meal Energy Boost,1300.0,60.0,80.0,1200.0,50.0,75.0
+229,Meal Calories,Meal Protein (g),Meal Energy Boost,1400.0,65.0,85.0,1300.0,54.0,80.0
+230,Book Page Count,Book Rating (1-10),Book Enjoyment,400.0,8.0,7.0,350.0,7.0,6.0
+231,Book Page Count,Book Rating (1-10),Book Enjoyment,500.0,9.0,8.0,450.0,8.0,7.0
+232,Book Page Count,Book Rating (1-10),Book Enjoyment,600.0,10.0,9.0,550.0,9.0,8.0
+233,Book Page Count,Book Rating (1-10),Book Enjoyment,700.0,7.0,7.0,650.0,8.0,8.0
+234,Book Page Count,Book Rating (1-10),Book Enjoyment,800.0,8.0,8.0,750.0,7.0,7.0
+235,Book Page Count,Book Rating (1-10),Book Enjoyment,900.0,9.0,9.0,850.0,8.0,8.0
+236,Book Page Count,Book Rating (1-10),Book Enjoyment,1000.0,10.0,10.0,950.0,9.0,9.0
+237,Book Page Count,Book Rating (1-10),Book Enjoyment,1100.0,7.0,8.0,1050.0,8.0,9.0
+238,Book Page Count,Book Rating (1-10),Book Enjoyment,1200.0,8.0,9.0,1150.0,7.0,8.0
+239,Book Page Count,Book Rating (1-10),Book Enjoyment,1300.0,9.0,10.0,1250.0,8.0,9.0
+240,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,200.0,7.0,6.0,180.0,6.0,5.0
+241,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,220.0,8.0,7.0,200.0,7.0,6.0
+242,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,240.0,9.0,8.0,220.0,8.0,7.0
+243,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,260.0,10.0,9.0,240.0,9.0,8.0
+244,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,280.0,6.0,6.0,260.0,7.0,7.0
+245,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,300.0,7.0,7.0,280.0,6.0,6.0
+246,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,320.0,8.0,8.0,300.0,7.0,7.0
+247,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,340.0,9.0,9.0,320.0,8.0,8.0
+248,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,360.0,10.0,10.0,340.0,9.0,9.0
+249,Shoe Weight (g),Shoe Cushion (1-10),Shoe Comfort,380.0,6.0,6.0,360.0,7.0,7.0
+250,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,6.0,500.0,40.0,5.0,450.0,35.0
+251,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,7.0,600.0,45.0,6.0,550.0,40.0
+252,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,8.0,700.0,50.0,7.0,650.0,45.0
+253,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,9.0,800.0,55.0,8.0,750.0,50.0
+254,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,10.0,900.0,60.0,9.0,850.0,55.0
+255,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,11.0,1000.0,65.0,10.0,950.0,60.0
+256,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,12.0,1100.0,70.0,11.0,1050.0,65.0
+257,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,13.0,1200.0,75.0,12.0,1150.0,70.0
+258,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,14.0,1300.0,80.0,13.0,1250.0,75.0
+259,Plant Sun Exposure (hours),Plant Water (ml),Plant Growth,15.0,1400.0,85.0,14.0,1350.0,80.0
+260,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,10.0,7.0,6.0,8.0,6.0,5.0
+261,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,12.0,8.0,7.0,10.0,7.0,6.0
+262,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,14.0,9.0,8.0,12.0,8.0,7.0
+263,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,16.0,10.0,9.0,14.0,9.0,8.0
+264,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,18.0,6.0,6.0,16.0,7.0,7.0
+265,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,20.0,7.0,7.0,18.0,6.0,6.0
+266,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,22.0,8.0,8.0,20.0,7.0,7.0
+267,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,24.0,9.0,9.0,22.0,8.0,8.0
+268,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,26.0,10.0,10.0,24.0,9.0,9.0
+269,Dog Weight (kg),Dog Activity Level (1-10),Dog Energy Level,28.0,6.0,6.0,26.0,7.0,7.0
+270,Bike Weight (kg),Bike Gears,Bike Speed,10.0,18.0,30.0,9.0,16.0,28.0
+271,Bike Weight (kg),Bike Gears,Bike Speed,11.0,19.0,31.0,10.0,17.0,29.0
+272,Bike Weight (kg),Bike Gears,Bike Speed,12.0,20.0,32.0,11.0,18.0,30.0
+273,Bike Weight (kg),Bike Gears,Bike Speed,13.0,21.0,33.0,12.0,19.0,31.0
+274,Bike Weight (kg),Bike Gears,Bike Speed,14.0,22.0,34.0,13.0,20.0,32.0
+275,Bike Weight (kg),Bike Gears,Bike Speed,15.0,23.0,35.0,14.0,21.0,33.0
+276,Bike Weight (kg),Bike Gears,Bike Speed,16.0,24.0,36.0,15.0,22.0,34.0
+277,Bike Weight (kg),Bike Gears,Bike Speed,17.0,25.0,37.0,16.0,23.0,35.0
+278,Bike Weight (kg),Bike Gears,Bike Speed,18.0,26.0,38.0,17.0,24.0,36.0
+279,Bike Weight (kg),Bike Gears,Bike Speed,19.0,27.0,39.0,18.0,25.0,37.0
+280,Room Size (sq.m),Room Windows,Room Brightness,20.0,3.0,7.0,18.0,2.0,6.0
+281,Room Size (sq.m),Room Windows,Room Brightness,22.0,4.0,8.0,20.0,3.0,7.0
+282,Room Size (sq.m),Room Windows,Room Brightness,24.0,5.0,9.0,22.0,4.0,8.0
+283,Room Size (sq.m),Room Windows,Room Brightness,26.0,6.0,10.0,24.0,5.0,9.0
+284,Room Size (sq.m),Room Windows,Room Brightness,28.0,2.0,6.0,26.0,3.0,7.0
+285,Room Size (sq.m),Room Windows,Room Brightness,30.0,3.0,7.0,28.0,2.0,6.0
+286,Room Size (sq.m),Room Windows,Room Brightness,32.0,4.0,8.0,30.0,3.0,7.0
+287,Room Size (sq.m),Room Windows,Room Brightness,34.0,5.0,9.0,32.0,4.0,8.0
+288,Room Size (sq.m),Room Windows,Room Brightness,36.0,6.0,10.0,34.0,5.0,9.0
+289,Room Size (sq.m),Room Windows,Room Brightness,38.0,2.0,6.0,36.0,3.0,7.0
+290,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,40.0,80.0,6.0,35.0,75.0,5.0
+291,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,45.0,85.0,7.0,40.0,80.0,6.0
+292,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,50.0,90.0,8.0,45.0,85.0,7.0
+293,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,55.0,95.0,9.0,50.0,90.0,8.0
+294,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,60.0,70.0,5.0,55.0,75.0,6.0
+295,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,65.0,75.0,6.0,60.0,70.0,5.0
+296,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,70.0,80.0,7.0,65.0,75.0,6.0
+297,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,75.0,85.0,8.0,70.0,80.0,7.0
+298,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,80.0,90.0,9.0,75.0,85.0,8.0
+299,Tea Caffeine (mg),Tea Temperature (Celsius),Tea Effectiveness,85.0,95.0,10.0,80.0,90.0,9.0
+300,Speed,Mileage,Time to Destination,60.0,150.0,2.5,50.0,200.0,3.0
+301,Speed,Mileage,Time to Destination,40.0,100.0,5.0,30.0,120.0,6.0
+302,Speed,Mileage,Time to Destination,70.0,100.0,1.4,80.0,90.0,1.1
+303,Speed,Mileage,Time to Destination,30.0,150.0,5.0,50.0,120.0,3.0
+304,Speed,Mileage,Time to Destination,60.0,200.0,2.0,70.0,180.0,1.8
+305,Speed,Mileage,Time to Destination,50.0,120.0,3.0,40.0,140.0,3.5
+306,Speed,Mileage,Time to Destination,80.0,100.0,1.25,70.0,120.0,1.7
+307,Speed,Mileage,Time to Destination,45.0,130.0,3.0,55.0,110.0,2.7
+308,Speed,Mileage,Time to Destination,65.0,140.0,2.2,75.0,130.0,1.9
+309,Speed,Mileage,Time to Destination,35.0,110.0,4.0,45.0,100.0,3.6
+310,Cooking Time,Portion Size,Time to Prepare,20.0,2.0,25.0,25.0,1.0,28.0
+311,Cooking Time,Portion Size,Time to Prepare,15.0,3.0,20.0,10.0,4.0,22.0
+312,Cooking Time,Portion Size,Time to Prepare,30.0,1.0,35.0,25.0,2.0,32.0
+313,Cooking Time,Portion Size,Time to Prepare,25.0,2.0,30.0,30.0,1.0,35.0
+314,Cooking Time,Portion Size,Time to Prepare,10.0,4.0,18.0,15.0,3.0,20.0
+315,Cooking Time,Portion Size,Time to Prepare,18.0,2.0,22.0,20.0,1.0,24.0
+316,Cooking Time,Portion Size,Time to Prepare,22.0,3.0,27.0,18.0,4.0,26.0
+317,Cooking Time,Portion Size,Time to Prepare,27.0,1.0,30.0,25.0,2.0,29.0
+318,Cooking Time,Portion Size,Time to Prepare,30.0,2.0,34.0,28.0,3.0,33.0
+319,Cooking Time,Portion Size,Time to Prepare,15.0,4.0,20.0,12.0,5.0,22.0
+320,Battery Capacity,Screen Size,Battery Life,5000.0,6.5,15.0,4500.0,6.7,14.0
+321,Battery Capacity,Screen Size,Battery Life,4000.0,5.8,12.0,4200.0,5.5,13.0
+322,Battery Capacity,Screen Size,Battery Life,5500.0,6.1,16.0,5300.0,6.3,15.0
+323,Battery Capacity,Screen Size,Battery Life,3500.0,6.0,10.0,3700.0,5.8,11.0
+324,Battery Capacity,Screen Size,Battery Life,4800.0,5.9,14.0,4600.0,6.1,13.0
+325,Battery Capacity,Screen Size,Battery Life,5200.0,6.4,16.0,5000.0,6.6,15.0
+326,Battery Capacity,Screen Size,Battery Life,3800.0,5.7,11.0,3900.0,5.9,12.0
+327,Battery Capacity,Screen Size,Battery Life,5100.0,6.2,15.0,5300.0,6.0,16.0
+328,Battery Capacity,Screen Size,Battery Life,4700.0,6.3,14.0,4500.0,6.5,13.0
+329,Battery Capacity,Screen Size,Battery Life,4900.0,5.8,14.0,5000.0,5.6,15.0
+330,Study Time,Difficulty Level,Score,3.0,5.0,70.0,4.0,7.0,75.0
+331,Study Time,Difficulty Level,Score,2.0,6.0,65.0,3.0,5.0,70.0
+332,Study Time,Difficulty Level,Score,5.0,4.0,80.0,4.0,6.0,75.0
+333,Study Time,Difficulty Level,Score,3.0,7.0,65.0,2.0,8.0,60.0
+334,Study Time,Difficulty Level,Score,4.0,5.0,75.0,5.0,4.0,80.0
+335,Study Time,Difficulty Level,Score,2.0,4.0,70.0,3.0,3.0,75.0
+336,Study Time,Difficulty Level,Score,5.0,6.0,70.0,4.0,5.0,75.0
+337,Study Time,Difficulty Level,Score,3.0,3.0,75.0,2.0,4.0,70.0
+338,Study Time,Difficulty Level,Score,4.0,7.0,65.0,3.0,6.0,70.0
+339,Study Time,Difficulty Level,Score,5.0,5.0,75.0,4.0,6.0,72.0
+340,Engine Size,Weight,Fuel Efficiency,2.0,2000.0,30.0,2.5,2200.0,25.0
+341,Engine Size,Weight,Fuel Efficiency,1.8,1900.0,35.0,2.0,2100.0,30.0
+342,Engine Size,Weight,Fuel Efficiency,3.0,2500.0,20.0,2.8,2400.0,22.0
+343,Engine Size,Weight,Fuel Efficiency,1.6,1800.0,40.0,1.7,2000.0,35.0
+344,Engine Size,Weight,Fuel Efficiency,2.2,2100.0,28.0,2.0,2000.0,30.0
+345,Engine Size,Weight,Fuel Efficiency,2.5,2300.0,24.0,2.4,2200.0,25.0
+346,Engine Size,Weight,Fuel Efficiency,1.5,1700.0,45.0,1.6,1900.0,40.0
+347,Engine Size,Weight,Fuel Efficiency,2.8,2400.0,21.0,3.0,2500.0,20.0
+348,Engine Size,Weight,Fuel Efficiency,2.0,2000.0,30.0,2.2,2100.0,28.0
+349,Engine Size,Weight,Fuel Efficiency,1.8,1900.0,35.0,2.0,2000.0,32.0
+350,Room Size,Number of People,Comfort,30.0,2.0,8.0,25.0,3.0,6.0
+351,Room Size,Number of People,Comfort,20.0,4.0,5.0,25.0,3.0,6.0
+352,Room Size,Number of People,Comfort,40.0,2.0,9.0,35.0,3.0,7.0
+353,Room Size,Number of People,Comfort,25.0,3.0,7.0,30.0,2.0,8.0
+354,Room Size,Number of People,Comfort,30.0,4.0,6.0,35.0,3.0,7.0
+355,Room Size,Number of People,Comfort,20.0,2.0,8.0,25.0,1.0,9.0
+356,Room Size,Number of People,Comfort,40.0,3.0,7.0,35.0,4.0,6.0
+357,Room Size,Number of People,Comfort,35.0,2.0,8.0,30.0,3.0,7.0
+358,Room Size,Number of People,Comfort,25.0,4.0,5.0,20.0,5.0,4.0
+359,Room Size,Number of People,Comfort,30.0,3.0,7.0,35.0,2.0,8.0
+360,Age of Tree,Tree Height,Fruit Yield,10.0,15.0,100.0,12.0,14.0,110.0
+361,Age of Tree,Tree Height,Fruit Yield,8.0,12.0,80.0,10.0,13.0,90.0
+362,Age of Tree,Tree Height,Fruit Yield,15.0,18.0,150.0,14.0,17.0,140.0
+363,Age of Tree,Tree Height,Fruit Yield,6.0,10.0,60.0,8.0,11.0,70.0
+364,Age of Tree,Tree Height,Fruit Yield,12.0,16.0,120.0,13.0,15.0,130.0
+365,Age of Tree,Tree Height,Fruit Yield,10.0,14.0,100.0,11.0,13.0,105.0
+366,Age of Tree,Tree Height,Fruit Yield,14.0,17.0,140.0,15.0,16.0,150.0
+367,Age of Tree,Tree Height,Fruit Yield,9.0,11.0,85.0,10.0,12.0,95.0
+368,Age of Tree,Tree Height,Fruit Yield,13.0,15.0,130.0,14.0,14.0,140.0
+369,Age of Tree,Tree Height,Fruit Yield,7.0,13.0,75.0,9.0,12.0,85.0
+370,Book Length,Number of References,Knowledge Content,300.0,10.0,70.0,350.0,8.0,75.0
+371,Book Length,Number of References,Knowledge Content,250.0,15.0,75.0,300.0,12.0,78.0
+372,Book Length,Number of References,Knowledge Content,400.0,5.0,60.0,350.0,10.0,70.0
+373,Book Length,Number of References,Knowledge Content,200.0,20.0,70.0,250.0,18.0,72.0
+374,Book Length,Number of References,Knowledge Content,350.0,12.0,75.0,400.0,10.0,73.0
+375,Book Length,Number of References,Knowledge Content,250.0,10.0,70.0,280.0,12.0,72.0
+376,Book Length,Number of References,Knowledge Content,400.0,15.0,78.0,380.0,14.0,77.0
+377,Book Length,Number of References,Knowledge Content,300.0,8.0,70.0,320.0,10.0,72.0
+378,Book Length,Number of References,Knowledge Content,280.0,14.0,75.0,300.0,12.0,74.0
+379,Book Length,Number of References,Knowledge Content,320.0,12.0,74.0,340.0,10.0,73.0
+380,Coffee Strength,Amount of Coffee,Effectiveness,5.0,20.0,80.0,4.0,25.0,85.0
+381,Coffee Strength,Amount of Coffee,Effectiveness,3.0,25.0,70.0,5.0,20.0,80.0
+382,Coffee Strength,Amount of Coffee,Effectiveness,6.0,15.0,75.0,5.0,20.0,80.0
+383,Coffee Strength,Amount of Coffee,Effectiveness,4.0,30.0,85.0,3.0,25.0,75.0
+384,Coffee Strength,Amount of Coffee,Effectiveness,5.0,18.0,78.0,6.0,15.0,75.0
+385,Coffee Strength,Amount of Coffee,Effectiveness,3.0,20.0,70.0,4.0,25.0,80.0
+386,Coffee Strength,Amount of Coffee,Effectiveness,6.0,25.0,90.0,5.0,30.0,88.0
+387,Coffee Strength,Amount of Coffee,Effectiveness,4.0,22.0,78.0,5.0,20.0,80.0
+388,Coffee Strength,Amount of Coffee,Effectiveness,5.0,25.0,85.0,4.0,30.0,87.0
+389,Coffee Strength,Amount of Coffee,Effectiveness,3.0,28.0,75.0,4.0,25.0,80.0
+390,House Size,Number of Rooms,Market Price,1500.0,3.0,300000.0,1600.0,2.0,280000.0
+391,House Size,Number of Rooms,Market Price,1400.0,4.0,320000.0,1500.0,3.0,300000.0
+392,House Size,Number of Rooms,Market Price,1800.0,2.0,310000.0,1700.0,3.0,330000.0
+393,House Size,Number of Rooms,Market Price,1300.0,5.0,350000.0,1400.0,4.0,320000.0
+394,House Size,Number of Rooms,Market Price,1600.0,3.0,310000.0,1700.0,2.0,290000.0
+395,House Size,Number of Rooms,Market Price,1500.0,4.0,330000.0,1600.0,3.0,310000.0
+396,House Size,Number of Rooms,Market Price,1700.0,2.0,300000.0,1800.0,3.0,320000.0
+397,House Size,Number of Rooms,Market Price,1400.0,3.0,300000.0,1500.0,4.0,320000.0
+398,House Size,Number of Rooms,Market Price,1600.0,5.0,360000.0,1500.0,4.0,340000.0
+399,House Size,Number of Rooms,Market Price,1300.0,3.0,290000.0,1400.0,4.0,310000.0
+400,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),60.0,1500.0,35.0,80.0,1800.0,25.0
+401,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),50.0,1400.0,40.0,70.0,1700.0,28.0
+402,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),70.0,1600.0,30.0,90.0,1900.0,22.0
+403,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),45.0,1300.0,45.0,65.0,1600.0,32.0
+404,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),65.0,1550.0,33.0,85.0,1850.0,24.0
+405,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),55.0,1450.0,38.0,75.0,1750.0,27.0
+406,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),40.0,1200.0,50.0,60.0,1500.0,36.0
+407,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),58.0,1520.0,34.0,78.0,1820.0,26.0
+408,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),62.0,1580.0,32.0,82.0,1880.0,23.0
+409,Speed (mph),Engine Size (cc),Fuel Efficiency (miles per gallon),53.0,1430.0,39.0,73.0,1730.0,28.0
+410,Height (cm),Weight (kg),BMI,170.0,60.0,20.8,180.0,70.0,21.6
+411,Height (cm),Weight (kg),BMI,160.0,55.0,21.5,175.0,65.0,21.2
+412,Height (cm),Weight (kg),BMI,175.0,75.0,24.9,165.0,68.0,24.7
+413,Height (cm),Weight (kg),BMI,165.0,60.0,22.0,170.0,65.0,22.0
+414,Height (cm),Weight (kg),BMI,180.0,80.0,24.7,190.0,90.0,24.9
+415,Height (cm),Weight (kg),BMI,155.0,50.0,21.0,160.0,55.0,21.9
+416,Height (cm),Weight (kg),BMI,170.0,70.0,24.2,160.0,75.0,29.3
+417,Height (cm),Weight (kg),BMI,185.0,78.0,22.9,195.0,85.0,22.6
+418,Height (cm),Weight (kg),BMI,160.0,60.0,23.4,170.0,65.0,22.6
+419,Height (cm),Weight (kg),BMI,175.0,70.0,22.9,185.0,75.0,22.4
+420,Study Time (hours),Intelligence (IQ score),Test Score,5.0,110.0,78.0,7.0,100.0,75.0
+421,Study Time (hours),Intelligence (IQ score),Test Score,4.0,120.0,85.0,6.0,110.0,82.0
+422,Study Time (hours),Intelligence (IQ score),Test Score,6.0,100.0,75.0,8.0,110.0,78.0
+423,Study Time (hours),Intelligence (IQ score),Test Score,3.0,115.0,80.0,5.0,105.0,77.0
+424,Study Time (hours),Intelligence (IQ score),Test Score,7.0,105.0,80.0,9.0,115.0,82.0
+425,Study Time (hours),Intelligence (IQ score),Test Score,2.0,125.0,88.0,4.0,115.0,85.0
+426,Study Time (hours),Intelligence (IQ score),Test Score,5.0,112.0,82.0,7.0,102.0,79.0
+427,Study Time (hours),Intelligence (IQ score),Test Score,6.0,108.0,76.0,8.0,118.0,80.0
+428,Study Time (hours),Intelligence (IQ score),Test Score,4.0,117.0,84.0,6.0,107.0,81.0
+429,Study Time (hours),Intelligence (IQ score),Test Score,7.0,109.0,79.0,9.0,119.0,83.0
+430,Distance (km),Speed (km/h),Travel Time (minutes),10.0,40.0,15.0,15.0,60.0,15.0
+431,Distance (km),Speed (km/h),Travel Time (minutes),12.0,30.0,24.0,18.0,45.0,24.0
+432,Distance (km),Speed (km/h),Travel Time (minutes),20.0,50.0,24.0,30.0,75.0,24.0
+433,Distance (km),Speed (km/h),Travel Time (minutes),15.0,45.0,20.0,22.5,67.5,20.0
+434,Distance (km),Speed (km/h),Travel Time (minutes),8.0,20.0,24.0,12.0,30.0,24.0
+435,Distance (km),Speed (km/h),Travel Time (minutes),18.0,36.0,30.0,27.0,54.0,30.0
+436,Distance (km),Speed (km/h),Travel Time (minutes),10.0,25.0,24.0,15.0,37.5,24.0
+437,Distance (km),Speed (km/h),Travel Time (minutes),14.0,35.0,24.0,21.0,52.5,24.0
+438,Distance (km),Speed (km/h),Travel Time (minutes),16.0,40.0,24.0,24.0,60.0,24.0
+439,Distance (km),Speed (km/h),Travel Time (minutes),12.0,30.0,24.0,18.0,45.0,24.0
+440,Experience (years),Training Hours,Job Performance Score,5.0,100.0,85.0,10.0,80.0,88.0
+441,Experience (years),Training Hours,Job Performance Score,3.0,120.0,88.0,8.0,90.0,90.0
+442,Experience (years),Training Hours,Job Performance Score,7.0,90.0,87.0,12.0,70.0,89.0
+443,Experience (years),Training Hours,Job Performance Score,2.0,110.0,86.0,6.0,80.0,87.0
+444,Experience (years),Training Hours,Job Performance Score,4.0,105.0,86.0,9.0,75.0,88.0
+445,Experience (years),Training Hours,Job Performance Score,6.0,95.0,85.0,11.0,65.0,87.0
+446,Experience (years),Training Hours,Job Performance Score,1.0,130.0,84.0,5.0,85.0,86.0
+447,Experience (years),Training Hours,Job Performance Score,8.0,100.0,88.0,13.0,70.0,89.0
+448,Experience (years),Training Hours,Job Performance Score,10.0,85.0,89.0,15.0,60.0,90.0
+449,Experience (years),Training Hours,Job Performance Score,2.0,125.0,85.0,7.0,75.0,87.0
+450,Price (in $),Size (in sq ft),Value per sq ft,200000.0,1500.0,133.3,300000.0,2000.0,150.0
+451,Price (in $),Size (in sq ft),Value per sq ft,250000.0,2000.0,125.0,350000.0,2500.0,140.0
+452,Price (in $),Size (in sq ft),Value per sq ft,180000.0,1200.0,150.0,270000.0,1800.0,150.0
+453,Price (in $),Size (in sq ft),Value per sq ft,220000.0,1600.0,137.5,330000.0,2200.0,150.0
+454,Price (in $),Size (in sq ft),Value per sq ft,240000.0,1800.0,133.3,360000.0,2400.0,150.0
+455,Price (in $),Size (in sq ft),Value per sq ft,160000.0,1000.0,160.0,240000.0,1500.0,160.0
+456,Price (in $),Size (in sq ft),Value per sq ft,190000.0,1400.0,135.7,285000.0,1900.0,150.0
+457,Price (in $),Size (in sq ft),Value per sq ft,210000.0,1500.0,140.0,315000.0,2100.0,150.0
+458,Price (in $),Size (in sq ft),Value per sq ft,230000.0,1600.0,143.75,345000.0,2200.0,156.8
+459,Price (in $),Size (in sq ft),Value per sq ft,200000.0,1400.0,142.9,300000.0,2100.0,142.9
+460,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,30.0,180.0,7.0,45.0,200.0,8.0
+461,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,25.0,170.0,6.0,35.0,190.0,7.0
+462,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,40.0,200.0,8.0,50.0,220.0,9.0
+463,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,35.0,190.0,7.0,45.0,210.0,8.0
+464,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,20.0,160.0,5.0,30.0,180.0,7.0
+465,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,45.0,210.0,9.0,55.0,230.0,10.0
+466,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,30.0,170.0,6.0,40.0,190.0,7.0
+467,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,50.0,220.0,9.0,60.0,240.0,10.0
+468,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,25.0,160.0,5.0,35.0,180.0,7.0
+469,Cooking Time (minutes),Oven Temperature (°C),Doneness Score,35.0,190.0,7.0,45.0,210.0,8.0
+470,Caffeine (mg),Sugar (g),Energy Boost Score,100.0,20.0,7.0,120.0,15.0,7.0
+471,Caffeine (mg),Sugar (g),Energy Boost Score,80.0,15.0,6.0,100.0,10.0,6.0
+472,Caffeine (mg),Sugar (g),Energy Boost Score,120.0,25.0,8.0,140.0,20.0,8.0
+473,Caffeine (mg),Sugar (g),Energy Boost Score,90.0,18.0,6.0,110.0,13.0,6.0
+474,Caffeine (mg),Sugar (g),Energy Boost Score,70.0,12.0,5.0,90.0,8.0,5.0
+475,Caffeine (mg),Sugar (g),Energy Boost Score,110.0,22.0,7.0,130.0,17.0,7.0
+476,Caffeine (mg),Sugar (g),Energy Boost Score,100.0,20.0,7.0,120.0,15.0,7.0
+477,Caffeine (mg),Sugar (g),Energy Boost Score,130.0,27.0,8.0,150.0,22.0,8.0
+478,Caffeine (mg),Sugar (g),Energy Boost Score,85.0,17.0,6.0,105.0,12.0,6.0
+479,Caffeine (mg),Sugar (g),Energy Boost Score,95.0,19.0,6.0,115.0,14.0,6.0
+480,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),3000.0,5.0,8.0,4000.0,6.0,10.0
+481,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),2500.0,4.0,7.0,3500.0,5.0,9.0
+482,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),3500.0,6.0,9.0,4500.0,7.0,10.0
+483,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),2800.0,4.5,7.0,3800.0,5.5,9.0
+484,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),3200.0,5.0,8.0,4200.0,6.0,10.0
+485,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),2700.0,4.0,6.0,3700.0,5.0,8.0
+486,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),3100.0,5.5,8.0,4100.0,6.5,10.0
+487,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),2900.0,4.5,7.0,3900.0,5.5,9.0
+488,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),3300.0,5.0,8.0,4300.0,6.0,10.0
+489,Battery Capacity (mAh),Screen Size (inches),Usage Time (hours),2600.0,4.0,6.0,3600.0,5.0,8.0
+490,Cooking Time (minutes),Flour (grams),Bread Rise Score,30.0,200.0,7.0,40.0,220.0,8.0
+491,Cooking Time (minutes),Flour (grams),Bread Rise Score,25.0,180.0,6.0,35.0,200.0,7.0
+492,Cooking Time (minutes),Flour (grams),Bread Rise Score,35.0,220.0,8.0,45.0,240.0,9.0
+493,Cooking Time (minutes),Flour (grams),Bread Rise Score,28.0,190.0,6.0,38.0,210.0,7.0
+494,Cooking Time (minutes),Flour (grams),Bread Rise Score,32.0,210.0,7.0,42.0,230.0,8.0
+495,Cooking Time (minutes),Flour (grams),Bread Rise Score,24.0,170.0,5.0,34.0,190.0,6.0
+496,Cooking Time (minutes),Flour (grams),Bread Rise Score,30.0,200.0,7.0,40.0,220.0,8.0
+497,Cooking Time (minutes),Flour (grams),Bread Rise Score,36.0,230.0,8.0,46.0,250.0,9.0
+498,Cooking Time (minutes),Flour (grams),Bread Rise Score,27.0,185.0,6.0,37.0,205.0,7.0
+499,Cooking Time (minutes),Flour (grams),Bread Rise Score,31.0,215.0,7.0,41.0,235.0,8.0
+500,Size (cm^2),Thickness (mm),Comfort (1-10),100.0,5.0,7.0,120.0,3.0,6.0
+501,Size (cm^2),Thickness (mm),Comfort (1-10),150.0,2.0,6.0,130.0,4.0,7.0
+502,Size (cm^2),Thickness (mm),Comfort (1-10),200.0,1.0,5.0,180.0,3.0,6.0
+503,Size (cm^2),Thickness (mm),Comfort (1-10),80.0,6.0,8.0,90.0,5.0,7.0
+504,Size (cm^2),Thickness (mm),Comfort (1-10),140.0,4.0,7.0,160.0,3.0,6.0
+505,Size (cm^2),Thickness (mm),Comfort (1-10),110.0,5.0,7.0,100.0,6.0,8.0
+506,Size (cm^2),Thickness (mm),Comfort (1-10),130.0,3.0,6.0,150.0,2.0,5.0
+507,Size (cm^2),Thickness (mm),Comfort (1-10),120.0,4.0,7.0,110.0,5.0,8.0
+508,Size (cm^2),Thickness (mm),Comfort (1-10),170.0,2.0,6.0,160.0,3.0,7.0
+509,Size (cm^2),Thickness (mm),Comfort (1-10),90.0,5.0,7.0,100.0,4.0,6.0
+510,Speed (km/h),Weight (kg),Distance Traveled (km),60.0,1000.0,12.0,70.0,1200.0,11.0
+511,Speed (km/h),Weight (kg),Distance Traveled (km),50.0,1100.0,10.0,70.0,1000.0,12.0
+512,Speed (km/h),Weight (kg),Distance Traveled (km),70.0,900.0,13.0,60.0,1000.0,12.0
+513,Speed (km/h),Weight (kg),Distance Traveled (km),65.0,1050.0,12.0,60.0,1100.0,11.0
+514,Speed (km/h),Weight (kg),Distance Traveled (km),55.0,950.0,11.0,70.0,1000.0,13.0
+515,Speed (km/h),Weight (kg),Distance Traveled (km),75.0,800.0,14.0,65.0,1000.0,12.0
+516,Speed (km/h),Weight (kg),Distance Traveled (km),60.0,1100.0,11.0,75.0,900.0,13.0
+517,Speed (km/h),Weight (kg),Distance Traveled (km),70.0,1000.0,12.0,55.0,1100.0,10.0
+518,Speed (km/h),Weight (kg),Distance Traveled (km),65.0,950.0,12.0,75.0,900.0,13.0
+519,Speed (km/h),Weight (kg),Distance Traveled (km),50.0,1200.0,10.0,60.0,1000.0,12.0
+520,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),6.5,4000.0,12.0,5.8,4500.0,13.0
+521,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),7.0,3500.0,11.0,6.8,4000.0,12.0
+522,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),6.1,5000.0,14.0,6.6,4500.0,13.0
+523,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),6.7,4200.0,12.0,6.5,4800.0,13.0
+524,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),5.5,5500.0,15.0,6.0,4500.0,12.0
+525,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),6.2,4700.0,13.0,6.4,4900.0,14.0
+526,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),6.8,4000.0,12.0,6.3,5000.0,14.0
+527,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),6.0,5200.0,14.0,6.5,4500.0,13.0
+528,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),6.9,4300.0,12.0,6.7,4800.0,13.0
+529,Screen Size (inches),Battery Capacity (mAh),Battery Life (hours),5.7,5400.0,15.0,6.1,4600.0,13.0
+530,Number of Ingredients,Preparation Time (min),Cooking Time (min),10.0,15.0,30.0,12.0,10.0,25.0
+531,Number of Ingredients,Preparation Time (min),Cooking Time (min),8.0,20.0,35.0,10.0,15.0,30.0
+532,Number of Ingredients,Preparation Time (min),Cooking Time (min),12.0,12.0,28.0,9.0,18.0,33.0
+533,Number of Ingredients,Preparation Time (min),Cooking Time (min),9.0,18.0,32.0,11.0,14.0,29.0
+534,Number of Ingredients,Preparation Time (min),Cooking Time (min),11.0,10.0,27.0,13.0,11.0,26.0
+535,Number of Ingredients,Preparation Time (min),Cooking Time (min),7.0,22.0,37.0,10.0,16.0,31.0
+536,Number of Ingredients,Preparation Time (min),Cooking Time (min),13.0,8.0,25.0,12.0,12.0,28.0
+537,Number of Ingredients,Preparation Time (min),Cooking Time (min),10.0,16.0,31.0,8.0,19.0,34.0
+538,Number of Ingredients,Preparation Time (min),Cooking Time (min),12.0,14.0,30.0,11.0,15.0,29.0
+539,Number of Ingredients,Preparation Time (min),Cooking Time (min),9.0,17.0,32.0,10.0,16.0,31.0
+540,Number of Players,Game Duration (min),Fun Score (1-10),4.0,30.0,8.0,6.0,25.0,9.0
+541,Number of Players,Game Duration (min),Fun Score (1-10),5.0,40.0,7.0,7.0,30.0,8.0
+542,Number of Players,Game Duration (min),Fun Score (1-10),6.0,20.0,9.0,4.0,35.0,7.0
+543,Number of Players,Game Duration (min),Fun Score (1-10),3.0,50.0,6.0,5.0,40.0,7.0
+544,Number of Players,Game Duration (min),Fun Score (1-10),7.0,15.0,9.0,5.0,25.0,8.0
+545,Number of Players,Game Duration (min),Fun Score (1-10),4.0,35.0,7.0,6.0,20.0,9.0
+546,Number of Players,Game Duration (min),Fun Score (1-10),5.0,45.0,6.0,3.0,55.0,5.0
+547,Number of Players,Game Duration (min),Fun Score (1-10),6.0,25.0,8.0,7.0,18.0,9.0
+548,Number of Players,Game Duration (min),Fun Score (1-10),4.0,32.0,7.0,5.0,28.0,8.0
+549,Number of Players,Game Duration (min),Fun Score (1-10),5.0,30.0,8.0,6.0,22.0,9.0
+550,Number of Channels,Power (W),Sound Quality (1-10),5.0,100.0,8.0,7.0,90.0,9.0
+551,Number of Channels,Power (W),Sound Quality (1-10),4.0,120.0,9.0,6.0,110.0,8.0
+552,Number of Channels,Power (W),Sound Quality (1-10),6.0,80.0,7.0,5.0,100.0,8.0
+553,Number of Channels,Power (W),Sound Quality (1-10),3.0,130.0,9.0,4.0,125.0,9.0
+554,Number of Channels,Power (W),Sound Quality (1-10),7.0,70.0,7.0,6.0,85.0,8.0
+555,Number of Channels,Power (W),Sound Quality (1-10),5.0,110.0,8.0,4.0,120.0,9.0
+556,Number of Channels,Power (W),Sound Quality (1-10),6.0,90.0,8.0,7.0,80.0,7.0
+557,Number of Channels,Power (W),Sound Quality (1-10),4.0,115.0,9.0,5.0,105.0,8.0
+558,Number of Channels,Power (W),Sound Quality (1-10),7.0,75.0,7.0,5.0,90.0,8.0
+559,Number of Channels,Power (W),Sound Quality (1-10),6.0,95.0,8.0,4.0,110.0,9.0
+560,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),15.0,100.0,450.0,12.0,120.0,420.0
+561,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),18.0,90.0,480.0,14.0,110.0,400.0
+562,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),12.0,130.0,390.0,16.0,100.0,500.0
+563,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),14.0,110.0,420.0,17.0,95.0,470.0
+564,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),16.0,105.0,480.0,13.0,125.0,390.0
+565,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),10.0,140.0,350.0,18.0,90.0,480.0
+566,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),17.0,95.0,510.0,15.0,110.0,450.0
+567,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),13.0,120.0,400.0,19.0,85.0,470.0
+568,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),11.0,135.0,370.0,16.0,100.0,480.0
+569,Fuel Efficiency (km/L),Engine Power (hp),Driving Range (km),19.0,80.0,500.0,14.0,115.0,420.0
+570,Number of Rooms,Square Feet,Market Value (thousands $),3.0,1200.0,300.0,4.0,1000.0,280.0
+571,Number of Rooms,Square Feet,Market Value (thousands $),4.0,1100.0,290.0,5.0,900.0,270.0
+572,Number of Rooms,Square Feet,Market Value (thousands $),2.0,1300.0,280.0,3.0,1250.0,290.0
+573,Number of Rooms,Square Feet,Market Value (thousands $),5.0,1000.0,270.0,4.0,1150.0,295.0
+574,Number of Rooms,Square Feet,Market Value (thousands $),3.0,1250.0,300.0,4.0,1100.0,290.0
+575,Number of Rooms,Square Feet,Market Value (thousands $),4.0,1050.0,285.0,5.0,950.0,275.0
+576,Number of Rooms,Square Feet,Market Value (thousands $),2.0,1400.0,270.0,3.0,1350.0,285.0
+577,Number of Rooms,Square Feet,Market Value (thousands $),5.0,950.0,270.0,4.0,1100.0,290.0
+578,Number of Rooms,Square Feet,Market Value (thousands $),3.0,1300.0,305.0,4.0,1200.0,295.0
+579,Number of Rooms,Square Feet,Market Value (thousands $),4.0,1150.0,290.0,5.0,1000.0,280.0
+580,Number of Pages,Font Size,Readability (1-10),100.0,12.0,8.0,120.0,11.0,7.0
+581,Number of Pages,Font Size,Readability (1-10),150.0,10.0,6.0,130.0,12.0,7.0
+582,Number of Pages,Font Size,Readability (1-10),200.0,14.0,9.0,180.0,13.0,8.0
+583,Number of Pages,Font Size,Readability (1-10),80.0,13.0,8.0,90.0,12.0,7.0
+584,Number of Pages,Font Size,Readability (1-10),140.0,11.0,7.0,160.0,10.0,6.0
+585,Number of Pages,Font Size,Readability (1-10),110.0,12.0,8.0,100.0,13.0,9.0
+586,Number of Pages,Font Size,Readability (1-10),130.0,10.0,6.0,150.0,11.0,7.0
+587,Number of Pages,Font Size,Readability (1-10),120.0,13.0,9.0,110.0,12.0,8.0
+588,Number of Pages,Font Size,Readability (1-10),170.0,11.0,7.0,160.0,12.0,8.0
+589,Number of Pages,Font Size,Readability (1-10),90.0,12.0,8.0,100.0,11.0,7.0
+590,Number of Calories,Protein Content (g),Health Score (1-10),300.0,10.0,7.0,350.0,15.0,8.0
+591,Number of Calories,Protein Content (g),Health Score (1-10),250.0,12.0,7.0,300.0,14.0,8.0
+592,Number of Calories,Protein Content (g),Health Score (1-10),400.0,8.0,5.0,350.0,10.0,6.0
+593,Number of Calories,Protein Content (g),Health Score (1-10),200.0,15.0,8.0,250.0,13.0,7.0
+594,Number of Calories,Protein Content (g),Health Score (1-10),320.0,11.0,7.0,330.0,12.0,7.0
+595,Number of Calories,Protein Content (g),Health Score (1-10),280.0,14.0,8.0,300.0,16.0,9.0
+596,Number of Calories,Protein Content (g),Health Score (1-10),350.0,10.0,6.0,370.0,12.0,7.0
+597,Number of Calories,Protein Content (g),Health Score (1-10),270.0,13.0,8.0,290.0,14.0,8.0
+598,Number of Calories,Protein Content (g),Health Score (1-10),310.0,9.0,6.0,320.0,11.0,7.0
+599,Number of Calories,Protein Content (g),Health Score (1-10),290.0,12.0,7.0,310.0,13.0,8.0
+600,Car Speed,Car Weight,Fuel Consumption,120.0,1500.0,8.0,100.0,1800.0,9.0
+601,Car Speed,Car Weight,Fuel Consumption,140.0,1400.0,10.0,130.0,1700.0,11.0
+602,Car Speed,Car Weight,Fuel Consumption,110.0,1600.0,7.0,120.0,1900.0,8.0
+603,Car Speed,Car Weight,Fuel Consumption,130.0,1550.0,9.0,110.0,1850.0,9.0
+604,Car Speed,Car Weight,Fuel Consumption,150.0,1450.0,11.0,140.0,1750.0,12.0
+605,Car Speed,Car Weight,Fuel Consumption,100.0,1700.0,7.0,110.0,1600.0,8.0
+606,Car Speed,Car Weight,Fuel Consumption,125.0,1500.0,9.0,135.0,1600.0,10.0
+607,Car Speed,Car Weight,Fuel Consumption,135.0,1400.0,10.0,125.0,1500.0,9.0
+608,Car Speed,Car Weight,Fuel Consumption,115.0,1650.0,8.0,125.0,1750.0,9.0
+609,Car Speed,Car Weight,Fuel Consumption,145.0,1450.0,12.0,135.0,1550.0,11.0
+610,Book Thickness,Book Pages,Book Weight,10.0,300.0,250.0,8.0,350.0,260.0
+611,Book Thickness,Book Pages,Book Weight,12.0,280.0,270.0,10.0,320.0,260.0
+612,Book Thickness,Book Pages,Book Weight,11.0,310.0,260.0,13.0,290.0,270.0
+613,Book Thickness,Book Pages,Book Weight,9.0,330.0,250.0,11.0,310.0,260.0
+614,Book Thickness,Book Pages,Book Weight,13.0,270.0,280.0,12.0,300.0,270.0
+615,Book Thickness,Book Pages,Book Weight,10.0,320.0,250.0,12.0,300.0,270.0
+616,Book Thickness,Book Pages,Book Weight,8.0,340.0,240.0,10.0,320.0,250.0
+617,Book Thickness,Book Pages,Book Weight,11.0,290.0,260.0,13.0,270.0,270.0
+618,Book Thickness,Book Pages,Book Weight,12.0,300.0,270.0,14.0,280.0,280.0
+619,Book Thickness,Book Pages,Book Weight,10.0,310.0,250.0,11.0,300.0,260.0
+620,Student Study Hours,Student Test Score,Final Grade,5.0,70.0,75.0,6.0,65.0,76.0
+621,Student Study Hours,Student Test Score,Final Grade,4.0,75.0,74.0,5.0,70.0,75.0
+622,Student Study Hours,Student Test Score,Final Grade,6.0,68.0,77.0,7.0,63.0,78.0
+623,Student Study Hours,Student Test Score,Final Grade,5.0,72.0,75.0,6.0,67.0,76.0
+624,Student Study Hours,Student Test Score,Final Grade,7.0,65.0,78.0,8.0,60.0,79.0
+625,Student Study Hours,Student Test Score,Final Grade,4.0,70.0,73.0,5.0,65.0,74.0
+626,Student Study Hours,Student Test Score,Final Grade,6.0,67.0,76.0,7.0,62.0,77.0
+627,Student Study Hours,Student Test Score,Final Grade,5.0,73.0,75.0,6.0,68.0,76.0
+628,Student Study Hours,Student Test Score,Final Grade,7.0,66.0,78.0,8.0,61.0,79.0
+629,Student Study Hours,Student Test Score,Final Grade,5.0,71.0,75.0,6.0,66.0,76.0
+630,Phone RAM,Phone Storage,Phone Performance Score,6.0,64.0,80.0,8.0,64.0,85.0
+631,Phone RAM,Phone Storage,Phone Performance Score,4.0,128.0,75.0,6.0,128.0,80.0
+632,Phone RAM,Phone Storage,Phone Performance Score,8.0,64.0,85.0,10.0,64.0,90.0
+633,Phone RAM,Phone Storage,Phone Performance Score,6.0,128.0,80.0,8.0,128.0,85.0
+634,Phone RAM,Phone Storage,Phone Performance Score,10.0,64.0,90.0,12.0,64.0,95.0
+635,Phone RAM,Phone Storage,Phone Performance Score,4.0,256.0,75.0,6.0,256.0,80.0
+636,Phone RAM,Phone Storage,Phone Performance Score,8.0,128.0,85.0,10.0,128.0,90.0
+637,Phone RAM,Phone Storage,Phone Performance Score,6.0,256.0,80.0,8.0,256.0,85.0
+638,Phone RAM,Phone Storage,Phone Performance Score,10.0,128.0,90.0,12.0,128.0,95.0
+639,Phone RAM,Phone Storage,Phone Performance Score,4.0,64.0,75.0,6.0,64.0,80.0
+640,Shoe Weight,Shoe Cushioning,Comfort Score,250.0,7.0,8.0,270.0,6.0,7.0
+641,Shoe Weight,Shoe Cushioning,Comfort Score,230.0,8.0,9.0,250.0,7.0,8.0
+642,Shoe Weight,Shoe Cushioning,Comfort Score,240.0,6.0,7.0,260.0,5.0,6.0
+643,Shoe Weight,Shoe Cushioning,Comfort Score,260.0,9.0,9.0,280.0,8.0,8.0
+644,Shoe Weight,Shoe Cushioning,Comfort Score,220.0,7.0,8.0,240.0,6.0,7.0
+645,Shoe Weight,Shoe Cushioning,Comfort Score,270.0,8.0,9.0,290.0,7.0,8.0
+646,Shoe Weight,Shoe Cushioning,Comfort Score,250.0,6.0,7.0,270.0,5.0,6.0
+647,Shoe Weight,Shoe Cushioning,Comfort Score,240.0,9.0,9.0,260.0,8.0,8.0
+648,Shoe Weight,Shoe Cushioning,Comfort Score,230.0,8.0,9.0,250.0,7.0,8.0
+649,Shoe Weight,Shoe Cushioning,Comfort Score,260.0,7.0,8.0,280.0,6.0,7.0
+650,House Size,House Age,Market Price,2000.0,5.0,350000.0,2200.0,10.0,330000.0
+651,House Size,House Age,Market Price,1800.0,3.0,340000.0,2000.0,8.0,320000.0
+652,House Size,House Age,Market Price,2100.0,6.0,360000.0,2300.0,12.0,340000.0
+653,House Size,House Age,Market Price,1900.0,4.0,330000.0,2100.0,9.0,310000.0
+654,House Size,House Age,Market Price,2200.0,7.0,370000.0,2400.0,14.0,350000.0
+655,House Size,House Age,Market Price,1700.0,2.0,320000.0,1900.0,7.0,300000.0
+656,House Size,House Age,Market Price,2000.0,5.0,350000.0,2200.0,10.0,330000.0
+657,House Size,House Age,Market Price,2100.0,6.0,360000.0,2300.0,12.0,340000.0
+658,House Size,House Age,Market Price,1900.0,4.0,330000.0,2100.0,9.0,310000.0
+659,House Size,House Age,Market Price,2200.0,7.0,370000.0,2400.0,14.0,350000.0
+660,Dog Size,Dog Activity Level,Energy Consumption,40.0,5.0,10.0,50.0,4.0,11.0
+661,Dog Size,Dog Activity Level,Energy Consumption,30.0,6.0,9.0,40.0,5.0,10.0
+662,Dog Size,Dog Activity Level,Energy Consumption,50.0,3.0,12.0,60.0,2.0,13.0
+663,Dog Size,Dog Activity Level,Energy Consumption,35.0,7.0,10.0,45.0,6.0,11.0
+664,Dog Size,Dog Activity Level,Energy Consumption,45.0,4.0,11.0,55.0,3.0,12.0
+665,Dog Size,Dog Activity Level,Energy Consumption,25.0,8.0,9.0,35.0,7.0,10.0
+666,Dog Size,Dog Activity Level,Energy Consumption,55.0,2.0,13.0,65.0,1.0,14.0
+667,Dog Size,Dog Activity Level,Energy Consumption,30.0,6.0,9.0,40.0,5.0,10.0
+668,Dog Size,Dog Activity Level,Energy Consumption,40.0,5.0,10.0,50.0,4.0,11.0
+669,Dog Size,Dog Activity Level,Energy Consumption,35.0,7.0,10.0,45.0,6.0,11.0
+670,Bike Weight,Bike Frame Material,Speed Potential,10.0,1.0,15.0,12.0,2.0,14.0
+671,Bike Weight,Bike Frame Material,Speed Potential,12.0,1.0,14.0,14.0,2.0,13.0
+672,Bike Weight,Bike Frame Material,Speed Potential,9.0,1.0,16.0,11.0,2.0,15.0
+673,Bike Weight,Bike Frame Material,Speed Potential,11.0,1.0,15.0,13.0,2.0,14.0
+674,Bike Weight,Bike Frame Material,Speed Potential,8.0,1.0,17.0,10.0,2.0,16.0
+675,Bike Weight,Bike Frame Material,Speed Potential,13.0,1.0,14.0,15.0,2.0,13.0
+676,Bike Weight,Bike Frame Material,Speed Potential,10.0,1.0,15.0,12.0,2.0,14.0
+677,Bike Weight,Bike Frame Material,Speed Potential,12.0,1.0,14.0,14.0,2.0,13.0
+678,Bike Weight,Bike Frame Material,Speed Potential,9.0,1.0,16.0,11.0,2.0,15.0
+679,Bike Weight,Bike Frame Material,Speed Potential,11.0,1.0,15.0,13.0,2.0,14.0
+680,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,3000.0,5.0,12.0,3500.0,4.0,13.0
+681,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,2500.0,6.0,10.0,3000.0,5.0,11.0
+682,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,3500.0,4.0,13.0,4000.0,3.0,14.0
+683,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,2800.0,5.0,11.0,3300.0,4.0,12.0
+684,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,3200.0,6.0,12.0,3700.0,5.0,13.0
+685,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,2700.0,7.0,10.0,3200.0,6.0,11.0
+686,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,3400.0,5.0,13.0,3900.0,4.0,14.0
+687,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,2900.0,6.0,11.0,3400.0,5.0,12.0
+688,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,3100.0,7.0,12.0,3600.0,6.0,13.0
+689,Phone Battery Capacity,Phone Screen Size,Battery Life in Hours,2600.0,8.0,10.0,3100.0,7.0,11.0
+690,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,6.0,3.0,7.0,7.0,2.0,8.0
+691,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,5.0,4.0,6.0,6.0,3.0,7.0
+692,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,7.0,2.0,8.0,8.0,1.0,9.0
+693,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,6.0,3.0,7.0,7.0,2.0,8.0
+694,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,8.0,1.0,9.0,9.0,0.0,10.0
+695,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,5.0,5.0,5.0,6.0,4.0,6.0
+696,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,7.0,2.0,8.0,8.0,1.0,9.0
+697,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,6.0,3.0,7.0,7.0,2.0,8.0
+698,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,5.0,4.0,6.0,6.0,3.0,7.0
+699,Coffee Bean Size,Coffee Roast Level,Flavor Intensity,7.0,2.0,8.0,8.0,1.0,9.0
+700,Speed,Weight,Distance traveled,60.0,1000.0,120.0,50.0,1200.0,115.0
+701,Speed,Weight,Distance traveled,70.0,800.0,140.0,60.0,900.0,130.0
+702,Speed,Weight,Distance traveled,55.0,1100.0,110.0,65.0,1000.0,125.0
+703,Speed,Weight,Distance traveled,75.0,700.0,150.0,80.0,600.0,160.0
+704,Speed,Weight,Distance traveled,65.0,900.0,130.0,70.0,800.0,140.0
+705,Speed,Weight,Distance traveled,50.0,1200.0,100.0,55.0,1100.0,110.0
+706,Speed,Weight,Distance traveled,80.0,600.0,160.0,75.0,700.0,150.0
+707,Speed,Weight,Distance traveled,60.0,1000.0,120.0,50.0,1200.0,115.0
+708,Speed,Weight,Distance traveled,70.0,800.0,140.0,60.0,900.0,130.0
+709,Speed,Weight,Distance traveled,55.0,1100.0,110.0,65.0,1000.0,125.0
+710,Price,Quality,Overall value,100.0,8.0,85.0,120.0,7.0,85.0
+711,Price,Quality,Overall value,80.0,9.0,82.0,90.0,8.0,83.0
+712,Price,Quality,Overall value,110.0,7.0,78.0,100.0,8.0,85.0
+713,Price,Quality,Overall value,90.0,8.0,80.0,100.0,7.0,77.0
+714,Price,Quality,Overall value,120.0,9.0,90.0,110.0,8.0,87.0
+715,Price,Quality,Overall value,100.0,7.0,75.0,110.0,6.0,74.0
+716,Price,Quality,Overall value,90.0,9.0,85.0,80.0,10.0,88.0
+717,Price,Quality,Overall value,110.0,8.0,83.0,120.0,7.0,80.0
+718,Price,Quality,Overall value,100.0,8.0,82.0,90.0,9.0,85.0
+719,Price,Quality,Overall value,80.0,10.0,85.0,70.0,11.0,87.0
+720,Hours studied,Difficulty,Test score,5.0,4.0,80.0,6.0,5.0,78.0
+721,Hours studied,Difficulty,Test score,4.0,3.0,85.0,5.0,4.0,83.0
+722,Hours studied,Difficulty,Test score,6.0,5.0,75.0,5.0,6.0,70.0
+723,Hours studied,Difficulty,Test score,7.0,4.0,88.0,6.0,5.0,85.0
+724,Hours studied,Difficulty,Test score,5.0,6.0,70.0,6.0,5.0,75.0
+725,Hours studied,Difficulty,Test score,6.0,3.0,87.0,5.0,4.0,85.0
+726,Hours studied,Difficulty,Test score,4.0,5.0,78.0,5.0,4.0,80.0
+727,Hours studied,Difficulty,Test score,5.0,4.0,82.0,6.0,3.0,84.0
+728,Hours studied,Difficulty,Test score,6.0,6.0,70.0,5.0,5.0,75.0
+729,Hours studied,Difficulty,Test score,7.0,3.0,90.0,6.0,4.0,88.0
+730,Engine size,Fuel efficiency,Top speed,2.0,25.0,120.0,2.5,20.0,130.0
+731,Engine size,Fuel efficiency,Top speed,3.0,18.0,140.0,2.8,22.0,135.0
+732,Engine size,Fuel efficiency,Top speed,2.5,20.0,130.0,2.0,25.0,120.0
+733,Engine size,Fuel efficiency,Top speed,2.8,22.0,135.0,3.0,18.0,140.0
+734,Engine size,Fuel efficiency,Top speed,3.2,16.0,145.0,3.0,18.0,140.0
+735,Engine size,Fuel efficiency,Top speed,2.4,24.0,125.0,2.6,23.0,128.0
+736,Engine size,Fuel efficiency,Top speed,2.6,23.0,128.0,2.4,24.0,125.0
+737,Engine size,Fuel efficiency,Top speed,3.0,18.0,140.0,2.8,22.0,135.0
+738,Engine size,Fuel efficiency,Top speed,2.2,26.0,122.0,2.4,24.0,125.0
+739,Engine size,Fuel efficiency,Top speed,2.8,22.0,135.0,3.2,16.0,145.0
+740,Experience,Years of education,Salary,5.0,12.0,50000.0,6.0,11.0,52000.0
+741,Experience,Years of education,Salary,10.0,14.0,70000.0,8.0,16.0,72000.0
+742,Experience,Years of education,Salary,3.0,10.0,40000.0,4.0,11.0,42000.0
+743,Experience,Years of education,Salary,8.0,12.0,60000.0,10.0,11.0,62000.0
+744,Experience,Years of education,Salary,7.0,13.0,58000.0,9.0,12.0,60000.0
+745,Experience,Years of education,Salary,6.0,11.0,52000.0,5.0,12.0,50000.0
+746,Experience,Years of education,Salary,4.0,11.0,42000.0,3.0,10.0,40000.0
+747,Experience,Years of education,Salary,10.0,11.0,62000.0,8.0,12.0,60000.0
+748,Experience,Years of education,Salary,9.0,12.0,60000.0,7.0,13.0,58000.0
+749,Experience,Years of education,Salary,8.0,16.0,72000.0,10.0,14.0,70000.0
+750,Brightness,Screen size,Viewing quality,500.0,27.0,85.0,600.0,24.0,88.0
+751,Brightness,Screen size,Viewing quality,400.0,30.0,82.0,500.0,27.0,85.0
+752,Brightness,Screen size,Viewing quality,600.0,24.0,88.0,500.0,27.0,85.0
+753,Brightness,Screen size,Viewing quality,500.0,32.0,87.0,400.0,30.0,82.0
+754,Brightness,Screen size,Viewing quality,450.0,25.0,83.0,550.0,22.0,86.0
+755,Brightness,Screen size,Viewing quality,550.0,22.0,86.0,450.0,25.0,83.0
+756,Brightness,Screen size,Viewing quality,400.0,30.0,82.0,500.0,27.0,85.0
+757,Brightness,Screen size,Viewing quality,500.0,27.0,85.0,600.0,24.0,88.0
+758,Brightness,Screen size,Viewing quality,550.0,22.0,86.0,450.0,25.0,83.0
+759,Brightness,Screen size,Viewing quality,600.0,24.0,88.0,500.0,32.0,87.0
+760,Size,Material thickness,Insulation,10.0,2.0,6.0,12.0,1.5,5.5
+761,Size,Material thickness,Insulation,8.0,3.0,7.0,10.0,2.0,6.0
+762,Size,Material thickness,Insulation,12.0,1.5,5.5,10.0,2.0,6.0
+763,Size,Material thickness,Insulation,10.0,2.0,6.0,8.0,3.0,7.0
+764,Size,Material thickness,Insulation,9.0,2.5,6.5,11.0,2.0,6.0
+765,Size,Material thickness,Insulation,11.0,2.0,6.0,9.0,2.5,6.5
+766,Size,Material thickness,Insulation,8.0,3.0,7.0,10.0,2.0,6.0
+767,Size,Material thickness,Insulation,10.0,2.0,6.0,12.0,1.5,5.5
+768,Size,Material thickness,Insulation,9.0,2.5,6.5,11.0,2.0,6.0
+769,Size,Material thickness,Insulation,12.0,1.5,5.5,10.0,2.0,6.0
+770,Age,Mileage,Resale value,5.0,50000.0,15000.0,6.0,40000.0,16000.0
+771,Age,Mileage,Resale value,3.0,30000.0,20000.0,4.0,25000.0,21000.0
+772,Age,Mileage,Resale value,6.0,40000.0,16000.0,5.0,50000.0,15000.0
+773,Age,Mileage,Resale value,4.0,25000.0,21000.0,3.0,30000.0,20000.0
+774,Age,Mileage,Resale value,2.0,20000.0,25000.0,3.0,15000.0,26000.0
+775,Age,Mileage,Resale value,5.0,50000.0,15000.0,6.0,40000.0,16000.0
+776,Age,Mileage,Resale value,3.0,30000.0,20000.0,4.0,25000.0,21000.0
+777,Age,Mileage,Resale value,6.0,40000.0,16000.0,5.0,50000.0,15000.0
+778,Age,Mileage,Resale value,4.0,25000.0,21000.0,3.0,30000.0,20000.0
+779,Age,Mileage,Resale value,2.0,20000.0,25000.0,3.0,15000.0,26000.0
+780,Temperature,Time in oven,Bakedness,350.0,30.0,8.0,375.0,25.0,9.0
+781,Temperature,Time in oven,Bakedness,325.0,40.0,7.0,350.0,30.0,8.0
+782,Temperature,Time in oven,Bakedness,375.0,25.0,9.0,350.0,30.0,8.0
+783,Temperature,Time in oven,Bakedness,350.0,30.0,8.0,325.0,40.0,7.0
+784,Temperature,Time in oven,Bakedness,300.0,45.0,6.0,325.0,40.0,7.0
+785,Temperature,Time in oven,Bakedness,325.0,40.0,7.0,350.0,30.0,8.0
+786,Temperature,Time in oven,Bakedness,375.0,25.0,9.0,350.0,30.0,8.0
+787,Temperature,Time in oven,Bakedness,350.0,30.0,8.0,375.0,25.0,9.0
+788,Temperature,Time in oven,Bakedness,325.0,40.0,7.0,300.0,45.0,6.0
+789,Temperature,Time in oven,Bakedness,300.0,45.0,6.0,325.0,40.0,7.0
+790,Cooking time,Stove temperature,Taste rating,20.0,350.0,8.0,25.0,375.0,9.0
+791,Cooking time,Stove temperature,Taste rating,25.0,375.0,9.0,20.0,350.0,8.0
+792,Cooking time,Stove temperature,Taste rating,15.0,400.0,9.0,20.0,350.0,8.0
+793,Cooking time,Stove temperature,Taste rating,20.0,350.0,8.0,15.0,400.0,9.0
+794,Cooking time,Stove temperature,Taste rating,25.0,325.0,7.0,30.0,350.0,8.0
+795,Cooking time,Stove temperature,Taste rating,30.0,350.0,8.0,25.0,325.0,7.0
+796,Cooking time,Stove temperature,Taste rating,15.0,400.0,9.0,20.0,350.0,8.0
+797,Cooking time,Stove temperature,Taste rating,20.0,350.0,8.0,25.0,375.0,9.0
+798,Cooking time,Stove temperature,Taste rating,25.0,375.0,9.0,20.0,350.0,8.0
+799,Cooking time,Stove temperature,Taste rating,30.0,350.0,8.0,25.0,325.0,7.0
