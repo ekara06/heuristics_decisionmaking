@@ -1,0 +1,40 @@
+import pandas as pd
+
+# Load the CSV
+df = pd.read_csv("combined_correlations.csv")
+
+# Clean column names
+df.columns = df.columns.str.strip()
+
+# Compare two columns and create a new column
+df["known_ranking"] = (
+    df["corr_1_3"].abs() >
+    df["corr_2_3"].abs()
+)
+
+df["known_direction"] = (
+    (df["corr_1_3"] > 0) & 
+    (df["corr_2_3"] > 0)
+)
+
+# Compute the fraction of rows where Object1_greater is True
+fraction_known_ranking = df["known_ranking"].sum()
+print(f"Fraction of known_ranking: {fraction_known_ranking:.2f}")
+
+
+fraction_known_direction = df["known_direction"].sum()
+print(f"Fraction of known_direction: {fraction_known_direction:.2f}")
+print()
+
+#print fraction of problems where ranking is known and direction is known
+fraction_both_known = (df["known_ranking"] & df["known_direction"]).sum()
+print(f"both known: {fraction_both_known:.2f}")
+
+fraction_both_known = (df["known_ranking"] & ~df["known_direction"]).sum()
+print(f"only ranking known: {fraction_both_known:.2f}")
+
+fraction_both_known = (~df["known_ranking"] & df["known_direction"]).sum()
+print(f"only direction known: {fraction_both_known:.2f}")
+
+# Optional: save the updated file
+df.to_csv("comb_comparison.csv", index=False)

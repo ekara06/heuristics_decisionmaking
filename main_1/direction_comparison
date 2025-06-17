@@ -1,0 +1,25 @@
+import pandas as pd
+
+# Load the CSV
+df = pd.read_csv("direction_correlations.csv")
+
+# Clean column names
+df.columns = df.columns.str.strip()
+
+# Check if the column values are bigger than zero and create new columns
+df["Object1_greater"] = df["corr_1_3"] > 0
+df["Object2_greater"] = df["corr_2_3"] > 0
+
+# Print to check
+print(df[["Feature_3 name", "Object1_greater", "Object2_greater"]])
+
+# Compute the fraction of rows where Object1_greater is True
+fraction_object1_greater = df["Object1_greater"].mean()
+
+# Compute the fraction of rows where Object2_greater is True
+fraction_object2_greater = df["Object2_greater"].mean()
+print(f"Fraction of Object 1 greater than 0: {fraction_object1_greater:.2f}")
+print(f"Fraction of Object 2 greater than 0: {fraction_object2_greater:.2f}")
+
+# Optional: save the updated file
+df.to_csv("direction_comparison.csv", index=False)
