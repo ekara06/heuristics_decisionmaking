@@ -1,0 +1,8402 @@
+{"features": [
+    {
+        "trial_id": "1",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "320.0, 1500.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "300.0, 1400.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "500.0, 2200.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "450.0, 2100.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "300.0, 1400.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "280.0, 1300.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "250.0, 1300.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "200.0, 1200.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "450.0, 2000.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "400.0, 1900.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "350.0, 1600.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "300.0, 1500.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "200.0, 1200.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "180.0, 1100.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "300.0, 1500.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "250.0, 1400.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "400.0, 1700.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "380.0, 1600.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "400.0, 1800.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "57",
+        "target": "Speed (mph)",
+        "options": [
+            "Engine Horsepower",
+            "Weight (kg)"
+        ],
+        "values": "350.0, 1700.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "300000.0, 2000.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "280000.0, 1800.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "250000.0, 1500.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "230000.0, 1400.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "420000.0, 2500.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "400000.0, 2300.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "270000.0, 1600.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "250000.0, 1500.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "370000.0, 2100.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "350000.0, 2000.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "320000.0, 1900.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "300000.0, 1800.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "450000.0, 2600.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "420000.0, 2400.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "350000.0, 2400.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "330000.0, 2200.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "280000.0, 1700.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "260000.0, 1600.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "400000.0, 2200.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "67",
+        "target": "Value",
+        "options": [
+            "Price ($)",
+            "Size (sq ft)"
+        ],
+        "values": "380000.0, 2000.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "22.0, 180.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "20.0, 160.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "18.0, 130.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "16.0, 120.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "28.0, 220.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "25.0, 200.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "10.0, 80.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "8.0, 70.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "15.0, 100.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "13.0, 90.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "25.0, 200.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "22.0, 180.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "20.0, 150.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "18.0, 140.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "27.0, 230.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "25.0, 210.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "30.0, 250.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "28.0, 240.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "19.0, 140.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "53",
+        "target": "Satiety",
+        "options": [
+            "Protein (g)",
+            "Calories"
+        ],
+        "values": "17.0, 130.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "14.0, 50.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "16.0, 45.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "20.0, 60.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "22.0, 55.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "16.0, 70.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "18.0, 65.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "22.0, 55.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "24.0, 50.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "18.0, 65.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "20.0, 60.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "10.0, 60.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "12.0, 50.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "25.0, 80.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "30.0, 70.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "15.0, 50.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "18.0, 45.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "20.0, 70.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "25.0, 60.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "12.0, 40.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "65",
+        "target": "Travel Time (min)",
+        "options": [
+            "Distance (miles)",
+            "Speed (mph)"
+        ],
+        "values": "14.0, 35.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "78.0, 45.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "74.0, 50.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "70.0, 20.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "65.0, 25.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "85.0, 50.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "80.0, 55.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "65.0, 15.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "60.0, 20.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "72.0, 25.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "68.0, 30.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "68.0, 20.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "64.0, 25.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "82.0, 60.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "78.0, 65.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "70.0, 35.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "66.0, 40.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "80.0, 40.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "75.0, 45.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "75.0, 30.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "16",
+        "target": "Comfort Index",
+        "options": [
+            "Temperature (\u00b0F)",
+            "Humidity (%)"
+        ],
+        "values": "70.0, 35.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "3700.0, 6.2"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "3600.0, 6.5"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4800.0, 6.4"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4700.0, 6.7"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4100.0, 6.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4000.0, 6.6"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "3800.0, 6.5"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "3900.0, 6.3"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4000.0, 6.1"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "3000.0, 6.5"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4200.0, 6.3"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4400.0, 6.1"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "3500.0, 5.8"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4000.0, 6.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "5000.0, 6.2"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4500.0, 6.8"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "5100.0, 6.3"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "5000.0, 6.5"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4500.0, 6.4"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "45",
+        "target": "Phone battery life (hours)",
+        "options": [
+            "Phone battery capacity (mAh)",
+            "Screen size (inches)"
+        ],
+        "values": "4600.0, 6.2"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "340.0, 1900.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "360.0, 2000.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "250.0, 1500.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "300.0, 1800.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "320.0, 1600.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "350.0, 1900.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "200.0, 1400.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "220.0, 1600.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "280.0, 1700.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "300.0, 1800.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "240.0, 1300.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "230.0, 1500.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "310.0, 1800.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "330.0, 1900.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "260.0, 1500.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "270.0, 1600.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "290.0, 1700.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "310.0, 1800.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "270.0, 1400.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "12",
+        "target": "Car acceleration (0-60 mph in seconds)",
+        "options": [
+            "Car engine power (hp)",
+            "Car weight (kg)"
+        ],
+        "values": "280.0, 1500.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "7.0, 19.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "8.0, 21.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "9.0, 23.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "10.0, 24.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "8.0, 24.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "9.0, 25.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "10.0, 30.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "9.0, 28.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "10.0, 28.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "9.0, 30.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "8.0, 22.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "7.0, 24.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "7.0, 18.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "8.0, 20.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "9.0, 25.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "10.0, 22.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "8.0, 20.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "7.0, 30.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "9.0, 26.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "50",
+        "target": "Race time (minutes)",
+        "options": [
+            "Speed of runner (mph)",
+            "Distance trained (miles/week)"
+        ],
+        "values": "10.0, 27.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "12.0, 4.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "14.0, 5.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "6.0, 1.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "7.0, 2.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "13.0, 5.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "15.0, 6.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "7.0, 2.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "8.0, 3.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "11.0, 4.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "13.0, 5.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "9.0, 3.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "10.0, 4.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "10.0, 3.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "12.0, 4.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "8.0, 2.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "9.0, 3.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "10.0, 3.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "11.0, 4.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "8.0, 2.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "25",
+        "target": "Exam score (%)",
+        "options": [
+            "Study time (hours/week)",
+            "Number of subjects studied"
+        ],
+        "values": "9.0, 3.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "3.0, 39.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "4.0, 37.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "2.0, 34.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "3.0, 32.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "4.0, 42.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "5.0, 40.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "1.0, 26.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "2.0, 28.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "1.0, 25.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "2.0, 27.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "2.0, 32.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "3.0, 30.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "4.0, 40.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "5.0, 38.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "3.0, 35.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "4.0, 33.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "2.0, 30.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "3.0, 28.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "3.0, 37.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "48",
+        "target": "Plant yield (kg)",
+        "options": [
+            "Amount of fertilizer (kg)",
+            "Plant size (cm)"
+        ],
+        "values": "4.0, 35.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "130.0, 4.5"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "260.0, 4.4"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "180.0, 4.3"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "360.0, 4.2"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "80.0, 4.8"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "160.0, 4.7"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "120.0, 4.6"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "240.0, 4.5"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "200.0, 4.4"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "400.0, 4.1"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "50.0, 4.7"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "100.0, 4.6"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "150.0, 4.2"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "300.0, 4.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "100.0, 4.5"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "200.0, 4.3"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "90.0, 4.7"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "180.0, 4.6"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "250.0, 4.4"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "49",
+        "target": "Product popularity",
+        "options": [
+            "Number of reviews",
+            "Rating (stars)"
+        ],
+        "values": "500.0, 4.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2200.0, 22.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2600.0, 18.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "1600.0, 35.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "1900.0, 30.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "1900.0, 28.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2300.0, 24.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2400.0, 20.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2800.0, 16.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "1700.0, 32.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2000.0, 27.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2300.0, 21.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2700.0, 17.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "1800.0, 30.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2200.0, 25.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2100.0, 23.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2500.0, 19.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2000.0, 25.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2500.0, 20.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "1800.0, 29.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "13",
+        "target": "Car cost ($)",
+        "options": [
+            "Engine size (cc)",
+            "Fuel efficiency (mpg)"
+        ],
+        "values": "2200.0, 25.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "300.0, 2000.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "200.0, 1800.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "350.0, 2200.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "250.0, 2000.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "700.0, 3600.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "600.0, 3400.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "650.0, 3400.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "550.0, 3200.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "600.0, 3200.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "500.0, 3000.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "750.0, 3800.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "650.0, 3600.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "500.0, 2800.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "400.0, 2600.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "450.0, 2600.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "350.0, 2400.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "400.0, 2400.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "300.0, 2200.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "550.0, 3000.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "10",
+        "target": "Car Speed",
+        "options": [
+            "Car Horsepower",
+            "Car Weight"
+        ],
+        "values": "450.0, 2800.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1400.0, 65.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1300.0, 54.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1300.0, 60.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1200.0, 50.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "700.0, 30.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "600.0, 26.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "800.0, 35.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "700.0, 30.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "900.0, 40.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "800.0, 34.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1000.0, 45.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "900.0, 38.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1100.0, 50.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1000.0, 42.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1200.0, 55.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "1100.0, 46.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "600.0, 25.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "500.0, 22.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "500.0, 20.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "41",
+        "target": "Meal Energy Boost",
+        "options": [
+            "Meal Calories",
+            "Meal Protein (g)"
+        ],
+        "values": "400.0, 18.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "1100.0, 7.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "1050.0, 8.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "800.0, 8.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "750.0, 7.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "700.0, 7.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "650.0, 8.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "600.0, 10.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "550.0, 9.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "1200.0, 8.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "1150.0, 7.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "1300.0, 9.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "1250.0, 8.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "500.0, 9.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "450.0, 8.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "1000.0, 10.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "950.0, 9.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "900.0, 9.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "850.0, 8.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "400.0, 8.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "8",
+        "target": "Book Enjoyment",
+        "options": [
+            "Book Page Count",
+            "Book Rating (1-10)"
+        ],
+        "values": "350.0, 7.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "35.0, 110.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "45.0, 100.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "40.0, 100.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "30.0, 120.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "70.0, 100.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "80.0, 90.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "30.0, 150.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "50.0, 120.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "60.0, 200.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "70.0, 180.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "50.0, 120.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "40.0, 140.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "80.0, 100.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "70.0, 120.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "45.0, 130.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "55.0, 110.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "65.0, 140.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "75.0, 130.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "60.0, 150.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "62",
+        "target": "Time to Destination",
+        "options": [
+            "Speed",
+            "Mileage"
+        ],
+        "values": "50.0, 200.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "15.0, 4.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "12.0, 5.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "22.0, 3.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "18.0, 4.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "20.0, 2.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "25.0, 1.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "15.0, 3.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "10.0, 4.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "30.0, 1.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "25.0, 2.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "25.0, 2.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "30.0, 1.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "10.0, 4.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "15.0, 3.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "18.0, 2.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "20.0, 1.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "30.0, 2.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "28.0, 3.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "27.0, 1.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "63",
+        "target": "Time to Prepare",
+        "options": [
+            "Cooking Time",
+            "Portion Size"
+        ],
+        "values": "25.0, 2.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5100.0, 6.2"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5300.0, 6.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "3800.0, 5.7"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "3900.0, 5.9"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5200.0, 6.4"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5000.0, 6.6"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4800.0, 5.9"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4600.0, 6.1"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "3500.0, 6.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "3700.0, 5.8"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5500.0, 6.1"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5300.0, 6.3"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4000.0, 5.8"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4200.0, 5.5"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5000.0, 6.5"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4500.0, 6.7"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4900.0, 5.8"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "5000.0, 5.6"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4700.0, 6.3"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "4",
+        "target": "Battery Life",
+        "options": [
+            "Battery Capacity",
+            "Screen Size"
+        ],
+        "values": "4500.0, 6.5"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "3.0, 2500.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.8, 2400.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.0, 2000.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.5, 2200.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "1.8, 1900.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.0, 2100.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "1.8, 1900.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.0, 2000.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "1.6, 1800.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "1.7, 2000.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.8, 2400.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "3.0, 2500.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.5, 2300.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.4, 2200.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "1.5, 1700.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "1.6, 1900.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.0, 2000.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.2, 2100.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.2, 2100.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "30",
+        "target": "Fuel Efficiency",
+        "options": [
+            "Engine Size",
+            "Weight"
+        ],
+        "values": "2.0, 2000.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "14.0, 17.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "15.0, 16.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "10.0, 14.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "11.0, 13.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "9.0, 11.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "10.0, 12.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "12.0, 16.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "13.0, 15.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "6.0, 10.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "8.0, 11.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "15.0, 18.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "14.0, 17.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "8.0, 12.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "10.0, 13.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "10.0, 15.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "12.0, 14.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "13.0, 15.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "14.0, 14.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "7.0, 13.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "27",
+        "target": "Fruit Yield",
+        "options": [
+            "Age of Tree",
+            "Tree Height"
+        ],
+        "values": "9.0, 12.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "18.0, 36.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "27.0, 54.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "8.0, 20.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "12.0, 30.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "15.0, 45.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "22.5, 67.5"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "20.0, 50.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "30.0, 75.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "12.0, 30.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "18.0, 45.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "10.0, 40.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "15.0, 60.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "16.0, 40.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "24.0, 60.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "12.0, 30.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "18.0, 45.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "10.0, 25.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "15.0, 37.5"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "14.0, 35.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "66",
+        "target": "Travel Time (minutes)",
+        "options": [
+            "Distance (km)",
+            "Speed (km/h)"
+        ],
+        "values": "21.0, 52.5"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "2.0, 110.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "6.0, 80.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "5.0, 100.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "10.0, 80.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "3.0, 120.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "8.0, 90.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "7.0, 90.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "12.0, 70.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "4.0, 105.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "9.0, 75.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "6.0, 95.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "11.0, 65.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "1.0, 130.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "5.0, 85.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "8.0, 100.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "13.0, 70.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "10.0, 85.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "15.0, 60.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "2.0, 125.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "36",
+        "target": "Job Performance Score",
+        "options": [
+            "Experience (years)",
+            "Training Hours"
+        ],
+        "values": "7.0, 75.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "200000.0, 1400.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "300000.0, 2100.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "190000.0, 1400.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "285000.0, 1900.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "230000.0, 1600.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "345000.0, 2200.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "200000.0, 1500.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "300000.0, 2000.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "250000.0, 2000.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "350000.0, 2500.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "180000.0, 1200.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "270000.0, 1800.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "220000.0, 1600.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "330000.0, 2200.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "240000.0, 1800.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "360000.0, 2400.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "160000.0, 1000.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "240000.0, 1500.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "210000.0, 1500.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "68",
+        "target": "Value per sq ft",
+        "options": [
+            "Price (in $)",
+            "Size (in sq ft)"
+        ],
+        "values": "315000.0, 2100.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "130.0, 27.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "150.0, 22.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "100.0, 20.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "120.0, 15.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "110.0, 22.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "130.0, 17.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "70.0, 12.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "90.0, 8.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "80.0, 15.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "100.0, 10.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "100.0, 20.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "120.0, 15.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "95.0, 19.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "115.0, 14.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "120.0, 25.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "140.0, 20.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "85.0, 17.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "105.0, 12.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "90.0, 18.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "21",
+        "target": "Energy Boost Score",
+        "options": [
+            "Caffeine (mg)",
+            "Sugar (g)"
+        ],
+        "values": "110.0, 13.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "120.0, 1500.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "100.0, 1800.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "145.0, 1450.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "135.0, 1550.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "135.0, 1400.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "125.0, 1500.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "100.0, 1700.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "110.0, 1600.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "150.0, 1450.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "140.0, 1750.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "130.0, 1550.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "110.0, 1850.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "110.0, 1600.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "120.0, 1900.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "140.0, 1400.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "130.0, 1700.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "115.0, 1650.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "125.0, 1750.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "125.0, 1500.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "28",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Car Weight"
+        ],
+        "values": "135.0, 1600.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "100.0, 2.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "90.0, 3.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "110.0, 1.5"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "100.0, 2.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "95.0, 2.5"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "105.0, 2.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "90.0, 3.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "100.0, 2.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "105.0, 2.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "115.0, 1.5"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "120.0, 1.8"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "110.0, 2.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "115.0, 2.2"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "105.0, 2.5"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "98.0, 3.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "108.0, 2.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "102.0, 2.5"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "112.0, 2.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "90.0, 2.8"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "29",
+        "target": "Fuel Consumption",
+        "options": [
+            "Car Speed",
+            "Engine Size"
+        ],
+        "values": "100.0, 2.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "12.0, 280.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "10.0, 320.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "10.0, 310.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "11.0, 300.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "12.0, 300.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "14.0, 280.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "11.0, 290.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "13.0, 270.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "10.0, 300.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "8.0, 350.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "8.0, 340.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "10.0, 320.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "13.0, 270.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "12.0, 300.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "9.0, 330.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "11.0, 310.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "11.0, 310.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "13.0, 290.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "10.0, 320.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "9",
+        "target": "Book Weight",
+        "options": [
+            "Book Thickness",
+            "Book Pages"
+        ],
+        "values": "12.0, 300.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "5.0, 71.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "6.0, 66.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "5.0, 73.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "6.0, 68.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "6.0, 67.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "7.0, 62.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "4.0, 70.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "5.0, 65.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "5.0, 70.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "6.0, 65.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "7.0, 65.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "8.0, 60.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "5.0, 72.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "6.0, 67.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "4.0, 75.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "5.0, 70.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "7.0, 66.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "8.0, 61.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "6.0, 68.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "26",
+        "target": "Final Grade",
+        "options": [
+            "Student Study Hours",
+            "Student Test Score"
+        ],
+        "values": "7.0, 63.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "4.0, 256.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "6.0, 256.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "4.0, 64.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "6.0, 64.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "10.0, 128.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "12.0, 128.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "6.0, 256.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "8.0, 256.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "8.0, 128.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "10.0, 128.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "6.0, 64.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "8.0, 64.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "10.0, 64.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "12.0, 64.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "6.0, 128.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "8.0, 128.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "8.0, 64.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "10.0, 64.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "4.0, 128.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "42",
+        "target": "Phone Performance Score",
+        "options": [
+            "Phone RAM",
+            "Phone Storage"
+        ],
+        "values": "6.0, 128.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "145.0, 3.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "135.0, 4.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "120.0, 4.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "100.0, 5.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "150.0, 3.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "140.0, 4.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "130.0, 5.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "120.0, 6.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "110.0, 4.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "100.0, 5.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "140.0, 5.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "130.0, 6.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "160.0, 4.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "150.0, 5.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "135.0, 6.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "125.0, 7.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "125.0, 4.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "115.0, 5.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "115.0, 5.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "38",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "105.0, 6.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2000.0, 5.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2200.0, 10.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "1800.0, 3.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2000.0, 8.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2100.0, 6.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2300.0, 12.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "1900.0, 4.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2100.0, 9.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2200.0, 7.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2400.0, 14.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2200.0, 7.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2400.0, 14.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2000.0, 5.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2200.0, 10.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2100.0, 6.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2300.0, 12.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "1900.0, 4.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "2100.0, 9.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1500.0, 3.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "39",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1600.0, 2.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1400.0, 4.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1500.0, 3.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1300.0, 5.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1400.0, 4.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1600.0, 3.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1700.0, 2.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1500.0, 4.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1600.0, 3.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1700.0, 2.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1800.0, 3.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1400.0, 3.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1500.0, 4.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1600.0, 5.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1500.0, 4.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1300.0, 3.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1400.0, 4.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "1700.0, 2.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "House Age"
+        ],
+        "values": "1900.0, 7.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1800.0, 2.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "40",
+        "target": "Market Price",
+        "options": [
+            "House Size",
+            "Number of Rooms"
+        ],
+        "values": "1700.0, 3.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "35.0, 7.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "45.0, 6.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "40.0, 5.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "50.0, 4.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "30.0, 6.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "40.0, 5.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "55.0, 2.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "65.0, 1.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "30.0, 6.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "40.0, 5.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "40.0, 5.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "50.0, 4.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "45.0, 4.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "55.0, 3.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "35.0, 7.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "45.0, 6.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "25.0, 8.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "35.0, 7.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "50.0, 3.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "22",
+        "target": "Energy Consumption",
+        "options": [
+            "Dog Size",
+            "Dog Activity Level"
+        ],
+        "values": "60.0, 2.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "12.0, 1.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "14.0, 2.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "9.0, 1.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "11.0, 2.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "11.0, 1.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "13.0, 2.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "9.0, 1.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "11.0, 2.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "10.0, 1.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "12.0, 2.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "13.0, 1.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "15.0, 2.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "8.0, 1.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "10.0, 2.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "12.0, 1.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "14.0, 2.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "10.0, 1.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "12.0, 2.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "11.0, 1.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "58",
+        "target": "Speed Potential",
+        "options": [
+            "Bike Weight",
+            "Bike Frame Material"
+        ],
+        "values": "13.0, 2.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "2600.0, 8.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3100.0, 7.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3100.0, 7.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3600.0, 6.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "2900.0, 6.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3400.0, 5.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3400.0, 5.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3900.0, 4.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "2700.0, 7.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3200.0, 6.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3200.0, 6.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3700.0, 5.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "2800.0, 5.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3300.0, 4.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3500.0, 4.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "4000.0, 3.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "2500.0, 6.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3000.0, 5.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3000.0, 5.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "6",
+        "target": "Battery Life in Hours",
+        "options": [
+            "Phone Battery Capacity",
+            "Phone Screen Size"
+        ],
+        "values": "3500.0, 4.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.0, 25.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.5, 20.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.8, 22.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "3.2, 16.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.2, 26.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.4, 24.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "3.0, 18.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.8, 22.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.5, 20.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.0, 25.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.8, 22.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "3.0, 18.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "3.2, 16.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "3.0, 18.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.4, 24.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.6, 23.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.6, 23.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.4, 24.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "3.0, 18.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "64",
+        "target": "Top speed",
+        "options": [
+            "Engine size",
+            "Fuel efficiency"
+        ],
+        "values": "2.8, 22.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "8.0, 16.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "10.0, 14.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "3.0, 10.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "4.0, 11.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "8.0, 12.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "10.0, 11.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "7.0, 13.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "9.0, 12.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "6.0, 11.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "5.0, 12.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "4.0, 11.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "3.0, 10.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "10.0, 11.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "8.0, 12.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "9.0, 12.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "7.0, 13.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "10.0, 14.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "8.0, 16.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "5.0, 12.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "52",
+        "target": "Salary",
+        "options": [
+            "Experience",
+            "Years of education"
+        ],
+        "values": "6.0, 11.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "600.0, 24.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "500.0, 27.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "600.0, 24.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "500.0, 32.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "550.0, 22.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "450.0, 25.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "500.0, 27.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "600.0, 24.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "400.0, 30.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "500.0, 27.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "550.0, 22.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "450.0, 25.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "500.0, 27.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "600.0, 24.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "500.0, 32.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "400.0, 30.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "400.0, 30.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "500.0, 27.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "450.0, 25.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "69",
+        "target": "Viewing quality",
+        "options": [
+            "Brightness",
+            "Screen size"
+        ],
+        "values": "550.0, 22.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "325.0, 40.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "300.0, 45.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "300.0, 45.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "325.0, 40.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "300.0, 45.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "325.0, 40.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "350.0, 30.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "375.0, 25.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "325.0, 40.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "350.0, 30.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "375.0, 25.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "350.0, 30.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "350.0, 30.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "325.0, 40.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "325.0, 40.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "350.0, 30.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "375.0, 25.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "350.0, 30.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "350.0, 30.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "3",
+        "target": "Bakedness",
+        "options": [
+            "Temperature",
+            "Time in oven"
+        ],
+        "values": "375.0, 25.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "45.0, 16.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "65.0, 20.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "38.0, 10.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "58.0, 16.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "65.0, 20.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "45.0, 16.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "55.0, 14.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "35.0, 8.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "35.0, 8.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "55.0, 14.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "60.0, 18.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "40.0, 12.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "40.0, 12.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "60.0, 18.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "50.0, 15.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "30.0, 10.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "30.0, 10.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "50.0, 15.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "58.0, 16.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "34",
+        "target": "Growth Rate (cm/week)",
+        "options": [
+            "Plant Height (cm)",
+            "Plant Leaf Count"
+        ],
+        "values": "38.0, 10.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "5.0, 3.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "6.0, 2.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "3.0, 5.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "4.0, 4.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "4.0, 4.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "5.0, 3.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "5.0, 3.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "6.0, 2.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "3.0, 5.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "4.0, 4.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "5.0, 3.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "6.0, 2.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "4.0, 4.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "5.0, 3.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "6.0, 2.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "7.0, 1.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "6.0, 2.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "7.0, 1.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "5.0, 3.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "23",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "4.0, 4.0"
+    },
+    {
+        "trial_id": "1",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "6.0, 2.0"
+    },
+    {
+        "trial_id": "2",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "5.0, 3.0"
+    },
+    {
+        "trial_id": "3",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "4.0, 4.0"
+    },
+    {
+        "trial_id": "4",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "3.0, 5.0"
+    },
+    {
+        "trial_id": "5",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "7.0, 1.0"
+    },
+    {
+        "trial_id": "6",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "6.0, 2.0"
+    },
+    {
+        "trial_id": "7",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "5.0, 5.0"
+    },
+    {
+        "trial_id": "8",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "4.0, 6.0"
+    },
+    {
+        "trial_id": "9",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "8.0, 2.0"
+    },
+    {
+        "trial_id": "10",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "7.0, 3.0"
+    },
+    {
+        "trial_id": "11",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "6.0, 3.0"
+    },
+    {
+        "trial_id": "12",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "5.0, 4.0"
+    },
+    {
+        "trial_id": "13",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "4.0, 2.0"
+    },
+    {
+        "trial_id": "14",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "3.0, 3.0"
+    },
+    {
+        "trial_id": "15",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "7.0, 4.0"
+    },
+    {
+        "trial_id": "16",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "6.0, 5.0"
+    },
+    {
+        "trial_id": "17",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "5.0, 1.0"
+    },
+    {
+        "trial_id": "18",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Study Time (hours)",
+            "Difficulty Level"
+        ],
+        "values": "4.0, 2.0"
+    },
+    {
+        "trial_id": "19",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "4.0, 4.0"
+    },
+    {
+        "trial_id": "20",
+        "task_id": "24",
+        "target": "Exam Score",
+        "options": [
+            "Time Spent Studying",
+            "Difficulty of Material"
+        ],
+        "values": "5.0, 3.0"
+    }
+]}

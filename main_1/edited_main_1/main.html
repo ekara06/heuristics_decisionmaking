@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="jatos.js"></script>
+    <title>Decision Making Experiment</title>
+    <style>
+        body {
+            line-height: 1.5;
+        }
+        .button-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .button-with-option {
+            text-align: center;
+            margin: 0 20px;
+        }
+        .keyboard-button {
+            width: 150px;
+            height: 70px;
+            background-color: #007bff;
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .option-text {
+            display: block;
+            margin-top: 10px;
+            font-size: 18px;
+        }
+        h1, h2, .certainty-scale p {
+            text-align: center;
+            font-size: 24px;
+        }
+        .intro-text {
+            font-size: 18px;
+            text-align: center;
+            margin: 20px;
+        }
+        img {
+            display: inline-block;
+            margin: 10px;
+            max-width: 300px;
+        }
+        .welcome-text {
+            margin-bottom: 20px; /* Adjust the value as needed */
+        }
+    </style>
+</head>
+<body>
+    <!-- Introduction Page -->
+    <div class="container" id="pageIntro" style="display: block;">
+        <h1>Welcome to the Decision-Making Experiment</h1>
+        <div class="intro-text">
+            <p>Thank you for participating in our research study!</p>
+            <p>This study is part of a project conducted by the <b>Human-Centered AI Lab</b> at Helmholtz Munich, Germany.</p>
+            <p>In this experiment, you will be asked to make a series of decisions between two options.</p>
+            <p>To proceed, please read the consent form carefully and confirm your participation below.</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="./figs/munich.jpeg" style="width: 400px; height: 200px;" />
+            <img src="./figs/helm.jpeg" style="width: 400px; height: 200px;" />
+        </div>
+        <div class="intro-text">
+            <h4>Confidentiality</h4>
+			Your participation in this study will remain confidential.
+			Your Prolific ID will NOT be shared with anyone outside the research team.
+	  
+			<h4>Participation and withdrawal</h4>
+			Your participation in this study is completely voluntary and you may refuse to participate<br>
+			or you may choose to withdraw at any time.<br>
+			However, you will only be paid for the participation upon completion<br>
+			and if you enter the correct completion code provided at the end of the study.
+  
+			
+			<h4>Data protection</h4>
+			Your data will be anonymized and only used in the manner described in our data protection sheet,
+			available <a href="https://kyblab.tuebingen.mpg.de/compositionalbandits/data_protection.pdf" target="_blank">here</a> 
+			(please do not fill out this sheet!).
+			The following text box summarizes the main points. Please read it carefully and provide consent below:<br>
+			<br>
+			
+			<textarea rows="10" cols="150" readonly>
+The processing and use of the collected data occurs in a pseudoanonymized form within the scope of the legally prescribed provisions.
+As a general rule, the storage occurs in the form of answered questionnaires, as well as electronic data, for a duration of 10 years or longer, if this is required by the purpose of the study.
+
+By providing of further personal data in pseudoanonymized form, collected personal data may be used for the preparation of anonymized
+scientific research work and may also be published and used in an anonymized form in medical journals and scientific publications, so that a direct assignment to my person cannot be established.
+
+The information obtained during the course of this study may also be sent in an anonymized form to cooperation partners within the scope of
+the European General Data Protection Regulation for scientific purposes and to cooperation partners outside of the European Union, i.e. to countries with a lower data protection level (this also applies to the USA).
+
+The data collected within the scope of the study can also be used and processed in the future inside of the Max Planck Institute.
+
+I was informed about my rights, that at any time:
+
+I can withdraw this declaration of consent.
+
+I can request information about my stored data and request the correction or blocking of data.
+
+By cancellation of my participation in the study,
+I can request that any personal data of mine collected until that point are immediately deleted or anonymized.
+
+I can request that my personal data are handed out to me or to third parties (if technically feasible).
+
+I herewith declare that:
+
+I have been adequately informed about the collection and processing of my personal data and rights.
+
+I consent to the collection and processing of personal data within the scope of the study and its pseudoanonymized disclosure,
+so that only the persons conducting the study can establish a link between the data and my person.
+
+Agreement:
+
+I agree to participate in this experiment.
+
+I consent to the use of my data described in the Data Protection Information Sheet
+and confirm having received a copy of the Data Protection Sheet.
+
+I consent to data transfer.
+			</textarea>      
+			
+			<br>
+			<br>
+			By selecting the consent option below,
+			you acknowledge that you fulfill all of the participation criteria
+			and you agree to your data being used as described.
+			<br>
+			<br>
+            <p>Click the button below to consent and begin the experiment.</p>
+        </div>
+        <div style="text-align: center;">
+            <button class="keyboard-button" id="buttonConsent">I Consent</button>
+        </div>
+    </div>
+
+    <!-- Task Introduction Page -->
+    <div class="container" id="pageTaskIntro" style="display: none;">
+        <br>
+        <p class="welcome-text" style="font-size:125%; text-align: center;">
+            Welcome!
+        </p>
+        <p style="font-size:125%; text-align: center;">
+
+            This study explores how people make decisions in real-life contexts..<br>
+            In each question, you will see a statement asking you to choose a condition based on a target name.<br>
+            Your task is to decide which option you like. <br>
+            Please make a decision in each question based on your <b>intuition</b>. There are no correct or wrong answers. <br>
+            <br>
+            Now you will be presented with the questions as shown in the example below, each question will offer two options; F and J.<br>
+            To answer the questions, please use the keyboard buttons F and J on your keyboard.<br> 
+            <img src="figs/matrix.jpg" style="max-width: 50%; height: auto; margin-top: 20px;">
+            <br>
+        </p>
+        <div style="text-align: center; margin-top: 20px;">
+        </div>
+        <p style="font-size:125%; text-align: center; margin-top: 20px;">
+            <br>
+            <b style="color:maroon;">The study is not compatible with mobile devices, please make sure to use a computer.</b>
+            <br>
+            <button class="keyboard-button" id="buttonTaskIntroNext" style="margin-top: 20px;">Next</button>
+        </p>
+    </div>
+
+    <!-- Question Page -->
+<div class="container" id="page3" style="display: none;">
+    
+    <!-- Progress text at the top -->
+    <div style="text-align: center; margin-top: 20px;">
+        <p id="progressText" style="font-size: 18px; font-weight: normal; margin: 0;">
+            Question 1 of 50
+        </p>
+    </div>
+
+    <!-- Centered question + table -->
+    <div style="
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: calc(100vh - 100px);
+        padding-top: 20px;
+        text-align: center;
+    ">
+        <!-- The question -->
+        <h2 id="dynamicQuestion" style="margin-bottom: 20px; font-weight: normal;">
+            Which of the following two items has the higher <span id="targetName" style="font-weight: bold;"></span>?
+        </h2>        
+
+        <!-- Table with options -->
+        <table id="dynamicTable" border="1" style="
+        text-align: center;
+        width: 600px;
+        border-collapse: collapse;
+        font-size: 18px;
+        margin-top: 20px;
+        ">
+            <thead>
+                <tr>
+                    <th>Feature</th>
+                    <th>
+                        <button class="keyboard-button" id="btnF" style="width: 120px; height: 50px; font-size: 18px;">Choose F</button>
+                    </th>
+                    <th>
+                        <button class="keyboard-button" id="btnJ" style="width: 120px; height: 50px; font-size: 18px;">Choose J</button>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Dynamically filled by JS -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="container" id="pageAttentionCheck" style="display: none;">
+    <div style="text-align: center; margin-top: 20px;">
+        <p id="progressTextAttention" style="font-size: 18px; font-weight: bold; margin: 0;">
+            Attention Check
+        </p>
+    </div>
+
+    <div style="
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: calc(100vh - 100px);
+        padding-top: 20px;
+        text-align: center;
+    ">
+        <h2 style="margin-bottom: 20px;">
+            If you see this page, press F to continue.
+        </h2>
+
+        <table border="1" style="width: 600px; border-collapse: collapse; text-align: center; font-size: 18px;">
+            <thead>
+                <tr>
+                    <th>Feature</th>
+                    <th>
+                        <button class="keyboard-button" id="btnAttentionF" style="width: 120px; height: 50px; font-size: 18px;">Choose F</button>
+                    </th>
+                    <th>
+                        <button class="keyboard-button" id="btnAttentionJ" style="width: 120px; height: 50px; font-size: 18px;">Choose J</button>
+                    </th>                    
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Attention</td>
+                    <td colspan="2">If you see this question, press F to continue.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+    <!-- End of Study Page -->
+    <div class="container" id="pageEnd" style="display: none;">
+        <h2>Thank You for Participating!</h2>
+        <p>Your responses have been recorded.</p>
+        <p>Click below to save your responses.</p>
+        <button class="keyboard-button" id="buttonSaveResponses">Save Responses</button>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const prolificID = urlParams.get('PROLIFIC_PID');
+        sessionStorage.setItem('prolific_id', prolificID); // Save for later use
+    </script>
+    
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+Feature_3 name,corr_1_3,corr_2_3,known_ranking,known_direction
+Speed (mph),0.97,0.92,True,True
+Value,1.0,0.94,True,True
+Satiety,0.97,0.96,True,True
+BMI,0.27,0.57,False,True
+Comfort Index,0.99,0.85,True,True
+Phone Satisfaction,0.88,0.91,False,True
+Phone battery life (hours),0.94,0.33,True,True
+House price ($),0.92,0.92,False,True
+Exam score (%),0.99,0.97,True,True
+Plant yield (kg),0.94,0.93,True,True
+Taste rating (1-10),0.96,0.96,False,True
+Garden growth (cm/week),0.96,0.97,False,True
+Car Speed,1.0,0.99,True,True
+Phone Usage Time,1.0,1.0,False,True
+Meal Energy Boost,1.0,0.99,True,True
+Book Enjoyment,0.72,0.69,True,True
+Shoe Comfort,0.47,0.93,False,True
+Plant Growth,1.0,1.0,False,True
+Dog Energy Level,0.47,0.93,False,True
+Bike Speed,0.99,1.0,False,True
+Room Brightness,0.15,1.0,False,True
+Tea Effectiveness,0.57,0.95,False,True
+Battery Life,0.97,0.41,True,True
+Fruit Yield,0.99,0.89,True,True
+Knowledge Content,0.01,0.45,False,True
+Exam Score,0.75,-0.75,False,False
+Travel Time (min),0.75,-0.16,True,False
+Car Value ($),-0.94,-0.95,False,False
+Comfort Rating,0.9,-0.96,False,False
+Car acceleration (0-60 mph in seconds),-0.95,-0.84,True,False
+Race time (minutes),-0.94,-0.67,True,False
+Product popularity,0.89,-0.88,True,False
+Car cost ($),0.99,-0.98,True,False
+Time to Destination,-0.93,-0.04,True,False
+Time to Prepare,0.95,-0.62,True,False
+Score,0.64,-0.65,False,False
+Fuel Efficiency,-0.96,-0.95,True,False
+Comfort,0.47,-0.95,False,False
+Market Price,-0.1,0.82,False,False
+Fuel Efficiency (miles per gallon),-0.98,-0.99,False,False
+Test Score,-0.41,0.84,False,False
+Travel Time (minutes),0.32,-0.19,True,False
+Job Performance Score,0.78,-0.63,True,False
+Value per sq ft,0.21,-0.05,True,False
+Comfort (1-10),-0.69,0.89,False,False
+Distance Traveled (km),0.85,-0.85,False,False
+Battery Life (hours),-0.76,0.95,False,False
+Cooking Time (min),-0.94,0.98,False,False
+Fun Score (1-10),0.8,-0.96,False,False
+Sound Quality (1-10),-0.75,0.83,False,False

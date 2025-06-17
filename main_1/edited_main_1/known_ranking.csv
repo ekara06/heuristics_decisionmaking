@@ -1,0 +1,51 @@
+Feature_3 name,corr_1_3,corr_2_3,known_ranking,known_direction
+Speed (mph),0.97,0.92,True,True
+Value,1.0,0.94,True,True
+Satiety,0.97,0.96,True,True
+Travel Time (min),0.75,-0.16,True,False
+Comfort Index,0.99,0.85,True,True
+Phone battery life (hours),0.94,0.33,True,True
+Car acceleration (0-60 mph in seconds),-0.95,-0.84,True,False
+Race time (minutes),-0.94,-0.67,True,False
+Exam score (%),0.99,0.97,True,True
+Plant yield (kg),0.94,0.93,True,True
+Product popularity,0.89,-0.88,True,False
+Car cost ($),0.99,-0.98,True,False
+Car Speed,1.0,0.99,True,True
+Meal Energy Boost,1.0,0.99,True,True
+Book Enjoyment,0.72,0.69,True,True
+Time to Destination,-0.93,-0.04,True,False
+Time to Prepare,0.95,-0.62,True,False
+Battery Life,0.97,0.41,True,True
+Fuel Efficiency,-0.96,-0.95,True,False
+Fruit Yield,0.99,0.89,True,True
+Travel Time (minutes),0.32,-0.19,True,False
+Job Performance Score,0.78,-0.63,True,False
+Value per sq ft,0.21,-0.05,True,False
+Energy Boost Score,0.83,0.82,True,True
+Fuel Consumption,0.82,-0.27,True,False
+Book Weight,0.88,-0.74,True,False
+Final Grade,0.97,-0.77,True,False
+Phone Performance Score,1.0,-0.3,True,False
+Market Price,0.41,0.04,True,True
+Energy Consumption,0.96,-0.88,True,False
+Speed Potential,-0.96,-0.47,True,False
+Battery Life in Hours,0.95,-0.73,True,False
+Top speed,0.98,-0.93,True,False
+Salary,0.89,0.81,True,True
+Viewing quality,0.94,-0.34,True,False
+Bakedness,1.0,-0.99,True,False
+Fuel efficiency (km per liter),-0.95,-0.61,True,False
+House price (in thousands),0.48,-0.41,True,False
+Exam score (1-100),0.98,-0.96,True,False
+Fuel Efficiency (km/L),-0.87,-0.86,True,False
+Exam Score (out of 100),0.96,0.29,True,True
+Comfort Rating (1-10),-0.93,-0.17,True,False
+Performance Rating (1-10),0.96,0.94,True,True
+Speed (km/h),-0.96,-0.63,True,False
+Growth Rate (cm/week),-0.93,-0.87,True,False
+Healthiness Rating (1-10),-0.98,-0.2,True,False
+Exam Score,0.97,-0.55,True,False
+Fuel Efficiency (km/L),-0.96,-0.53,True,False
+Weight Loss (kg/week),0.89,0.82,True,True
+Height (meters),0.96,-0.33,True,False
