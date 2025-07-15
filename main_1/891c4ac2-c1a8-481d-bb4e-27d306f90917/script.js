@@ -1,7 +1,8 @@
 let questionIndex = 0;
 let selectedConditions = [];
+sessionStorage.removeItem("attentionShown");
 let jsonData;
-let currentConditionA, currentConditionB;
+let currentConditionF, currentConditionJ;
 
 // Show only the requested page
 function showPage(pageId) {
@@ -12,7 +13,11 @@ function showPage(pageId) {
 // Load JSON once and store it
 async function loadJSON() {
     try {
-        let response = await fetch("main.json");
+        // Randomly assign to one group
+        const group = Math.random() < 0.5 ? "ranking" : "direction";
+        sessionStorage.setItem("conditionGroup", group); // Save group for later 
+
+        const response = await fetch(`${group}.json`);
         jsonData = await response.json();
     } catch (error) {
         console.error("Error loading JSON:", error);
@@ -32,12 +37,17 @@ document.getElementById("buttonTaskIntroNext").addEventListener("click", functio
 
 // Ask the next question
 function askNextQuestion() {
-    if (questionIndex === 25) {
+    console.log(`askNextQuestion called with questionIndex: ${questionIndex}`);
+    console.log(`attentionShown: ${sessionStorage.getItem("attentionShown")}`);
+    
+    // Check for attention check after question 25 (questionIndex = 25)
+    if (questionIndex === 25 && !sessionStorage.getItem("attentionShown")) {
+        console.log("Showing attention check");
         showPage("pageAttentionCheck");
-        document.getElementById("progressTextAttention").textContent = `Attention Check (Question ${questionIndex + 1} of 50)`;
+        document.getElementById("progressTextAttention").textContent = `Attention Check`;
         return;
     }
-
+    
     if (questionIndex >= 50) {
         showPage("pageEnd");
         return;
@@ -46,23 +56,22 @@ function askNextQuestion() {
     document.getElementById("progressText").textContent = `Question ${questionIndex + 1} of 50`;
 
     let shuffledData = jsonData.features.sort(() => 0.5 - Math.random());
-    currentConditionA = shuffledData[0];
+    currentConditionF = shuffledData[0];
 
     // Only pick B that uses the same feature labels as A
-    let compatibleB = jsonData.features.filter(item =>
-    item.options.join() === currentConditionA.options.join()
+    let compatibleJ = jsonData.features.filter(item =>
+    item.options.join() === currentConditionF.options.join()
     );
 
-    currentConditionB = compatibleB[Math.floor(Math.random() * compatibleB.length)];
-    if (!currentConditionB) {
-        console.warn("No compatible condition B found — skipping this trial.");
+    currentConditionJ = compatibleJ[Math.floor(Math.random() * compatibleJ.length)];
+    if (!currentConditionJ) {
+        console.warn("No compatible condition J found — skipping this trial.");
         questionIndex++;
         askNextQuestion();
         return;
     }
 
-
-    document.getElementById("targetName").textContent = currentConditionA.target;
+    document.getElementById("targetName").textContent = currentConditionF.target;
 
     let table = document.getElementById("dynamicTable");
 
@@ -72,73 +81,73 @@ function askNextQuestion() {
 
     // Align valuesB with the order of options in conditionA
     let valuesBObj = {};
-    currentConditionB.options.forEach((feat, idx) => {
-        valuesBObj[feat] = currentConditionB.values.split(", ")[idx];
+    currentConditionJ.options.forEach((feat, idx) => {
+        valuesBObj[feat] = currentConditionJ.values.split(", ")[idx];
     });
 
-    for (let i = 0; i < currentConditionA.options.length; i++) {
+    for (let i = 0; i < currentConditionF.options.length; i++) {
         let row = document.createElement("tr");
 
         let labelCell = document.createElement("td");
-        labelCell.textContent = currentConditionA.options[i];
+        labelCell.textContent = currentConditionF.options[i];
         row.appendChild(labelCell);
 
         let valueA = document.createElement("td");
-        valueA.textContent = currentConditionA.values.split(", ")[i];
+        valueA.textContent = currentConditionF.values.split(", ")[i];
         row.appendChild(valueA);
 
     let valueB = document.createElement("td");
-    valueB.textContent = valuesBObj[currentConditionA.options[i]] || "-";
+    valueB.textContent = valuesBObj[currentConditionF.options[i]] || "-";
         row.appendChild(valueB);
 
         table.appendChild(row);
 }
 
-
     // Reset buttons
-    let btnA = document.getElementById("btnA");
-    let btnB = document.getElementById("btnB");
+    let btnF = document.getElementById("btnF");
+    let btnJ = document.getElementById("btnJ");
 
-    btnA.replaceWith(btnA.cloneNode(true));
-    btnB.replaceWith(btnB.cloneNode(true));
-
-    document.getElementById("btnA").onclick = function () {
-        selectCondition("A");
+    btnF.onclick = function () {
+        selectCondition("F");
     };
-    document.getElementById("btnB").onclick = function () {
-        selectCondition("B");
+    btnJ.onclick = function () {
+        selectCondition("J");
     };
 }
 
 // When user selects an answer
 function selectCondition(choice) {
+    console.log(`selectCondition called with choice: ${choice}, questionIndex: ${questionIndex}`);
+    
     selectedConditions.push({
         question: questionIndex + 1,
-        target: currentConditionA.target,
-        options: currentConditionA.options,
+        target: currentConditionF.target,
+        options: currentConditionF.options,
         optionA: {
-            trial_id: currentConditionA.trial_id,
-            task_id: currentConditionA.task_id,
-            values: currentConditionA.values
+            trial_id: currentConditionF.trial_id,
+            task_id: currentConditionF.task_id,
+            values: currentConditionF.values
         },
         optionB: {
-            trial_id: currentConditionB.trial_id,
-            task_id: currentConditionB.task_id,
-            values: currentConditionB.values
+            trial_id: currentConditionJ.trial_id,
+            task_id: currentConditionJ.task_id,
+            values: currentConditionJ.values
         },
         choice: choice
     });
-    questionIndex++;
-    askNextQuestion();
-}
 
+    questionIndex++; // Increment question index after recording the response
+    console.log(`After increment, questionIndex is now: ${questionIndex}`);
+    askNextQuestion(); // Move to next question (or attention check)
+}
 
 // Save user responses
 document.getElementById("buttonSaveResponses").addEventListener("click", function () {
-    const prolificID = sessionStorage.getItem('prolific_id') || "UNKNOWN";
+    const prolificID = window.prolificID || "UNKNOWN";
 
     const finalData = {
         prolific_id: prolificID,
+        condition_group: sessionStorage.getItem("conditionGroup"),
         responses: selectedConditions
     };
 
@@ -146,7 +155,7 @@ document.getElementById("buttonSaveResponses").addEventListener("click", functio
     jatos.submitResultData(finalData)
         .then(() => {
             // Redirect to Prolific completion page
-            window.location.href = "https://app.prolific.com/submissions/complete?cc=YOUR_COMPLETION_CODE";
+            window.location.href = "https://app.prolific.com/submissions/complete?cc=C1IW5H1T";
         })
         .catch((err) => {
             console.error("Error submitting to JATOS:", err);
@@ -156,15 +165,27 @@ document.getElementById("buttonSaveResponses").addEventListener("click", functio
 
 // Handle keypresses
 document.addEventListener("keydown", function (event) {
-    let key = event.key.toLowerCase();
+    const key = event.key.toLowerCase();
+    console.log(`Key pressed: ${key}`);
 
     if (document.getElementById("page3").style.display === "block") {
-        if (key === "a") document.getElementById("btnA").click();
-        if (key === "b") document.getElementById("btnB").click();
-    }
-
-    if (document.getElementById("pageAttentionCheck").style.display === "block") {
-        if (key === "a") document.getElementById("btnAttentionA").click();
+        if (key === "f") {
+            console.log("F key pressed, calling selectCondition('F')");
+            event.preventDefault(); // Prevent any default behavior
+            selectCondition("F");
+        }
+        if (key === "j") {
+            console.log("J key pressed, calling selectCondition('J')");
+            event.preventDefault(); // Prevent any default behavior
+            selectCondition("J");
+        }
+    }    
+    else if (document.getElementById("pageAttentionCheck").style.display === "block") {
+        if (key === "f") {
+            console.log("F key pressed on attention check");
+            event.preventDefault(); // Prevent any default behavior
+            document.getElementById("btnAttentionF").click();
+        }
     }
 });
 
@@ -172,15 +193,18 @@ document.addEventListener("keydown", function (event) {
 document.addEventListener("DOMContentLoaded", function () {
     loadJSON();
 
-    let btnAttentionA = document.getElementById("btnAttentionA");
-    if (btnAttentionA) {
-        btnAttentionA.addEventListener("click", function () {
+    let btnAttentionF = document.getElementById("btnAttentionF");
+    if (btnAttentionF) {
+        btnAttentionF.addEventListener("click", function () {
+            console.log("Attention check button clicked");
             selectedConditions.push({
                 question: "attention_check",
                 passed: true,
                 timestamp: Date.now()
             });
-            questionIndex++; // move on to next real question
+
+            sessionStorage.setItem("attentionShown", "true");
+            console.log("Set attentionShown to true");
             showPage("page3");
             askNextQuestion();
         });

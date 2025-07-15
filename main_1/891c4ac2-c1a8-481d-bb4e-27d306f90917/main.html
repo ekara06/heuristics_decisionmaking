@@ -83,7 +83,7 @@
 			
 			<h4>Data protection</h4>
 			Your data will be anonymized and only used in the manner described in our data protection sheet,
-			available <a href="https://kyblab.tuebingen.mpg.de/compositionalbandits/data_protection.pdf" target="_blank">here</a> 
+			available <a href="https://github.com/ekara06/heuristics_decisionmaking/blob/09d0f45174f7a155a6447ff38aeddd79227ccd0e/main_1/Ethics_%20Institutional%20Review%20Board%20Certificate%20No%20R64EsXDQ.pdf" target="_blank">here</a> 
 			(please do not fill out this sheet!).
 			The following text box summarizes the main points. Please read it carefully and provide consent below:<br>
 			<br>
@@ -151,12 +151,12 @@ I consent to data transfer.
         <p style="font-size:125%; text-align: center;">
 
             This study explores how people make decisions in real-life contexts..<br>
-            In each question, you will see a statement asking you to choose a condition based on a target name.<br>
-            Your task is to decide which option you like. <br>
+            In each question, you will see two items that are characterized by two features.<br>
+            You then have to decide which of these two items scores higher on a third feature that is shown in the question.<br>
             Please make a decision in each question based on your <b>intuition</b>. There are no correct or wrong answers. <br>
             <br>
-            Now you will be presented with the questions as shown in the example below, each question will offer two options; A and B.<br>
-            To answer the questions, please use the keyboard buttons A and B on your keyboard.<br> 
+            Now you will be presented with the questions as shown in the example below, each question will offer two options; F and J.<br>
+            To answer the questions, please use the keyboard buttons F and J on your keyboard.<br> 
             <img src="figs/matrix.jpg" style="max-width: 50%; height: auto; margin-top: 20px;">
             <br>
         </p>
@@ -192,7 +192,7 @@ I consent to data transfer.
     ">
         <!-- The question -->
         <h2 id="dynamicQuestion" style="margin-bottom: 20px; font-weight: normal;">
-            Which <span id="targetName" style="font-weight: bold;"></span> condition would you choose?
+            Which of the following two items has the higher <span id="targetName" style="font-weight: bold;"></span>?
         </h2>        
 
         <!-- Table with options -->
@@ -207,10 +207,10 @@ I consent to data transfer.
                 <tr>
                     <th>Feature</th>
                     <th>
-                        <button class="keyboard-button" id="btnA" style="width: 120px; height: 50px; font-size: 18px;">Choose A</button>
+                        <button class="keyboard-button" id="btnF" style="width: 120px; height: 50px; font-size: 18px;">Choose F</button>
                     </th>
                     <th>
-                        <button class="keyboard-button" id="btnB" style="width: 120px; height: 50px; font-size: 18px;">Choose B</button>
+                        <button class="keyboard-button" id="btnJ" style="width: 120px; height: 50px; font-size: 18px;">Choose J</button>
                     </th>
                 </tr>
             </thead>
@@ -221,7 +221,6 @@ I consent to data transfer.
     </div>
 </div>
 
-<!-- Attention Check Page -->
 <div class="container" id="pageAttentionCheck" style="display: none;">
     <div style="text-align: center; margin-top: 20px;">
         <p id="progressTextAttention" style="font-size: 18px; font-weight: bold; margin: 0;">
@@ -239,7 +238,7 @@ I consent to data transfer.
         text-align: center;
     ">
         <h2 style="margin-bottom: 20px;">
-            If you see this page, press A to continue.
+            If you see this page, press F to continue.
         </h2>
 
         <table border="1" style="width: 600px; border-collapse: collapse; text-align: center; font-size: 18px;">
@@ -247,24 +246,22 @@ I consent to data transfer.
                 <tr>
                     <th>Feature</th>
                     <th>
-                        <button class="keyboard-button" id="btnAttentionA" style="width: 120px; height: 50px; font-size: 18px;">Choose A</button>
+                        <button class="keyboard-button" id="btnAttentionF" style="width: 120px; height: 50px; font-size: 18px;">Choose F</button>
                     </th>
                     <th>
-                        <button class="keyboard-button" id="btnAttentionB" style="width: 120px; height: 50px; font-size: 18px;">Choose B</button>
+                        <button class="keyboard-button" id="btnAttentionJ" style="width: 120px; height: 50px; font-size: 18px;">Choose J</button>
                     </th>                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>Attention</td>
-                    <td colspan="2">If you see this question, press A to continue.</td>
+                    <td colspan="2">If you see this question, press F to continue.</td>
                 </tr>
             </tbody>
         </table>
     </div>
 </div>
-
-
 
     <!-- End of Study Page -->
     <div class="container" id="pageEnd" style="display: none;">
@@ -275,9 +272,10 @@ I consent to data transfer.
     </div>
 
     <script>
-        const urlParams = new URLSearchParams(window.location.search);
-        const prolificID = urlParams.get('PROLIFIC_PID');
-        sessionStorage.setItem('prolific_id', prolificID); // Save for later use
+            const urlParams = new URLSearchParams(window.location.search);
+            const prolificID = urlParams.get('PROLIFIC_PID');
+            window.prolificID = prolificID;
+            console.log("PROLIFIC_PID set to:", prolificID); // Test için logla
     </script>
     
     <script src="script.js"></script>
