@@ -79,15 +79,12 @@ def filter_json_files(input_directory, output_directory):
     print(f"Files excluded: {failed_count}")
     print(f"Filtered files saved to: {output_directory}")
 
-# Example usage
+# usage
 if __name__ == "__main__":
     # Set your input and output directories here
-    input_dir = "/Users/elifkara/Desktop/jatos_results_data_20250826/input_jsons"      # Directory containing your JSON files
-    output_dir = "/Users/elifkara/Desktop/jatos_results_data_20250826/filtered_jsons"  # Directory where filtered files will be saved
+    input_dir = "/jatos_results_data_20250826/input_jsons"      # Directory containing your JSON files
+    output_dir = "/jatos_results_data_20250826/filtered_jsons"  # Directory where filtered files will be saved
     
-    # Alternative: Process files in current directory
-    # input_dir = "."
-    # output_dir = "filtered_results"
     
     filter_json_files(input_dir, output_dir)
     
