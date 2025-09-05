@@ -8,4 +8,5 @@ ROAD TO GINI PLOT
      this py script creates a folder called csv_output which supposed to have ranking.csv and direction.csv
 3) go to csv_output/Processed_data
      ginicoeff_analyses.py = script for creating one avg coeff value
-     plot_gini.py = creating boxplot with gini values of ranking and direction conditions. 
+     plot_gini.py = creating boxplot with gini values of ranking and direction conditions. (the original fine we used earlier)
+     gini_barplot.py = creating bar plot with average Ginis per condition
