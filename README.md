@@ -1,5 +1,5 @@
 jatos_results_data_20250901104501.zip = RAW result txt files
-input_jsons.zip = results as json
+<br>input_jsons.zip = results as json<br>
 filtered_json = filtered results after attention check
 
 ROAD TO GINI PLOT
