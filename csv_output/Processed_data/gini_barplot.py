@@ -3,7 +3,7 @@ import numpy as np
 from scipy.optimize import minimize
 import matplotlib.pyplot as plt
 
-files = ["/Users/elifkara/Desktop/jatos_results_data_20250826/csv_output/Processed_data/ranking_data.csv", "/Users/elifkara/Desktop/jatos_results_data_20250826/csv_output/Processed_data/direction_data.csv"]
+files = ["/jatos_results_data_20250826/csv_output/Processed_data/ranking_data.csv", "/jatos_results_data_20250826/csv_output/Processed_data/direction_data.csv"]
 all_ginis = []
 labels = []
 
