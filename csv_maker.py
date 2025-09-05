@@ -145,11 +145,11 @@ def process_json_files_to_csv(input_directory, output_directory):
         unique_files = len(set(row['source_file'] for row in rows))
         print(f"  {condition}: {len(rows)} questions from {unique_files} files")
 
-# Example usage
+# Files
 if __name__ == "__main__":
     # Set your directories here
-    input_dir = "/Users/elifkara/Desktop/jatos_results_data_20250826/filtered_jsons"     # Directory with your filtered JSON files
-    output_dir = "/Users/elifkara/Desktop/jatos_results_data_20250826/csv_output"        # Directory where CSV files will be saved
+    input_dir = "/jatos_results_data_20250826/filtered_jsons"     # Directory with your filtered JSON files
+    output_dir = "/jatos_results_data_20250826/csv_output"        # Directory where CSV files will be saved
 
     
     # Alternative: if your filtered files are in current directory
