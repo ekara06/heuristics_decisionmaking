@@ -41,6 +41,7 @@ for file in files:
 
         x0 = [w1, w2, beta]
         res = minimize(neg_loglikelihood, x0)
+        print(res.fun)
         w = res.x[:2]
 
         def gini(x):
