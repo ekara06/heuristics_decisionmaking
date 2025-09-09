@@ -12,7 +12,7 @@ for file in files:
     df = pd.read_csv(file)
     df["task"] = df["optionA_task_id"].astype(str) + "_" + df["optionB_task_id"].astype(str)
 
-    
+    '''    
     # Model 2: binarize based on relatives values
     df['feature1_value_F_bin'] = (df['optionA_value1'] > df['optionB_value1']).astype(float)
     df['feature2_value_F_bin'] = (df['optionA_value2'] > df['optionB_value2']).astype(float)
@@ -30,6 +30,7 @@ for file in files:
     df['feature1_value_J_bin'] = df['optionB_value1'].astype(float)
     df['feature2_value_J_bin'] = df['optionB_value2'].astype(float)
     
+    '''
 
     # Model 4: binarize based on median
     df['feature1_value_F_bin'] = (df['optionA_value1'] > df['optionA_value1'].median()).astype(float)
