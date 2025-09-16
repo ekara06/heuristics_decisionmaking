@@ -1,0 +1,46 @@
+#regret minimization model
+#people choose to minimize their potential regret
+
+#regret = difference between outcome of the chosen option and the better outcome
+        #they couldve had. 
+
+        #regret sensitivity 
+
+# --- REGRET MINIMIZATION MODEL ---
+def neg_loglikelihood_Regret(x, df_task):
+    # Parameters to fit: x[0] is w1, x[1] is w2, x[2] is beta (bias), x[3] is r (regret sensitivity)
+    w1, w2, beta, r = x
+    
+    # Calculate the advantage of one option over the other for each feature
+    # Note: We use the actual feature values here, not the binary ones.
+    adv_F_f1 = df_task["feature1_value_F"] - df_task["feature1_value_J"]
+    adv_F_f2 = df_task["feature2_value_F"] - df_task["feature2_value_J"]
+
+    # Regret for choosing F is the weighted sum of J's advantages (i.e., F's disadvantages)
+    # np.maximum(0, -adv_F_f1) is equivalent to max(0, J_f1 - F_f1)
+    regret_for_F = r * (w1 * np.maximum(0, -adv_F_f1) + w2 * np.maximum(0, -adv_F_f2))
+    
+    # Regret for choosing J is the weighted sum of F's advantages
+    regret_for_J = r * (w1 * np.maximum(0, adv_F_f1) + w2 * np.maximum(0, adv_F_f2))
+    
+    # The decision variable is the difference in anticipated regret
+    y_difference = beta + (regret_for_J - regret_for_F)
+    
+    prob_F = 1 / (1 + np.exp(-y_difference))
+    prob_F = np.clip(prob_F, 1e-5, 1 - 1e-5) # Clip to avoid log(0)
+
+    human_choices = np.where(df_task["answer"] == "F", 1, 0)
+    log_likelihood = np.sum(human_choices * np.log(prob_F) + (1 - human_choices) * np.log(1 - prob_F))
+
+    return -log_likelihood
+
+#interaction 
+#the offect of one feature depends on the level of another
+
+#reference point 
+# value - reference point 
+
+#elimination by aspects
+#identifying the most important feature and set a minimum threshold for that feature 
+#eliminate the ones that dont meet the threshold
+
