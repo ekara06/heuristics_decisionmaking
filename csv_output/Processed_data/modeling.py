@@ -118,7 +118,7 @@ for model_index, model in enumerate(models):
                     else:
                         bonus_parameters += 2
                         
-                model_performances[model_index, binarization_strategy_index, task_index] = (num_parameters[model_index] + bonus_parameters) * math.log(len(df_task)) + 2 * res.fun 
+                model_performances[model_index, binarization_strategy_index, task_index] = 2 * res.fun + (num_parameters[model_index] + bonus_parameters) * math.log(len(df_task))
                 task_index = task_index + 1
 
 # average goodness-of-fit
@@ -129,6 +129,7 @@ print(model_performances.mean(-1))
 #counts = np.bincount(mins, minlength=model_performances.shape[-1])
 #print("Counts:", counts)
 
+# TODO MAYBE better groupBMC
 winning_models = np.zeros(len(models))
 winning_binarization_strategies = np.zeros(len(binarization_strategies))
           
