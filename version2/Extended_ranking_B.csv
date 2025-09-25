@@ -1,0 +1,1001 @@
+Feature 1 name,Feature 1 value,Feature 2 name,Feature 2 value,Target name,Target value,task_id,trial_id
+Car age,5.0,Maintenance cost,1000,Reliability,70.0,51,1
+Car age,4.0,Maintenance cost,1200,Reliability,75.0,51,2
+Car age,3.0,Maintenance cost,1500,Reliability,85.0,51,3
+Car age,2.0,Maintenance cost,1700,Reliability,90.0,51,4
+Car age,10.0,Maintenance cost,500,Reliability,50.0,51,5
+Car age,9.0,Maintenance cost,600,Reliability,55.0,51,6
+Car age,8.0,Maintenance cost,800,Reliability,60.0,51,7
+Car age,7.0,Maintenance cost,900,Reliability,65.0,51,8
+Car age,2.0,Maintenance cost,2000,Reliability,95.0,51,9
+Car age,3.0,Maintenance cost,2200,Reliability,92.0,51,10
+Car age,6.0,Maintenance cost,900,Reliability,75.0,51,11
+Car age,5.0,Maintenance cost,1000,Reliability,80.0,51,12
+Car age,4.0,Maintenance cost,1400,Reliability,80.0,51,13
+Car age,3.0,Maintenance cost,1600,Reliability,85.0,51,14
+Car age,7.0,Maintenance cost,1100,Reliability,65.0,51,15
+Car age,6.0,Maintenance cost,1200,Reliability,70.0,51,16
+Car age,1.0,Maintenance cost,2500,Reliability,100.0,51,17
+Car age,2.0,Maintenance cost,2700,Reliability,98.0,51,18
+Car age,9.0,Maintenance cost,700,Reliability,55.0,51,19
+Car age,8.0,Maintenance cost,800,Reliability,60.0,51,20
+Engine power (hp),200.0,Weight (kg),1500,Car speed (mph),110.0,52,1
+Engine power (hp),150.0,Weight (kg),1400,Car speed (mph),100.0,52,2
+Engine power (hp),250.0,Weight (kg),1600,Car speed (mph),120.0,52,3
+Engine power (hp),140.0,Weight (kg),1500,Car speed (mph),95.0,52,4
+Engine power (hp),300.0,Weight (kg),1400,Car speed (mph),130.0,52,5
+Engine power (hp),130.0,Weight (kg),1600,Car speed (mph),85.0,52,6
+Engine power (hp),180.0,Weight (kg),1300,Car speed (mph),105.0,52,7
+Engine power (hp),160.0,Weight (kg),1400,Car speed (mph),100.0,52,8
+Engine power (hp),220.0,Weight (kg),1700,Car speed (mph),115.0,52,9
+Engine power (hp),170.0,Weight (kg),1600,Car speed (mph),90.0,52,10
+Engine power (hp),240.0,Weight (kg),1500,Car speed (mph),120.0,52,11
+Engine power (hp),150.0,Weight (kg),1500,Car speed (mph),100.0,52,12
+Engine power (hp),310.0,Weight (kg),1300,Car speed (mph),135.0,52,13
+Engine power (hp),120.0,Weight (kg),1400,Car speed (mph),80.0,52,14
+Engine power (hp),190.0,Weight (kg),1400,Car speed (mph),108.0,52,15
+Engine power (hp),170.0,Weight (kg),1500,Car speed (mph),98.0,52,16
+Engine power (hp),260.0,Weight (kg),1600,Car speed (mph),125.0,52,17
+Engine power (hp),140.0,Weight (kg),1700,Car speed (mph),90.0,52,18
+Engine power (hp),280.0,Weight (kg),1500,Car speed (mph),130.0,52,19
+Engine power (hp),130.0,Weight (kg),1600,Car speed (mph),85.0,52,20
+Age of the plant (weeks),4.0,Water given (ml/day),500,Height (cm),12.0,53,1
+Age of the plant (weeks),3.0,Water given (ml/day),600,Height (cm),10.0,53,2
+Age of the plant (weeks),5.0,Water given (ml/day),400,Height (cm),14.0,53,3
+Age of the plant (weeks),4.0,Water given (ml/day),500,Height (cm),12.0,53,4
+Age of the plant (weeks),6.0,Water given (ml/day),300,Height (cm),16.0,53,5
+Age of the plant (weeks),3.0,Water given (ml/day),600,Height (cm),11.0,53,6
+Age of the plant (weeks),3.0,Water given (ml/day),600,Height (cm),10.0,53,7
+Age of the plant (weeks),5.0,Water given (ml/day),400,Height (cm),14.0,53,8
+Age of the plant (weeks),4.0,Water given (ml/day),500,Height (cm),13.0,53,9
+Age of the plant (weeks),2.0,Water given (ml/day),700,Height (cm),9.0,53,10
+Age of the plant (weeks),5.0,Water given (ml/day),400,Height (cm),15.0,53,11
+Age of the plant (weeks),3.0,Water given (ml/day),600,Height (cm),11.0,53,12
+Age of the plant (weeks),6.0,Water given (ml/day),300,Height (cm),17.0,53,13
+Age of the plant (weeks),4.0,Water given (ml/day),500,Height (cm),13.0,53,14
+Age of the plant (weeks),4.0,Water given (ml/day),600,Height (cm),12.0,53,15
+Age of the plant (weeks),5.0,Water given (ml/day),400,Height (cm),14.0,53,16
+Age of the plant (weeks),3.0,Water given (ml/day),700,Height (cm),11.0,53,17
+Age of the plant (weeks),4.0,Water given (ml/day),500,Height (cm),13.0,53,18
+Age of the plant (weeks),5.0,Water given (ml/day),300,Height (cm),15.0,53,19
+Age of the plant (weeks),6.0,Water given (ml/day),400,Height (cm),16.0,53,20
+Amount of fertilizer (grams),200.0,Rainfall (mm/week),100,Garden yield (kg),50.0,54,1
+Amount of fertilizer (grams),150.0,Rainfall (mm/week),150,Garden yield (kg),45.0,54,2
+Amount of fertilizer (grams),250.0,Rainfall (mm/week),80,Garden yield (kg),55.0,54,3
+Amount of fertilizer (grams),200.0,Rainfall (mm/week),120,Garden yield (kg),50.0,54,4
+Amount of fertilizer (grams),300.0,Rainfall (mm/week),70,Garden yield (kg),60.0,54,5
+Amount of fertilizer (grams),180.0,Rainfall (mm/week),130,Garden yield (kg),48.0,54,6
+Amount of fertilizer (grams),180.0,Rainfall (mm/week),120,Garden yield (kg),52.0,54,7
+Amount of fertilizer (grams),220.0,Rainfall (mm/week),100,Garden yield (kg),54.0,54,8
+Amount of fertilizer (grams),220.0,Rainfall (mm/week),90,Garden yield (kg),54.0,54,9
+Amount of fertilizer (grams),160.0,Rainfall (mm/week),140,Garden yield (kg),47.0,54,10
+Amount of fertilizer (grams),240.0,Rainfall (mm/week),110,Garden yield (kg),56.0,54,11
+Amount of fertilizer (grams),190.0,Rainfall (mm/week),100,Garden yield (kg),51.0,54,12
+Amount of fertilizer (grams),280.0,Rainfall (mm/week),80,Garden yield (kg),58.0,54,13
+Amount of fertilizer (grams),170.0,Rainfall (mm/week),130,Garden yield (kg),49.0,54,14
+Amount of fertilizer (grams),200.0,Rainfall (mm/week),130,Garden yield (kg),53.0,54,15
+Amount of fertilizer (grams),250.0,Rainfall (mm/week),90,Garden yield (kg),56.0,54,16
+Amount of fertilizer (grams),260.0,Rainfall (mm/week),70,Garden yield (kg),59.0,54,17
+Amount of fertilizer (grams),150.0,Rainfall (mm/week),150,Garden yield (kg),46.0,54,18
+Amount of fertilizer (grams),300.0,Rainfall (mm/week),100,Garden yield (kg),60.0,54,19
+Amount of fertilizer (grams),180.0,Rainfall (mm/week),120,Garden yield (kg),50.0,54,20
+Number of likes (count),1000.0,Time posted (hours ago),2,Post reach (people),5000.0,55,1
+Number of likes (count),800.0,Time posted (hours ago),4,Post reach (people),4000.0,55,2
+Number of likes (count),1200.0,Time posted (hours ago),1,Post reach (people),6000.0,55,3
+Number of likes (count),900.0,Time posted (hours ago),5,Post reach (people),4500.0,55,4
+Number of likes (count),800.0,Time posted (hours ago),3,Post reach (people),4000.0,55,5
+Number of likes (count),1100.0,Time posted (hours ago),2,Post reach (people),5500.0,55,6
+Number of likes (count),900.0,Time posted (hours ago),5,Post reach (people),4500.0,55,7
+Number of likes (count),1300.0,Time posted (hours ago),1,Post reach (people),6500.0,55,8
+Number of likes (count),1100.0,Time posted (hours ago),4,Post reach (people),5500.0,55,9
+Number of likes (count),1000.0,Time posted (hours ago),3,Post reach (people),5000.0,55,10
+Number of likes (count),1300.0,Time posted (hours ago),2,Post reach (people),6500.0,55,11
+Number of likes (count),900.0,Time posted (hours ago),6,Post reach (people),4500.0,55,12
+Number of likes (count),1000.0,Time posted (hours ago),6,Post reach (people),5000.0,55,13
+Number of likes (count),1200.0,Time posted (hours ago),3,Post reach (people),6000.0,55,14
+Number of likes (count),800.0,Time posted (hours ago),4,Post reach (people),4000.0,55,15
+Number of likes (count),1400.0,Time posted (hours ago),2,Post reach (people),7000.0,55,16
+Number of likes (count),1200.0,Time posted (hours ago),5,Post reach (people),6000.0,55,17
+Number of likes (count),1000.0,Time posted (hours ago),4,Post reach (people),5000.0,55,18
+Number of likes (count),900.0,Time posted (hours ago),3,Post reach (people),4500.0,55,19
+Number of likes (count),1300.0,Time posted (hours ago),1,Post reach (people),6500.0,55,20
+Distance to work (miles),5.0,Number of traffic lights,10,Commute time (minutes),30.0,56,1
+Distance to work (miles),6.0,Number of traffic lights,8,Commute time (minutes),32.0,56,2
+Distance to work (miles),4.0,Number of traffic lights,12,Commute time (minutes),28.0,56,3
+Distance to work (miles),7.0,Number of traffic lights,9,Commute time (minutes),33.0,56,4
+Distance to work (miles),3.0,Number of traffic lights,15,Commute time (minutes),25.0,56,5
+Distance to work (miles),8.0,Number of traffic lights,10,Commute time (minutes),34.0,56,6
+Distance to work (miles),6.0,Number of traffic lights,9,Commute time (minutes),31.0,56,7
+Distance to work (miles),5.0,Number of traffic lights,11,Commute time (minutes),30.0,56,8
+Distance to work (miles),7.0,Number of traffic lights,10,Commute time (minutes),33.0,56,9
+Distance to work (miles),4.0,Number of traffic lights,12,Commute time (minutes),29.0,56,10
+Distance to work (miles),5.0,Number of traffic lights,11,Commute time (minutes),30.0,56,11
+Distance to work (miles),6.0,Number of traffic lights,10,Commute time (minutes),31.0,56,12
+Distance to work (miles),4.0,Number of traffic lights,14,Commute time (minutes),27.0,56,13
+Distance to work (miles),7.0,Number of traffic lights,11,Commute time (minutes),32.0,56,14
+Distance to work (miles),6.0,Number of traffic lights,12,Commute time (minutes),32.0,56,15
+Distance to work (miles),5.0,Number of traffic lights,13,Commute time (minutes),31.0,56,16
+Distance to work (miles),3.0,Number of traffic lights,13,Commute time (minutes),26.0,56,17
+Distance to work (miles),8.0,Number of traffic lights,9,Commute time (minutes),33.0,56,18
+Distance to work (miles),7.0,Number of traffic lights,11,Commute time (minutes),33.0,56,19
+Distance to work (miles),4.0,Number of traffic lights,14,Commute time (minutes),28.0,56,20
+Amount of sleep (hours),8.0,Time to bed (minutes past 10pm),30,Morning alertness (1-10),8.0,57,1
+Amount of sleep (hours),7.0,Time to bed (minutes past 10pm),60,Morning alertness (1-10),5.0,57,2
+Amount of sleep (hours),7.0,Time to bed (minutes past 10pm),45,Morning alertness (1-10),6.0,57,3
+Amount of sleep (hours),9.0,Time to bed (minutes past 10pm),15,Morning alertness (1-10),9.0,57,4
+Amount of sleep (hours),6.0,Time to bed (minutes past 10pm),60,Morning alertness (1-10),5.0,57,5
+Amount of sleep (hours),8.0,Time to bed (minutes past 10pm),30,Morning alertness (1-10),7.0,57,6
+Amount of sleep (hours),9.0,Time to bed (minutes past 10pm),15,Morning alertness (1-10),9.0,57,7
+Amount of sleep (hours),7.0,Time to bed (minutes past 10pm),45,Morning alertness (1-10),6.0,57,8
+Amount of sleep (hours),8.0,Time to bed (minutes past 10pm),45,Morning alertness (1-10),7.0,57,9
+Amount of sleep (hours),6.0,Time to bed (minutes past 10pm),60,Morning alertness (1-10),4.0,57,10
+Amount of sleep (hours),7.0,Time to bed (minutes past 10pm),30,Morning alertness (1-10),6.0,57,11
+Amount of sleep (hours),9.0,Time to bed (minutes past 10pm),15,Morning alertness (1-10),8.0,57,12
+Amount of sleep (hours),6.0,Time to bed (minutes past 10pm),60,Morning alertness (1-10),4.0,57,13
+Amount of sleep (hours),8.0,Time to bed (minutes past 10pm),30,Morning alertness (1-10),6.0,57,14
+Amount of sleep (hours),9.0,Time to bed (minutes past 10pm),15,Morning alertness (1-10),9.0,57,15
+Amount of sleep (hours),7.0,Time to bed (minutes past 10pm),45,Morning alertness (1-10),6.0,57,16
+Amount of sleep (hours),8.0,Time to bed (minutes past 10pm),30,Morning alertness (1-10),7.0,57,17
+Amount of sleep (hours),6.0,Time to bed (minutes past 10pm),60,Morning alertness (1-10),5.0,57,18
+Amount of sleep (hours),7.0,Time to bed (minutes past 10pm),45,Morning alertness (1-10),6.0,57,19
+Amount of sleep (hours),9.0,Time to bed (minutes past 10pm),15,Morning alertness (1-10),9.0,57,20
+Number of followers (count),1000.0,Time posted (hours ago),2,Engagement rate (%),5.0,58,1
+Number of followers (count),800.0,Time posted (hours ago),4,Engagement rate (%),4.0,58,2
+Number of followers (count),1200.0,Time posted (hours ago),1,Engagement rate (%),6.0,58,3
+Number of followers (count),900.0,Time posted (hours ago),5,Engagement rate (%),3.0,58,4
+Number of followers (count),800.0,Time posted (hours ago),3,Engagement rate (%),4.0,58,5
+Number of followers (count),1100.0,Time posted (hours ago),2,Engagement rate (%),5.0,58,6
+Number of followers (count),900.0,Time posted (hours ago),5,Engagement rate (%),3.0,58,7
+Number of followers (count),1300.0,Time posted (hours ago),1,Engagement rate (%),6.0,58,8
+Number of followers (count),1100.0,Time posted (hours ago),4,Engagement rate (%),5.0,58,9
+Number of followers (count),1000.0,Time posted (hours ago),3,Engagement rate (%),4.0,58,10
+Number of followers (count),1300.0,Time posted (hours ago),2,Engagement rate (%),6.0,58,11
+Number of followers (count),900.0,Time posted (hours ago),6,Engagement rate (%),3.0,58,12
+Number of followers (count),1000.0,Time posted (hours ago),6,Engagement rate (%),4.0,58,13
+Number of followers (count),1200.0,Time posted (hours ago),3,Engagement rate (%),5.0,58,14
+Number of followers (count),800.0,Time posted (hours ago),4,Engagement rate (%),3.0,58,15
+Number of followers (count),1400.0,Time posted (hours ago),2,Engagement rate (%),6.0,58,16
+Number of followers (count),1200.0,Time posted (hours ago),5,Engagement rate (%),5.0,58,17
+Number of followers (count),1000.0,Time posted (hours ago),4,Engagement rate (%),4.0,58,18
+Number of followers (count),900.0,Time posted (hours ago),3,Engagement rate (%),4.0,58,19
+Number of followers (count),1300.0,Time posted (hours ago),1,Engagement rate (%),6.0,58,20
+House Size,150.0,Housing Age,10,House Value,300.0,59,1
+House Size,200.0,Housing Age,8,House Value,350.0,59,2
+House Size,200.0,Housing Age,8,House Value,350.0,59,3
+House Size,250.0,Housing Age,10,House Value,400.0,59,4
+House Size,120.0,Housing Age,15,House Value,250.0,59,5
+House Size,180.0,Housing Age,12,House Value,300.0,59,6
+House Size,250.0,Housing Age,10,House Value,400.0,59,7
+House Size,300.0,Housing Age,12,House Value,450.0,59,8
+House Size,180.0,Housing Age,12,House Value,300.0,59,9
+House Size,220.0,Housing Age,10,House Value,340.0,59,10
+House Size,220.0,Housing Age,10,House Value,340.0,59,11
+House Size,260.0,Housing Age,12,House Value,380.0,59,12
+House Size,160.0,Housing Age,14,House Value,280.0,59,13
+House Size,210.0,Housing Age,10,House Value,330.0,59,14
+House Size,280.0,Housing Age,12,House Value,450.0,59,15
+House Size,320.0,Housing Age,14,House Value,480.0,59,16
+House Size,190.0,Housing Age,11,House Value,320.0,59,17
+House Size,230.0,Housing Age,9,House Value,360.0,59,18
+House Size,240.0,Housing Age,9,House Value,380.0,59,19
+House Size,280.0,Housing Age,11,House Value,420.0,59,20
+Hours of sunlight,6.0,Humidity,70.0,Flower blooming time,4.0,60,1
+Hours of sunlight,5.0,Humidity,65.0,Flower blooming time,5.0,60,2
+Hours of sunlight,8.0,Humidity,60.0,Flower blooming time,3.0,60,3
+Hours of sunlight,7.0,Humidity,55.0,Flower blooming time,4.0,60,4
+Hours of sunlight,5.0,Humidity,80.0,Flower blooming time,5.0,60,5
+Hours of sunlight,6.0,Humidity,75.0,Flower blooming time,4.0,60,6
+Hours of sunlight,7.0,Humidity,50.0,Flower blooming time,3.0,60,7
+Hours of sunlight,6.0,Humidity,45.0,Flower blooming time,4.0,60,8
+Hours of sunlight,9.0,Humidity,40.0,Flower blooming time,2.0,60,9
+Hours of sunlight,8.0,Humidity,35.0,Flower blooming time,3.0,60,10
+Hours of sunlight,4.0,Humidity,90.0,Flower blooming time,6.0,60,11
+Hours of sunlight,5.0,Humidity,85.0,Flower blooming time,5.0,60,12
+Hours of sunlight,6.0,Humidity,65.0,Flower blooming time,4.0,60,13
+Hours of sunlight,7.0,Humidity,60.0,Flower blooming time,3.0,60,14
+Hours of sunlight,8.0,Humidity,55.0,Flower blooming time,3.0,60,15
+Hours of sunlight,9.0,Humidity,50.0,Flower blooming time,2.0,60,16
+Hours of sunlight,5.0,Humidity,75.0,Flower blooming time,5.0,60,17
+Hours of sunlight,6.0,Humidity,70.0,Flower blooming time,4.0,60,18
+Hours of sunlight,7.0,Humidity,45.0,Flower blooming time,4.0,60,19
+Hours of sunlight,8.0,Humidity,40.0,Flower blooming time,3.0,60,20
+Car Engine Size (liters),2.0,Weight (kg),1400.0,Fuel Efficiency (km/l),12.0,61,1
+Car Engine Size (liters),3.0,Weight (kg),1500.0,Fuel Efficiency (km/l),9.0,61,2
+Car Engine Size (liters),2.5,Weight (kg),1300.0,Fuel Efficiency (km/l),10.0,61,3
+Car Engine Size (liters),3.5,Weight (kg),1400.0,Fuel Efficiency (km/l),8.0,61,4
+Car Engine Size (liters),1.6,Weight (kg),1200.0,Fuel Efficiency (km/l),15.0,61,5
+Car Engine Size (liters),2.4,Weight (kg),1300.0,Fuel Efficiency (km/l),11.0,61,6
+Car Engine Size (liters),1.8,Weight (kg),1400.0,Fuel Efficiency (km/l),13.0,61,7
+Car Engine Size (liters),2.8,Weight (kg),1500.0,Fuel Efficiency (km/l),10.0,61,8
+Car Engine Size (liters),2.2,Weight (kg),1350.0,Fuel Efficiency (km/l),11.0,61,9
+Car Engine Size (liters),3.0,Weight (kg),1450.0,Fuel Efficiency (km/l),9.0,61,10
+Car Engine Size (liters),1.5,Weight (kg),1100.0,Fuel Efficiency (km/l),16.0,61,11
+Car Engine Size (liters),2.0,Weight (kg),1200.0,Fuel Efficiency (km/l),13.0,61,12
+Car Engine Size (liters),2.0,Weight (kg),1300.0,Fuel Efficiency (km/l),12.0,61,13
+Car Engine Size (liters),2.6,Weight (kg),1400.0,Fuel Efficiency (km/l),10.0,61,14
+Car Engine Size (liters),1.7,Weight (kg),1250.0,Fuel Efficiency (km/l),14.0,61,15
+Car Engine Size (liters),2.5,Weight (kg),1350.0,Fuel Efficiency (km/l),11.0,61,16
+Car Engine Size (liters),1.9,Weight (kg),1300.0,Fuel Efficiency (km/l),13.0,61,17
+Car Engine Size (liters),2.7,Weight (kg),1400.0,Fuel Efficiency (km/l),10.0,61,18
+Car Engine Size (liters),2.1,Weight (kg),1400.0,Fuel Efficiency (km/l),12.0,61,19
+Car Engine Size (liters),3.2,Weight (kg),1500.0,Fuel Efficiency (km/l),8.0,61,20
+Phone RAM (GB),4.0,Screen Size (inches),6.5,Battery Life (hours),18.0,62,1
+Phone RAM (GB),6.0,Screen Size (inches),7.0,Battery Life (hours),16.0,62,2
+Phone RAM (GB),6.0,Screen Size (inches),6.2,Battery Life (hours),20.0,62,3
+Phone RAM (GB),8.0,Screen Size (inches),7.5,Battery Life (hours),17.0,62,4
+Phone RAM (GB),3.0,Screen Size (inches),6.0,Battery Life (hours),16.0,62,5
+Phone RAM (GB),5.0,Screen Size (inches),6.8,Battery Life (hours),14.0,62,6
+Phone RAM (GB),5.0,Screen Size (inches),6.4,Battery Life (hours),19.0,62,7
+Phone RAM (GB),7.0,Screen Size (inches),7.2,Battery Life (hours),16.0,62,8
+Phone RAM (GB),4.0,Screen Size (inches),6.6,Battery Life (hours),17.0,62,9
+Phone RAM (GB),6.0,Screen Size (inches),7.1,Battery Life (hours),15.0,62,10
+Phone RAM (GB),2.0,Screen Size (inches),5.8,Battery Life (hours),14.0,62,11
+Phone RAM (GB),4.0,Screen Size (inches),6.5,Battery Life (hours),12.0,62,12
+Phone RAM (GB),6.0,Screen Size (inches),6.3,Battery Life (hours),21.0,62,13
+Phone RAM (GB),8.0,Screen Size (inches),7.0,Battery Life (hours),18.0,62,14
+Phone RAM (GB),5.0,Screen Size (inches),6.1,Battery Life (hours),18.0,62,15
+Phone RAM (GB),7.0,Screen Size (inches),6.9,Battery Life (hours),15.0,62,16
+Phone RAM (GB),3.0,Screen Size (inches),6.4,Battery Life (hours),15.0,62,17
+Phone RAM (GB),5.0,Screen Size (inches),7.0,Battery Life (hours),13.0,62,18
+Phone RAM (GB),4.0,Screen Size (inches),6.7,Battery Life (hours),17.0,62,19
+Phone RAM (GB),6.0,Screen Size (inches),7.3,Battery Life (hours),14.0,62,20
+Bike Weight,10.0,Bike Frame Size,19,Bike Speed,25.0,63,1
+Bike Weight,12.0,Bike Frame Size,20,Bike Speed,23.0,63,2
+Bike Weight,9.0,Bike Frame Size,18,Bike Speed,26.0,63,3
+Bike Weight,11.0,Bike Frame Size,19,Bike Speed,24.0,63,4
+Bike Weight,11.0,Bike Frame Size,21,Bike Speed,24.0,63,5
+Bike Weight,13.0,Bike Frame Size,22,Bike Speed,22.0,63,6
+Bike Weight,8.0,Bike Frame Size,17,Bike Speed,27.0,63,7
+Bike Weight,10.0,Bike Frame Size,18,Bike Speed,25.0,63,8
+Bike Weight,10.0,Bike Frame Size,19,Bike Speed,25.0,63,9
+Bike Weight,12.0,Bike Frame Size,20,Bike Speed,23.0,63,10
+Bike Weight,9.0,Bike Frame Size,18,Bike Speed,26.0,63,11
+Bike Weight,11.0,Bike Frame Size,19,Bike Speed,24.0,63,12
+Bike Weight,11.0,Bike Frame Size,21,Bike Speed,24.0,63,13
+Bike Weight,13.0,Bike Frame Size,22,Bike Speed,22.0,63,14
+Bike Weight,8.0,Bike Frame Size,17,Bike Speed,27.0,63,15
+Bike Weight,10.0,Bike Frame Size,18,Bike Speed,25.0,63,16
+Bike Weight,10.0,Bike Frame Size,19,Bike Speed,25.0,63,17
+Bike Weight,12.0,Bike Frame Size,20,Bike Speed,23.0,63,18
+Bike Weight,9.0,Bike Frame Size,18,Bike Speed,26.0,63,19
+Bike Weight,11.0,Bike Frame Size,19,Bike Speed,24.0,63,20
+Hours of Sleep,8.0,Screen Time (hours),2,Mood Score (1-10),9.0,64,1
+Hours of Sleep,7.0,Screen Time (hours),3,Mood Score (1-10),8.0,64,2
+Hours of Sleep,7.0,Screen Time (hours),1,Mood Score (1-10),8.0,64,3
+Hours of Sleep,6.0,Screen Time (hours),2,Mood Score (1-10),7.0,64,4
+Hours of Sleep,6.0,Screen Time (hours),3,Mood Score (1-10),7.0,64,5
+Hours of Sleep,5.0,Screen Time (hours),4,Mood Score (1-10),6.0,64,6
+Hours of Sleep,9.0,Screen Time (hours),1,Mood Score (1-10),10.0,64,7
+Hours of Sleep,8.0,Screen Time (hours),2,Mood Score (1-10),9.0,64,8
+Hours of Sleep,5.0,Screen Time (hours),4,Mood Score (1-10),6.0,64,9
+Hours of Sleep,4.0,Screen Time (hours),5,Mood Score (1-10),5.0,64,10
+Hours of Sleep,10.0,Screen Time (hours),0,Mood Score (1-10),10.0,64,11
+Hours of Sleep,9.0,Screen Time (hours),1,Mood Score (1-10),9.0,64,12
+Hours of Sleep,8.0,Screen Time (hours),3,Mood Score (1-10),8.0,64,13
+Hours of Sleep,7.0,Screen Time (hours),4,Mood Score (1-10),7.0,64,14
+Hours of Sleep,7.0,Screen Time (hours),2,Mood Score (1-10),8.0,64,15
+Hours of Sleep,6.0,Screen Time (hours),3,Mood Score (1-10),7.0,64,16
+Hours of Sleep,6.0,Screen Time (hours),1,Mood Score (1-10),7.0,64,17
+Hours of Sleep,5.0,Screen Time (hours),2,Mood Score (1-10),6.0,64,18
+Hours of Sleep,9.0,Screen Time (hours),2,Mood Score (1-10),9.0,64,19
+Hours of Sleep,8.0,Screen Time (hours),3,Mood Score (1-10),8.0,64,20
+Experience (years),5.0,Team Size,3,Project Success (%),80.0,65,1
+Experience (years),6.0,Team Size,4,Project Success (%),85.0,65,2
+Experience (years),6.0,Team Size,2,Project Success (%),85.0,65,3
+Experience (years),7.0,Team Size,3,Project Success (%),90.0,65,4
+Experience (years),7.0,Team Size,4,Project Success (%),90.0,65,5
+Experience (years),8.0,Team Size,5,Project Success (%),95.0,65,6
+Experience (years),8.0,Team Size,3,Project Success (%),95.0,65,7
+Experience (years),9.0,Team Size,4,Project Success (%),93.0,65,8
+Experience (years),9.0,Team Size,5,Project Success (%),93.0,65,9
+Experience (years),10.0,Team Size,6,Project Success (%),91.0,65,10
+Experience (years),10.0,Team Size,4,Project Success (%),91.0,65,11
+Experience (years),11.0,Team Size,5,Project Success (%),89.0,65,12
+Experience (years),11.0,Team Size,6,Project Success (%),89.0,65,13
+Experience (years),12.0,Team Size,7,Project Success (%),87.0,65,14
+Experience (years),12.0,Team Size,5,Project Success (%),87.0,65,15
+Experience (years),13.0,Team Size,6,Project Success (%),85.0,65,16
+Experience (years),13.0,Team Size,7,Project Success (%),85.0,65,17
+Experience (years),14.0,Team Size,8,Project Success (%),83.0,65,18
+Experience (years),14.0,Team Size,6,Project Success (%),83.0,65,19
+Experience (years),15.0,Team Size,7,Project Success (%),81.0,65,20
+Number of Calories,100.0,Sugar (g),10,Energy Boost (1-10),7.0,66,1
+Number of Calories,120.0,Sugar (g),12,Energy Boost (1-10),6.0,66,2
+Number of Calories,120.0,Sugar (g),8,Energy Boost (1-10),6.0,66,3
+Number of Calories,140.0,Sugar (g),10,Energy Boost (1-10),5.0,66,4
+Number of Calories,140.0,Sugar (g),6,Energy Boost (1-10),5.0,66,5
+Number of Calories,160.0,Sugar (g),8,Energy Boost (1-10),4.0,66,6
+Number of Calories,160.0,Sugar (g),10,Energy Boost (1-10),4.0,66,7
+Number of Calories,180.0,Sugar (g),12,Energy Boost (1-10),3.0,66,8
+Number of Calories,180.0,Sugar (g),8,Energy Boost (1-10),3.0,66,9
+Number of Calories,200.0,Sugar (g),10,Energy Boost (1-10),2.0,66,10
+Number of Calories,200.0,Sugar (g),12,Energy Boost (1-10),2.0,66,11
+Number of Calories,220.0,Sugar (g),14,Energy Boost (1-10),1.0,66,12
+Number of Calories,100.0,Sugar (g),12,Energy Boost (1-10),6.0,66,13
+Number of Calories,120.0,Sugar (g),14,Energy Boost (1-10),5.0,66,14
+Number of Calories,120.0,Sugar (g),10,Energy Boost (1-10),5.0,66,15
+Number of Calories,140.0,Sugar (g),12,Energy Boost (1-10),4.0,66,16
+Number of Calories,140.0,Sugar (g),8,Energy Boost (1-10),4.0,66,17
+Number of Calories,160.0,Sugar (g),10,Energy Boost (1-10),3.0,66,18
+Number of Calories,160.0,Sugar (g),12,Energy Boost (1-10),3.0,66,19
+Number of Calories,180.0,Sugar (g),14,Energy Boost (1-10),2.0,66,20
+Exercise Minutes,30.0,Diet Score (1-10),8,Weight Loss (lbs),2.0,67,1
+Exercise Minutes,40.0,Diet Score (1-10),7,Weight Loss (lbs),3.0,67,2
+Exercise Minutes,40.0,Diet Score (1-10),9,Weight Loss (lbs),3.0,67,3
+Exercise Minutes,50.0,Diet Score (1-10),8,Weight Loss (lbs),4.0,67,4
+Exercise Minutes,50.0,Diet Score (1-10),10,Weight Loss (lbs),4.0,67,5
+Exercise Minutes,60.0,Diet Score (1-10),9,Weight Loss (lbs),5.0,67,6
+Exercise Minutes,60.0,Diet Score (1-10),7,Weight Loss (lbs),5.0,67,7
+Exercise Minutes,70.0,Diet Score (1-10),6,Weight Loss (lbs),6.0,67,8
+Exercise Minutes,70.0,Diet Score (1-10),8,Weight Loss (lbs),6.0,67,9
+Exercise Minutes,80.0,Diet Score (1-10),7,Weight Loss (lbs),7.0,67,10
+Exercise Minutes,80.0,Diet Score (1-10),9,Weight Loss (lbs),7.0,67,11
+Exercise Minutes,90.0,Diet Score (1-10),8,Weight Loss (lbs),8.0,67,12
+Exercise Minutes,90.0,Diet Score (1-10),10,Weight Loss (lbs),8.0,67,13
+Exercise Minutes,100.0,Diet Score (1-10),9,Weight Loss (lbs),9.0,67,14
+Exercise Minutes,100.0,Diet Score (1-10),7,Weight Loss (lbs),9.0,67,15
+Exercise Minutes,110.0,Diet Score (1-10),6,Weight Loss (lbs),10.0,67,16
+Exercise Minutes,110.0,Diet Score (1-10),8,Weight Loss (lbs),10.0,67,17
+Exercise Minutes,120.0,Diet Score (1-10),7,Weight Loss (lbs),11.0,67,18
+Exercise Minutes,120.0,Diet Score (1-10),9,Weight Loss (lbs),11.0,67,19
+Exercise Minutes,130.0,Diet Score (1-10),8,Weight Loss (lbs),12.0,67,20
+Book pages,400.0,Book weight (g),300,Reading time (hours),5.0,68,1
+Book pages,300.0,Book weight (g),350,Reading time (hours),4.2,68,2
+Book pages,500.0,Book weight (g),320,Reading time (hours),6.0,68,3
+Book pages,450.0,Book weight (g),370,Reading time (hours),5.4,68,4
+Book pages,600.0,Book weight (g),310,Reading time (hours),7.0,68,5
+Book pages,500.0,Book weight (g),360,Reading time (hours),5.8,68,6
+Book pages,450.0,Book weight (g),340,Reading time (hours),5.5,68,7
+Book pages,350.0,Book weight (g),380,Reading time (hours),4.7,68,8
+Book pages,550.0,Book weight (g),330,Reading time (hours),6.5,68,9
+Book pages,500.0,Book weight (g),370,Reading time (hours),5.9,68,10
+Book pages,650.0,Book weight (g),320,Reading time (hours),7.5,68,11
+Book pages,600.0,Book weight (g),360,Reading time (hours),6.8,68,12
+Book pages,480.0,Book weight (g),350,Reading time (hours),5.8,68,13
+Book pages,400.0,Book weight (g),390,Reading time (hours),5.0,68,14
+Book pages,520.0,Book weight (g),340,Reading time (hours),6.2,68,15
+Book pages,470.0,Book weight (g),380,Reading time (hours),5.5,68,16
+Book pages,580.0,Book weight (g),330,Reading time (hours),6.8,68,17
+Book pages,530.0,Book weight (g),370,Reading time (hours),6.1,68,18
+Book pages,420.0,Book weight (g),360,Reading time (hours),5.3,68,19
+Book pages,380.0,Book weight (g),390,Reading time (hours),4.6,68,20
+Room size (m2),20.0,Number of windows,2,Lighting (lux),500.0,69,1
+Room size (m2),18.0,Number of windows,3,Lighting (lux),480.0,69,2
+Room size (m2),25.0,Number of windows,1,Lighting (lux),600.0,69,3
+Room size (m2),22.0,Number of windows,2,Lighting (lux),570.0,69,4
+Room size (m2),30.0,Number of windows,2,Lighting (lux),700.0,69,5
+Room size (m2),28.0,Number of windows,3,Lighting (lux),650.0,69,6
+Room size (m2),18.0,Number of windows,3,Lighting (lux),500.0,69,7
+Room size (m2),16.0,Number of windows,4,Lighting (lux),470.0,69,8
+Room size (m2),22.0,Number of windows,1,Lighting (lux),620.0,69,9
+Room size (m2),20.0,Number of windows,2,Lighting (lux),590.0,69,10
+Room size (m2),28.0,Number of windows,2,Lighting (lux),720.0,69,11
+Room size (m2),25.0,Number of windows,3,Lighting (lux),680.0,69,12
+Room size (m2),24.0,Number of windows,1,Lighting (lux),650.0,69,13
+Room size (m2),21.0,Number of windows,2,Lighting (lux),620.0,69,14
+Room size (m2),16.0,Number of windows,4,Lighting (lux),450.0,69,15
+Room size (m2),14.0,Number of windows,5,Lighting (lux),430.0,69,16
+Room size (m2),26.0,Number of windows,2,Lighting (lux),710.0,69,17
+Room size (m2),23.0,Number of windows,3,Lighting (lux),670.0,69,18
+Room size (m2),20.0,Number of windows,3,Lighting (lux),580.0,69,19
+Room size (m2),18.0,Number of windows,4,Lighting (lux),550.0,69,20
+Exercise time (min),30.0,Heart rate (bpm),100,Calories burned,250.0,70,1
+Exercise time (min),25.0,Heart rate (bpm),110,Calories burned,260.0,70,2
+Exercise time (min),40.0,Heart rate (bpm),95,Calories burned,300.0,70,3
+Exercise time (min),35.0,Heart rate (bpm),105,Calories burned,320.0,70,4
+Exercise time (min),50.0,Heart rate (bpm),100,Calories burned,350.0,70,5
+Exercise time (min),45.0,Heart rate (bpm),110,Calories burned,370.0,70,6
+Exercise time (min),25.0,Heart rate (bpm),110,Calories burned,240.0,70,7
+Exercise time (min),20.0,Heart rate (bpm),120,Calories burned,250.0,70,8
+Exercise time (min),35.0,Heart rate (bpm),90,Calories burned,280.0,70,9
+Exercise time (min),30.0,Heart rate (bpm),100,Calories burned,300.0,70,10
+Exercise time (min),45.0,Heart rate (bpm),105,Calories burned,340.0,70,11
+Exercise time (min),40.0,Heart rate (bpm),115,Calories burned,360.0,70,12
+Exercise time (min),20.0,Heart rate (bpm),120,Calories burned,230.0,70,13
+Exercise time (min),15.0,Heart rate (bpm),130,Calories burned,240.0,70,14
+Exercise time (min),30.0,Heart rate (bpm),105,Calories burned,270.0,70,15
+Exercise time (min),25.0,Heart rate (bpm),115,Calories burned,280.0,70,16
+Exercise time (min),40.0,Heart rate (bpm),110,Calories burned,330.0,70,17
+Exercise time (min),35.0,Heart rate (bpm),120,Calories burned,350.0,70,18
+Exercise time (min),50.0,Heart rate (bpm),95,Calories burned,360.0,70,19
+Exercise time (min),45.0,Heart rate (bpm),105,Calories burned,380.0,70,20
+Laptop weight (kg),1.5,Screen size (inches),13,Battery life (hours),8.0,71,1
+Laptop weight (kg),1.3,Screen size (inches),14,Battery life (hours),7.5,71,2
+Laptop weight (kg),1.6,Screen size (inches),13,Battery life (hours),7.8,71,3
+Laptop weight (kg),1.4,Screen size (inches),14,Battery life (hours),7.3,71,4
+Laptop weight (kg),1.7,Screen size (inches),12,Battery life (hours),7.5,71,5
+Laptop weight (kg),1.5,Screen size (inches),13,Battery life (hours),7.0,71,6
+Laptop weight (kg),1.4,Screen size (inches),14,Battery life (hours),7.6,71,7
+Laptop weight (kg),1.2,Screen size (inches),15,Battery life (hours),7.1,71,8
+Laptop weight (kg),1.8,Screen size (inches),12,Battery life (hours),7.2,71,9
+Laptop weight (kg),1.6,Screen size (inches),13,Battery life (hours),6.7,71,10
+Laptop weight (kg),1.9,Screen size (inches),11,Battery life (hours),6.9,71,11
+Laptop weight (kg),1.7,Screen size (inches),12,Battery life (hours),6.4,71,12
+Laptop weight (kg),1.3,Screen size (inches),15,Battery life (hours),7.4,71,13
+Laptop weight (kg),1.1,Screen size (inches),16,Battery life (hours),6.9,71,14
+Laptop weight (kg),1.5,Screen size (inches),12,Battery life (hours),7.7,71,15
+Laptop weight (kg),1.3,Screen size (inches),13,Battery life (hours),7.2,71,16
+Laptop weight (kg),1.6,Screen size (inches),14,Battery life (hours),7.3,71,17
+Laptop weight (kg),1.4,Screen size (inches),15,Battery life (hours),6.8,71,18
+Laptop weight (kg),1.7,Screen size (inches),13,Battery life (hours),7.1,71,19
+Laptop weight (kg),1.5,Screen size (inches),14,Battery life (hours),6.6,71,20
+Bicycle weight (kg),10.0,Wheel size (inches),26,Speed (km/h),25.0,72,1
+Bicycle weight (kg),12.0,Wheel size (inches),27,Speed (km/h),24.0,72,2
+Bicycle weight (kg),11.0,Wheel size (inches),25,Speed (km/h),24.0,72,3
+Bicycle weight (kg),13.0,Wheel size (inches),26,Speed (km/h),23.0,72,4
+Bicycle weight (kg),9.0,Wheel size (inches),28,Speed (km/h),26.0,72,5
+Bicycle weight (kg),11.0,Wheel size (inches),29,Speed (km/h),25.0,72,6
+Bicycle weight (kg),12.0,Wheel size (inches),24,Speed (km/h),23.0,72,7
+Bicycle weight (kg),14.0,Wheel size (inches),25,Speed (km/h),22.0,72,8
+Bicycle weight (kg),13.0,Wheel size (inches),26,Speed (km/h),24.0,72,9
+Bicycle weight (kg),15.0,Wheel size (inches),27,Speed (km/h),23.0,72,10
+Bicycle weight (kg),8.0,Wheel size (inches),29,Speed (km/h),27.0,72,11
+Bicycle weight (kg),10.0,Wheel size (inches),30,Speed (km/h),26.0,72,12
+Bicycle weight (kg),14.0,Wheel size (inches),25,Speed (km/h),22.0,72,13
+Bicycle weight (kg),16.0,Wheel size (inches),26,Speed (km/h),21.0,72,14
+Bicycle weight (kg),10.0,Wheel size (inches),27,Speed (km/h),25.0,72,15
+Bicycle weight (kg),12.0,Wheel size (inches),28,Speed (km/h),24.0,72,16
+Bicycle weight (kg),11.0,Wheel size (inches),26,Speed (km/h),24.0,72,17
+Bicycle weight (kg),13.0,Wheel size (inches),27,Speed (km/h),23.0,72,18
+Bicycle weight (kg),9.0,Wheel size (inches),28,Speed (km/h),26.0,72,19
+Bicycle weight (kg),11.0,Wheel size (inches),29,Speed (km/h),25.0,72,20
+Age,20.0,Height,170.0,Endurance,80.0,73,1
+Age,25.0,Height,175.0,Endurance,85.0,73,2
+Age,30.0,Height,180.0,Endurance,75.0,73,3
+Age,35.0,Height,185.0,Endurance,80.0,73,4
+Age,40.0,Height,160.0,Endurance,70.0,73,5
+Age,45.0,Height,165.0,Endurance,75.0,73,6
+Age,25.0,Height,175.0,Endurance,85.0,73,7
+Age,30.0,Height,180.0,Endurance,90.0,73,8
+Age,50.0,Height,150.0,Endurance,65.0,73,9
+Age,55.0,Height,155.0,Endurance,70.0,73,10
+Age,35.0,Height,185.0,Endurance,80.0,73,11
+Age,40.0,Height,190.0,Endurance,85.0,73,12
+Age,60.0,Height,140.0,Endurance,60.0,73,13
+Age,65.0,Height,145.0,Endurance,65.0,73,14
+Age,45.0,Height,195.0,Endurance,75.0,73,15
+Age,50.0,Height,200.0,Endurance,80.0,73,16
+Age,70.0,Height,130.0,Endurance,55.0,73,17
+Age,75.0,Height,135.0,Endurance,60.0,73,18
+Age,55.0,Height,205.0,Endurance,70.0,73,19
+Age,60.0,Height,210.0,Endurance,75.0,73,20
+Shoe price (in USD),100.0,Comfort rating (1-10),8.0,Shoe Demand,50.0,74,1
+Shoe price (in USD),120.0,Comfort rating (1-10),9.0,Shoe Demand,40.0,74,2
+Shoe price (in USD),90.0,Comfort rating (1-10),7.0,Shoe Demand,60.0,74,3
+Shoe price (in USD),100.0,Comfort rating (1-10),8.0,Shoe Demand,50.0,74,4
+Shoe price (in USD),110.0,Comfort rating (1-10),9.0,Shoe Demand,40.0,74,5
+Shoe price (in USD),130.0,Comfort rating (1-10),10.0,Shoe Demand,30.0,74,6
+Shoe price (in USD),80.0,Comfort rating (1-10),6.0,Shoe Demand,70.0,74,7
+Shoe price (in USD),90.0,Comfort rating (1-10),7.0,Shoe Demand,60.0,74,8
+Shoe price (in USD),120.0,Comfort rating (1-10),10.0,Shoe Demand,30.0,74,9
+Shoe price (in USD),140.0,Comfort rating (1-10),9.0,Shoe Demand,25.0,74,10
+Shoe price (in USD),100.0,Comfort rating (1-10),8.0,Shoe Demand,50.0,74,11
+Shoe price (in USD),110.0,Comfort rating (1-10),9.0,Shoe Demand,40.0,74,12
+Shoe price (in USD),90.0,Comfort rating (1-10),7.0,Shoe Demand,60.0,74,13
+Shoe price (in USD),100.0,Comfort rating (1-10),8.0,Shoe Demand,50.0,74,14
+Shoe price (in USD),130.0,Comfort rating (1-10),10.0,Shoe Demand,25.0,74,15
+Shoe price (in USD),120.0,Comfort rating (1-10),9.0,Shoe Demand,30.0,74,16
+Shoe price (in USD),80.0,Comfort rating (1-10),6.0,Shoe Demand,70.0,74,17
+Shoe price (in USD),90.0,Comfort rating (1-10),7.0,Shoe Demand,60.0,74,18
+Shoe price (in USD),110.0,Comfort rating (1-10),9.0,Shoe Demand,40.0,74,19
+Shoe price (in USD),100.0,Comfort rating (1-10),8.0,Shoe Demand,50.0,74,20
+Age (years),5.0,Mileage (km),20000,Car Value,30000.0,75,1
+Age (years),3.0,Mileage (km),15000,Car Value,40000.0,75,2
+Age (years),7.0,Mileage (km),30000,Car Value,25000.0,75,3
+Age (years),5.0,Mileage (km),25000,Car Value,30000.0,75,4
+Age (years),10.0,Mileage (km),50000,Car Value,20000.0,75,5
+Age (years),8.0,Mileage (km),45000,Car Value,25000.0,75,6
+Age (years),3.0,Mileage (km),10000,Car Value,45000.0,75,7
+Age (years),2.0,Mileage (km),5000,Car Value,50000.0,75,8
+Age (years),6.0,Mileage (km),25000,Car Value,32000.0,75,9
+Age (years),4.0,Mileage (km),20000,Car Value,38000.0,75,10
+Age (years),8.0,Mileage (km),40000,Car Value,27000.0,75,11
+Age (years),10.0,Mileage (km),50000,Car Value,23000.0,75,12
+Age (years),4.0,Mileage (km),15000,Car Value,42000.0,75,13
+Age (years),3.0,Mileage (km),10000,Car Value,47000.0,75,14
+Age (years),9.0,Mileage (km),45000,Car Value,24000.0,75,15
+Age (years),7.0,Mileage (km),35000,Car Value,30000.0,75,16
+Age (years),2.0,Mileage (km),5000,Car Value,55000.0,75,17
+Age (years),1.0,Mileage (km),2000,Car Value,60000.0,75,18
+Age (years),5.0,Mileage (km),20000,Car Value,35000.0,75,19
+Age (years),6.0,Mileage (km),25000,Car Value,33000.0,75,20
+Study Time (hours),5.0,Difficulty Level (1-10),3,Exam Grade,85.0,76,1
+Study Time (hours),4.0,Difficulty Level (1-10),5,Exam Grade,80.0,76,2
+Study Time (hours),6.0,Difficulty Level (1-10),2,Exam Grade,90.0,76,3
+Study Time (hours),5.0,Difficulty Level (1-10),4,Exam Grade,85.0,76,4
+Study Time (hours),7.0,Difficulty Level (1-10),1,Exam Grade,95.0,76,5
+Study Time (hours),6.0,Difficulty Level (1-10),3,Exam Grade,90.0,76,6
+Study Time (hours),4.0,Difficulty Level (1-10),4,Exam Grade,75.0,76,7
+Study Time (hours),5.0,Difficulty Level (1-10),3,Exam Grade,80.0,76,8
+Study Time (hours),3.0,Difficulty Level (1-10),5,Exam Grade,70.0,76,9
+Study Time (hours),4.0,Difficulty Level (1-10),2,Exam Grade,80.0,76,10
+Study Time (hours),5.0,Difficulty Level (1-10),6,Exam Grade,75.0,76,11
+Study Time (hours),6.0,Difficulty Level (1-10),5,Exam Grade,80.0,76,12
+Study Time (hours),7.0,Difficulty Level (1-10),3,Exam Grade,90.0,76,13
+Study Time (hours),6.0,Difficulty Level (1-10),4,Exam Grade,85.0,76,14
+Study Time (hours),8.0,Difficulty Level (1-10),2,Exam Grade,95.0,76,15
+Study Time (hours),7.0,Difficulty Level (1-10),3,Exam Grade,90.0,76,16
+Study Time (hours),4.0,Difficulty Level (1-10),5,Exam Grade,75.0,76,17
+Study Time (hours),3.0,Difficulty Level (1-10),6,Exam Grade,70.0,76,18
+Study Time (hours),6.0,Difficulty Level (1-10),4,Exam Grade,85.0,76,19
+Study Time (hours),5.0,Difficulty Level (1-10),5,Exam Grade,80.0,76,20
+Book Length,300.0,Author Fame,8.0,Reading Enjoyment,7.0,77,1
+Book Length,400.0,Author Fame,7.0,Reading Enjoyment,8.0,77,2
+Book Length,400.0,Author Fame,7.0,Reading Enjoyment,8.0,77,3
+Book Length,500.0,Author Fame,6.0,Reading Enjoyment,9.0,77,4
+Book Length,500.0,Author Fame,6.0,Reading Enjoyment,9.0,77,5
+Book Length,600.0,Author Fame,5.0,Reading Enjoyment,10.0,77,6
+Book Length,600.0,Author Fame,5.0,Reading Enjoyment,10.0,77,7
+Book Length,700.0,Author Fame,4.0,Reading Enjoyment,11.0,77,8
+Book Length,700.0,Author Fame,4.0,Reading Enjoyment,11.0,77,9
+Book Length,800.0,Author Fame,3.0,Reading Enjoyment,12.0,77,10
+Book Length,800.0,Author Fame,3.0,Reading Enjoyment,12.0,77,11
+Book Length,900.0,Author Fame,2.0,Reading Enjoyment,13.0,77,12
+Book Length,900.0,Author Fame,2.0,Reading Enjoyment,13.0,77,13
+Book Length,1000.0,Author Fame,1.0,Reading Enjoyment,14.0,77,14
+Book Length,1000.0,Author Fame,1.0,Reading Enjoyment,14.0,77,15
+Book Length,1100.0,Author Fame,0.5,Reading Enjoyment,15.0,77,16
+Book Length,1100.0,Author Fame,0.5,Reading Enjoyment,15.0,77,17
+Book Length,1200.0,Author Fame,0.25,Reading Enjoyment,16.0,77,18
+Book Length,1200.0,Author Fame,0.25,Reading Enjoyment,16.0,77,19
+Book Length,1300.0,Author Fame,0.1,Reading Enjoyment,17.0,77,20
+Room Size,20.0,Lighting,5.0,Comfort Level,8.0,78,1
+Room Size,25.0,Lighting,4.0,Comfort Level,7.0,78,2
+Room Size,25.0,Lighting,4.0,Comfort Level,7.0,78,3
+Room Size,30.0,Lighting,3.0,Comfort Level,6.5,78,4
+Room Size,30.0,Lighting,3.0,Comfort Level,6.5,78,5
+Room Size,35.0,Lighting,2.0,Comfort Level,6.0,78,6
+Room Size,35.0,Lighting,2.0,Comfort Level,6.0,78,7
+Room Size,40.0,Lighting,1.5,Comfort Level,5.5,78,8
+Room Size,40.0,Lighting,1.5,Comfort Level,5.5,78,9
+Room Size,45.0,Lighting,1.0,Comfort Level,5.0,78,10
+Room Size,45.0,Lighting,1.0,Comfort Level,5.0,78,11
+Room Size,50.0,Lighting,0.8,Comfort Level,4.5,78,12
+Room Size,50.0,Lighting,0.8,Comfort Level,4.5,78,13
+Room Size,55.0,Lighting,0.5,Comfort Level,4.0,78,14
+Room Size,55.0,Lighting,0.5,Comfort Level,4.0,78,15
+Room Size,60.0,Lighting,0.3,Comfort Level,3.5,78,16
+Room Size,60.0,Lighting,0.3,Comfort Level,3.5,78,17
+Room Size,65.0,Lighting,0.2,Comfort Level,3.0,78,18
+Room Size,65.0,Lighting,0.2,Comfort Level,3.0,78,19
+Room Size,70.0,Lighting,0.1,Comfort Level,2.5,78,20
+Age,30.0,Experience,5.0,Job Success,7.0,79,1
+Age,35.0,Experience,4.0,Job Success,6.5,79,2
+Age,35.0,Experience,4.0,Job Success,6.5,79,3
+Age,40.0,Experience,3.0,Job Success,6.0,79,4
+Age,40.0,Experience,3.0,Job Success,6.0,79,5
+Age,45.0,Experience,2.0,Job Success,5.5,79,6
+Age,45.0,Experience,2.0,Job Success,5.5,79,7
+Age,50.0,Experience,1.0,Job Success,5.0,79,8
+Age,50.0,Experience,1.0,Job Success,5.0,79,9
+Age,55.0,Experience,0.5,Job Success,4.5,79,10
+Age,55.0,Experience,0.5,Job Success,4.5,79,11
+Age,60.0,Experience,0.3,Job Success,4.0,79,12
+Age,60.0,Experience,0.3,Job Success,4.0,79,13
+Age,65.0,Experience,0.2,Job Success,3.5,79,14
+Age,65.0,Experience,0.2,Job Success,3.5,79,15
+Age,70.0,Experience,0.1,Job Success,3.0,79,16
+Age,70.0,Experience,0.1,Job Success,3.0,79,17
+Age,75.0,Experience,0.05,Job Success,2.5,79,18
+Age,75.0,Experience,0.05,Job Success,2.5,79,19
+Age,80.0,Experience,0.02,Job Success,2.0,79,20
+Book age,1.0,Page count,300,Popularity,90.0,80,1
+Book age,3.0,Page count,400,Popularity,85.0,80,2
+Book age,2.0,Page count,250,Popularity,88.0,80,3
+Book age,4.0,Page count,350,Popularity,82.0,80,4
+Book age,3.0,Page count,320,Popularity,86.0,80,5
+Book age,5.0,Page count,420,Popularity,80.0,80,6
+Book age,4.0,Page count,280,Popularity,84.0,80,7
+Book age,6.0,Page count,380,Popularity,78.0,80,8
+Book age,5.0,Page count,340,Popularity,83.0,80,9
+Book age,7.0,Page count,440,Popularity,75.0,80,10
+Book age,6.0,Page count,300,Popularity,82.0,80,11
+Book age,8.0,Page count,400,Popularity,74.0,80,12
+Book age,7.0,Page count,360,Popularity,80.0,80,13
+Book age,9.0,Page count,460,Popularity,72.0,80,14
+Book age,8.0,Page count,290,Popularity,79.0,80,15
+Book age,10.0,Page count,390,Popularity,71.0,80,16
+Book age,9.0,Page count,380,Popularity,78.0,80,17
+Book age,11.0,Page count,480,Popularity,70.0,80,18
+Book age,10.0,Page count,350,Popularity,77.0,80,19
+Book age,12.0,Page count,450,Popularity,68.0,80,20
+Age,30.0,Height,180.0,Physical Endurance,7.5,81,1
+Age,25.0,Height,170.0,Physical Endurance,8.0,81,2
+Age,40.0,Height,175.0,Physical Endurance,6.0,81,3
+Age,35.0,Height,170.0,Physical Endurance,7.0,81,4
+Age,25.0,Height,165.0,Physical Endurance,8.5,81,5
+Age,20.0,Height,160.0,Physical Endurance,9.0,81,6
+Age,50.0,Height,185.0,Physical Endurance,5.0,81,7
+Age,45.0,Height,180.0,Physical Endurance,5.5,81,8
+Age,35.0,Height,170.0,Physical Endurance,7.0,81,9
+Age,30.0,Height,165.0,Physical Endurance,7.5,81,10
+Age,45.0,Height,175.0,Physical Endurance,5.5,81,11
+Age,40.0,Height,170.0,Physical Endurance,6.0,81,12
+Age,20.0,Height,160.0,Physical Endurance,9.0,81,13
+Age,25.0,Height,165.0,Physical Endurance,8.5,81,14
+Age,60.0,Height,180.0,Physical Endurance,4.0,81,15
+Age,55.0,Height,175.0,Physical Endurance,4.5,81,16
+Age,30.0,Height,170.0,Physical Endurance,7.5,81,17
+Age,25.0,Height,165.0,Physical Endurance,8.0,81,18
+Age,55.0,Height,175.0,Physical Endurance,4.5,81,19
+Age,50.0,Height,170.0,Physical Endurance,5.0,81,20
+Weight,100.0,Calories,150.0,Nutritional Value,70.0,82,1
+Weight,120.0,Calories,130.0,Nutritional Value,65.0,82,2
+Weight,80.0,Calories,120.0,Nutritional Value,75.0,82,3
+Weight,90.0,Calories,110.0,Nutritional Value,70.0,82,4
+Weight,150.0,Calories,200.0,Nutritional Value,50.0,82,5
+Weight,160.0,Calories,190.0,Nutritional Value,45.0,82,6
+Weight,120.0,Calories,140.0,Nutritional Value,60.0,82,7
+Weight,130.0,Calories,130.0,Nutritional Value,55.0,82,8
+Weight,90.0,Calories,100.0,Nutritional Value,80.0,82,9
+Weight,100.0,Calories,90.0,Nutritional Value,75.0,82,10
+Weight,110.0,Calories,130.0,Nutritional Value,65.0,82,11
+Weight,120.0,Calories,120.0,Nutritional Value,60.0,82,12
+Weight,80.0,Calories,90.0,Nutritional Value,85.0,82,13
+Weight,90.0,Calories,85.0,Nutritional Value,80.0,82,14
+Weight,130.0,Calories,160.0,Nutritional Value,55.0,82,15
+Weight,140.0,Calories,150.0,Nutritional Value,50.0,82,16
+Weight,100.0,Calories,110.0,Nutritional Value,70.0,82,17
+Weight,110.0,Calories,100.0,Nutritional Value,65.0,82,18
+Weight,90.0,Calories,100.0,Nutritional Value,75.0,82,19
+Weight,100.0,Calories,95.0,Nutritional Value,70.0,82,20
+Experience,5.0,Years of Education,12.0,Skill Level,7.0,83,1
+Experience,4.0,Years of Education,14.0,Skill Level,8.0,83,2
+Experience,10.0,Years of Education,10.0,Skill Level,8.0,83,3
+Experience,8.0,Years of Education,12.0,Skill Level,9.0,83,4
+Experience,3.0,Years of Education,15.0,Skill Level,7.0,83,5
+Experience,2.0,Years of Education,16.0,Skill Level,8.0,83,6
+Experience,8.0,Years of Education,11.0,Skill Level,8.0,83,7
+Experience,6.0,Years of Education,13.0,Skill Level,9.0,83,8
+Experience,12.0,Years of Education,9.0,Skill Level,9.0,83,9
+Experience,10.0,Years of Education,11.0,Skill Level,10.0,83,10
+Experience,4.0,Years of Education,13.0,Skill Level,7.0,83,11
+Experience,3.0,Years of Education,14.0,Skill Level,8.0,83,12
+Experience,7.0,Years of Education,12.0,Skill Level,8.0,83,13
+Experience,5.0,Years of Education,14.0,Skill Level,9.0,83,14
+Experience,9.0,Years of Education,10.0,Skill Level,8.0,83,15
+Experience,7.0,Years of Education,12.0,Skill Level,9.0,83,16
+Experience,6.0,Years of Education,14.0,Skill Level,7.0,83,17
+Experience,4.0,Years of Education,16.0,Skill Level,8.0,83,18
+Experience,11.0,Years of Education,8.0,Skill Level,9.0,83,19
+Experience,9.0,Years of Education,10.0,Skill Level,10.0,83,20
+Distance to work (miles),5.0,Commute time (minutes),15,Daily travel cost ($),30.0,84,1
+Distance to work (miles),10.0,Commute time (minutes),10,Daily travel cost ($),60.0,84,2
+Distance to work (miles),8.0,Commute time (minutes),12,Daily travel cost ($),48.0,84,3
+Distance to work (miles),4.0,Commute time (minutes),18,Daily travel cost ($),24.0,84,4
+Distance to work (miles),3.0,Commute time (minutes),10,Daily travel cost ($),15.0,84,5
+Distance to work (miles),6.0,Commute time (minutes),14,Daily travel cost ($),30.0,84,6
+Distance to work (miles),7.0,Commute time (minutes),16,Daily travel cost ($),42.0,84,7
+Distance to work (miles),2.0,Commute time (minutes),12,Daily travel cost ($),14.0,84,8
+Distance to work (miles),6.0,Commute time (minutes),20,Daily travel cost ($),36.0,84,9
+Distance to work (miles),9.0,Commute time (minutes),10,Daily travel cost ($),54.0,84,10
+Distance to work (miles),4.0,Commute time (minutes),14,Daily travel cost ($),20.0,84,11
+Distance to work (miles),5.0,Commute time (minutes),18,Daily travel cost ($),25.0,84,12
+Distance to work (miles),10.0,Commute time (minutes),10,Daily travel cost ($),60.0,84,13
+Distance to work (miles),3.0,Commute time (minutes),20,Daily travel cost ($),15.0,84,14
+Distance to work (miles),2.0,Commute time (minutes),16,Daily travel cost ($),10.0,84,15
+Distance to work (miles),7.0,Commute time (minutes),12,Daily travel cost ($),28.0,84,16
+Distance to work (miles),9.0,Commute time (minutes),8,Daily travel cost ($),54.0,84,17
+Distance to work (miles),1.0,Commute time (minutes),18,Daily travel cost ($),6.0,84,18
+Distance to work (miles),5.0,Commute time (minutes),12,Daily travel cost ($),30.0,84,19
+Distance to work (miles),8.0,Commute time (minutes),10,Daily travel cost ($),40.0,84,20
+Time spent studying (hours),3.0,Number of breaks (times),5,Exam score (%),60.0,85,1
+Time spent studying (hours),5.0,Number of breaks (times),3,Exam score (%),70.0,85,2
+Time spent studying (hours),4.0,Number of breaks (times),4,Exam score (%),65.0,85,3
+Time spent studying (hours),2.0,Number of breaks (times),2,Exam score (%),55.0,85,4
+Time spent studying (hours),5.0,Number of breaks (times),2,Exam score (%),75.0,85,5
+Time spent studying (hours),3.0,Number of breaks (times),6,Exam score (%),55.0,85,6
+Time spent studying (hours),2.0,Number of breaks (times),3,Exam score (%),50.0,85,7
+Time spent studying (hours),4.0,Number of breaks (times),5,Exam score (%),60.0,85,8
+Time spent studying (hours),6.0,Number of breaks (times),1,Exam score (%),80.0,85,9
+Time spent studying (hours),4.0,Number of breaks (times),4,Exam score (%),65.0,85,10
+Time spent studying (hours),3.0,Number of breaks (times),6,Exam score (%),55.0,85,11
+Time spent studying (hours),5.0,Number of breaks (times),2,Exam score (%),75.0,85,12
+Time spent studying (hours),4.0,Number of breaks (times),5,Exam score (%),65.0,85,13
+Time spent studying (hours),2.0,Number of breaks (times),3,Exam score (%),50.0,85,14
+Time spent studying (hours),5.0,Number of breaks (times),3,Exam score (%),70.0,85,15
+Time spent studying (hours),3.0,Number of breaks (times),5,Exam score (%),60.0,85,16
+Time spent studying (hours),2.0,Number of breaks (times),2,Exam score (%),55.0,85,17
+Time spent studying (hours),4.0,Number of breaks (times),4,Exam score (%),65.0,85,18
+Time spent studying (hours),6.0,Number of breaks (times),4,Exam score (%),75.0,85,19
+Time spent studying (hours),5.0,Number of breaks (times),1,Exam score (%),80.0,85,20
+Number of ingredients,5.0,Prep time (minutes),10,Cooking time (minutes),25.0,86,1
+Number of ingredients,10.0,Prep time (minutes),5,Cooking time (minutes),30.0,86,2
+Number of ingredients,8.0,Prep time (minutes),8,Cooking time (minutes),20.0,86,3
+Number of ingredients,4.0,Prep time (minutes),12,Cooking time (minutes),28.0,86,4
+Number of ingredients,3.0,Prep time (minutes),12,Cooking time (minutes),18.0,86,5
+Number of ingredients,6.0,Prep time (minutes),10,Cooking time (minutes),24.0,86,6
+Number of ingredients,7.0,Prep time (minutes),5,Cooking time (minutes),22.0,86,7
+Number of ingredients,2.0,Prep time (minutes),15,Cooking time (minutes),16.0,86,8
+Number of ingredients,6.0,Prep time (minutes),10,Cooking time (minutes),24.0,86,9
+Number of ingredients,9.0,Prep time (minutes),6,Cooking time (minutes),27.0,86,10
+Number of ingredients,4.0,Prep time (minutes),15,Cooking time (minutes),20.0,86,11
+Number of ingredients,5.0,Prep time (minutes),10,Cooking time (minutes),25.0,86,12
+Number of ingredients,10.0,Prep time (minutes),6,Cooking time (minutes),30.0,86,13
+Number of ingredients,3.0,Prep time (minutes),14,Cooking time (minutes),18.0,86,14
+Number of ingredients,2.0,Prep time (minutes),14,Cooking time (minutes),16.0,86,15
+Number of ingredients,7.0,Prep time (minutes),5,Cooking time (minutes),22.0,86,16
+Number of ingredients,9.0,Prep time (minutes),7,Cooking time (minutes),27.0,86,17
+Number of ingredients,4.0,Prep time (minutes),13,Cooking time (minutes),21.0,86,18
+Number of ingredients,5.0,Prep time (minutes),12,Cooking time (minutes),25.0,86,19
+Number of ingredients,8.0,Prep time (minutes),8,Cooking time (minutes),20.0,86,20
+Room Size (m²),20.0,Window Size (m²),2.0,Cooling Time (min),30.0,87,1
+Room Size (m²),25.0,Window Size (m²),3.0,Cooling Time (min),25.0,87,2
+Room Size (m²),18.0,Window Size (m²),1.5,Cooling Time (min),35.0,87,3
+Room Size (m²),22.0,Window Size (m²),2.5,Cooling Time (min),30.0,87,4
+Room Size (m²),22.0,Window Size (m²),2.0,Cooling Time (min),28.0,87,5
+Room Size (m²),26.0,Window Size (m²),3.0,Cooling Time (min),24.0,87,6
+Room Size (m²),15.0,Window Size (m²),1.0,Cooling Time (min),40.0,87,7
+Room Size (m²),20.0,Window Size (m²),2.0,Cooling Time (min),35.0,87,8
+Room Size (m²),24.0,Window Size (m²),3.0,Cooling Time (min),26.0,87,9
+Room Size (m²),28.0,Window Size (m²),4.0,Cooling Time (min),22.0,87,10
+Room Size (m²),16.0,Window Size (m²),1.2,Cooling Time (min),38.0,87,11
+Room Size (m²),21.0,Window Size (m²),2.2,Cooling Time (min),33.0,87,12
+Room Size (m²),19.0,Window Size (m²),1.8,Cooling Time (min),34.0,87,13
+Room Size (m²),23.0,Window Size (m²),2.8,Cooling Time (min),29.0,87,14
+Room Size (m²),21.0,Window Size (m²),2.2,Cooling Time (min),32.0,87,15
+Room Size (m²),25.0,Window Size (m²),3.2,Cooling Time (min),27.0,87,16
+Room Size (m²),17.0,Window Size (m²),1.6,Cooling Time (min),36.0,87,17
+Room Size (m²),22.0,Window Size (m²),2.6,Cooling Time (min),31.0,87,18
+Room Size (m²),23.0,Window Size (m²),2.5,Cooling Time (min),29.0,87,19
+Room Size (m²),27.0,Window Size (m²),3.5,Cooling Time (min),25.0,87,20
+Runner stride length (cm),80.0,Runner age (years),25,100m sprint time (s),11.5,88,1
+Runner stride length (cm),70.0,Runner age (years),30,100m sprint time (s),12.0,88,2
+Runner stride length (cm),75.0,Runner age (years),28,100m sprint time (s),11.8,88,3
+Runner stride length (cm),65.0,Runner age (years),32,100m sprint time (s),12.5,88,4
+Runner stride length (cm),85.0,Runner age (years),22,100m sprint time (s),11.2,88,5
+Runner stride length (cm),75.0,Runner age (years),26,100m sprint time (s),11.7,88,6
+Runner stride length (cm),70.0,Runner age (years),26,100m sprint time (s),11.9,88,7
+Runner stride length (cm),60.0,Runner age (years),30,100m sprint time (s),12.4,88,8
+Runner stride length (cm),82.0,Runner age (years),24,100m sprint time (s),11.4,88,9
+Runner stride length (cm),72.0,Runner age (years),28,100m sprint time (s),11.8,88,10
+Runner stride length (cm),78.0,Runner age (years),27,100m sprint time (s),11.6,88,11
+Runner stride length (cm),68.0,Runner age (years),31,100m sprint time (s),12.2,88,12
+Runner stride length (cm),73.0,Runner age (years),25,100m sprint time (s),11.7,88,13
+Runner stride length (cm),63.0,Runner age (years),29,100m sprint time (s),12.3,88,14
+Runner stride length (cm),81.0,Runner age (years),23,100m sprint time (s),11.3,88,15
+Runner stride length (cm),71.0,Runner age (years),27,100m sprint time (s),11.9,88,16
+Runner stride length (cm),76.0,Runner age (years),26,100m sprint time (s),11.8,88,17
+Runner stride length (cm),66.0,Runner age (years),30,100m sprint time (s),12.4,88,18
+Runner stride length (cm),79.0,Runner age (years),24,100m sprint time (s),11.5,88,19
+Runner stride length (cm),69.0,Runner age (years),28,100m sprint time (s),12.0,88,20
+Plant height (cm),30.0,Plant age (months),3,Flower size (cm),5.0,89,1
+Plant height (cm),40.0,Plant age (months),6,Flower size (cm),3.0,89,2
+Plant height (cm),25.0,Plant age (months),4,Flower size (cm),6.0,89,3
+Plant height (cm),35.0,Plant age (months),7,Flower size (cm),4.0,89,4
+Plant height (cm),28.0,Plant age (months),5,Flower size (cm),5.5,89,5
+Plant height (cm),38.0,Plant age (months),8,Flower size (cm),3.5,89,6
+Plant height (cm),32.0,Plant age (months),3,Flower size (cm),5.2,89,7
+Plant height (cm),42.0,Plant age (months),6,Flower size (cm),3.2,89,8
+Plant height (cm),27.0,Plant age (months),4,Flower size (cm),5.8,89,9
+Plant height (cm),37.0,Plant age (months),7,Flower size (cm),3.8,89,10
+Plant height (cm),31.0,Plant age (months),5,Flower size (cm),5.4,89,11
+Plant height (cm),41.0,Plant age (months),8,Flower size (cm),3.4,89,12
+Plant height (cm),26.0,Plant age (months),3,Flower size (cm),6.0,89,13
+Plant height (cm),36.0,Plant age (months),6,Flower size (cm),4.0,89,14
+Plant height (cm),29.0,Plant age (months),4,Flower size (cm),5.7,89,15
+Plant height (cm),39.0,Plant age (months),7,Flower size (cm),3.7,89,16
+Plant height (cm),33.0,Plant age (months),5,Flower size (cm),5.3,89,17
+Plant height (cm),43.0,Plant age (months),8,Flower size (cm),3.3,89,18
+Plant height (cm),24.0,Plant age (months),3,Flower size (cm),6.2,89,19
+Plant height (cm),34.0,Plant age (months),6,Flower size (cm),4.2,89,20
+Number of Ingredients,5.0,Prep Time (min),20.0,Taste Rating,8.0,90,1
+Number of Ingredients,6.0,Prep Time (min),30.0,Taste Rating,7.0,90,2
+Number of Ingredients,4.0,Prep Time (min),15.0,Taste Rating,9.0,90,3
+Number of Ingredients,5.0,Prep Time (min),25.0,Taste Rating,8.0,90,4
+Number of Ingredients,6.0,Prep Time (min),25.0,Taste Rating,7.0,90,5
+Number of Ingredients,7.0,Prep Time (min),35.0,Taste Rating,6.0,90,6
+Number of Ingredients,3.0,Prep Time (min),10.0,Taste Rating,10.0,90,7
+Number of Ingredients,4.0,Prep Time (min),20.0,Taste Rating,9.0,90,8
+Number of Ingredients,5.0,Prep Time (min),20.0,Taste Rating,8.0,90,9
+Number of Ingredients,6.0,Prep Time (min),30.0,Taste Rating,7.0,90,10
+Number of Ingredients,6.0,Prep Time (min),25.0,Taste Rating,7.0,90,11
+Number of Ingredients,7.0,Prep Time (min),35.0,Taste Rating,6.0,90,12
+Number of Ingredients,4.0,Prep Time (min),15.0,Taste Rating,9.0,90,13
+Number of Ingredients,5.0,Prep Time (min),25.0,Taste Rating,8.0,90,14
+Number of Ingredients,5.0,Prep Time (min),20.0,Taste Rating,8.0,90,15
+Number of Ingredients,6.0,Prep Time (min),30.0,Taste Rating,7.0,90,16
+Number of Ingredients,3.0,Prep Time (min),10.0,Taste Rating,10.0,90,17
+Number of Ingredients,4.0,Prep Time (min),20.0,Taste Rating,9.0,90,18
+Number of Ingredients,6.0,Prep Time (min),25.0,Taste Rating,7.0,90,19
+Number of Ingredients,7.0,Prep Time (min),35.0,Taste Rating,6.0,90,20
+House size (sqm),100.0,Number of windows,6.0,Heating cost (per month),300.0,91,1
+House size (sqm),120.0,Number of windows,5.0,Heating cost (per month),350.0,91,2
+House size (sqm),90.0,Number of windows,5.0,Heating cost (per month),280.0,91,3
+House size (sqm),110.0,Number of windows,6.0,Heating cost (per month),320.0,91,4
+House size (sqm),130.0,Number of windows,4.0,Heating cost (per month),380.0,91,5
+House size (sqm),140.0,Number of windows,3.0,Heating cost (per month),400.0,91,6
+House size (sqm),80.0,Number of windows,7.0,Heating cost (per month),270.0,91,7
+House size (sqm),90.0,Number of windows,8.0,Heating cost (per month),260.0,91,8
+House size (sqm),110.0,Number of windows,5.0,Heating cost (per month),320.0,91,9
+House size (sqm),100.0,Number of windows,6.0,Heating cost (per month),300.0,91,10
+House size (sqm),150.0,Number of windows,3.0,Heating cost (per month),420.0,91,11
+House size (sqm),160.0,Number of windows,2.0,Heating cost (per month),440.0,91,12
+House size (sqm),100.0,Number of windows,8.0,Heating cost (per month),260.0,91,13
+House size (sqm),90.0,Number of windows,9.0,Heating cost (per month),250.0,91,14
+House size (sqm),120.0,Number of windows,4.0,Heating cost (per month),340.0,91,15
+House size (sqm),130.0,Number of windows,5.0,Heating cost (per month),360.0,91,16
+House size (sqm),140.0,Number of windows,2.0,Heating cost (per month),400.0,91,17
+House size (sqm),150.0,Number of windows,1.0,Heating cost (per month),420.0,91,18
+House size (sqm),90.0,Number of windows,6.0,Heating cost (per month),280.0,91,19
+House size (sqm),100.0,Number of windows,5.0,Heating cost (per month),300.0,91,20
+Phone battery capacity (mAh),4000.0,Phone screen size (inches),6.1,Phone price ($),600.0,92,1
+Phone battery capacity (mAh),5000.0,Phone screen size (inches),5.8,Phone price ($),580.0,92,2
+Phone battery capacity (mAh),3800.0,Phone screen size (inches),6.5,Phone price ($),550.0,92,3
+Phone battery capacity (mAh),5200.0,Phone screen size (inches),6.0,Phone price ($),590.0,92,4
+Phone battery capacity (mAh),4200.0,Phone screen size (inches),5.9,Phone price ($),620.0,92,5
+Phone battery capacity (mAh),5400.0,Phone screen size (inches),5.7,Phone price ($),570.0,92,6
+Phone battery capacity (mAh),3900.0,Phone screen size (inches),6.2,Phone price ($),560.0,92,7
+Phone battery capacity (mAh),5100.0,Phone screen size (inches),5.9,Phone price ($),550.0,92,8
+Phone battery capacity (mAh),4100.0,Phone screen size (inches),6.0,Phone price ($),610.0,92,9
+Phone battery capacity (mAh),5300.0,Phone screen size (inches),5.8,Phone price ($),560.0,92,10
+Phone battery capacity (mAh),3700.0,Phone screen size (inches),6.3,Phone price ($),540.0,92,11
+Phone battery capacity (mAh),5000.0,Phone screen size (inches),6.1,Phone price ($),530.0,92,12
+Phone battery capacity (mAh),4300.0,Phone screen size (inches),5.8,Phone price ($),630.0,92,13
+Phone battery capacity (mAh),5500.0,Phone screen size (inches),5.6,Phone price ($),580.0,92,14
+Phone battery capacity (mAh),4000.0,Phone screen size (inches),6.0,Phone price ($),590.0,92,15
+Phone battery capacity (mAh),5200.0,Phone screen size (inches),5.7,Phone price ($),540.0,92,16
+Phone battery capacity (mAh),3800.0,Phone screen size (inches),6.1,Phone price ($),550.0,92,17
+Phone battery capacity (mAh),5300.0,Phone screen size (inches),5.9,Phone price ($),520.0,92,18
+Phone battery capacity (mAh),4200.0,Phone screen size (inches),6.2,Phone price ($),600.0,92,19
+Phone battery capacity (mAh),5400.0,Phone screen size (inches),5.8,Phone price ($),570.0,92,20
+Hours of Sleep,7.0,Number of Alarms,1,Morning Alertness,8.0,93,1
+Hours of Sleep,6.0,Number of Alarms,2,Morning Alertness,6.0,93,2
+Hours of Sleep,8.0,Number of Alarms,0,Morning Alertness,9.0,93,3
+Hours of Sleep,7.0,Number of Alarms,1,Morning Alertness,7.0,93,4
+Hours of Sleep,6.0,Number of Alarms,3,Morning Alertness,5.0,93,5
+Hours of Sleep,5.0,Number of Alarms,4,Morning Alertness,4.0,93,6
+Hours of Sleep,9.0,Number of Alarms,0,Morning Alertness,10.0,93,7
+Hours of Sleep,8.0,Number of Alarms,1,Morning Alertness,8.0,93,8
+Hours of Sleep,5.0,Number of Alarms,2,Morning Alertness,4.0,93,9
+Hours of Sleep,4.0,Number of Alarms,3,Morning Alertness,3.0,93,10
+Hours of Sleep,7.0,Number of Alarms,2,Morning Alertness,6.0,93,11
+Hours of Sleep,6.0,Number of Alarms,3,Morning Alertness,5.0,93,12
+Hours of Sleep,8.0,Number of Alarms,1,Morning Alertness,8.0,93,13
+Hours of Sleep,7.0,Number of Alarms,2,Morning Alertness,6.0,93,14
+Hours of Sleep,6.0,Number of Alarms,1,Morning Alertness,7.0,93,15
+Hours of Sleep,5.0,Number of Alarms,2,Morning Alertness,5.0,93,16
+Hours of Sleep,9.0,Number of Alarms,1,Morning Alertness,9.0,93,17
+Hours of Sleep,8.0,Number of Alarms,2,Morning Alertness,7.0,93,18
+Hours of Sleep,7.0,Number of Alarms,0,Morning Alertness,8.0,93,19
+Hours of Sleep,6.0,Number of Alarms,1,Morning Alertness,6.0,93,20
+Study Time (hours),3.0,Number of Distractions,2,Retention Rate (%),70.0,94,1
+Study Time (hours),2.0,Number of Distractions,3,Retention Rate (%),60.0,94,2
+Study Time (hours),4.0,Number of Distractions,1,Retention Rate (%),80.0,94,3
+Study Time (hours),3.0,Number of Distractions,2,Retention Rate (%),75.0,94,4
+Study Time (hours),2.0,Number of Distractions,3,Retention Rate (%),50.0,94,5
+Study Time (hours),1.0,Number of Distractions,4,Retention Rate (%),45.0,94,6
+Study Time (hours),5.0,Number of Distractions,0,Retention Rate (%),90.0,94,7
+Study Time (hours),4.0,Number of Distractions,1,Retention Rate (%),85.0,94,8
+Study Time (hours),3.0,Number of Distractions,1,Retention Rate (%),75.0,94,9
+Study Time (hours),2.0,Number of Distractions,2,Retention Rate (%),70.0,94,10
+Study Time (hours),4.0,Number of Distractions,2,Retention Rate (%),80.0,94,11
+Study Time (hours),3.0,Number of Distractions,3,Retention Rate (%),75.0,94,12
+Study Time (hours),2.0,Number of Distractions,4,Retention Rate (%),55.0,94,13
+Study Time (hours),1.0,Number of Distractions,5,Retention Rate (%),50.0,94,14
+Study Time (hours),5.0,Number of Distractions,1,Retention Rate (%),88.0,94,15
+Study Time (hours),4.0,Number of Distractions,2,Retention Rate (%),83.0,94,16
+Study Time (hours),3.0,Number of Distractions,3,Retention Rate (%),70.0,94,17
+Study Time (hours),2.0,Number of Distractions,4,Retention Rate (%),65.0,94,18
+Study Time (hours),4.0,Number of Distractions,0,Retention Rate (%),90.0,94,19
+Study Time (hours),3.0,Number of Distractions,1,Retention Rate (%),85.0,94,20
+Person height (cm),180.0,Age (years),30.0,Walking speed (km/h),5.5,95,1
+Person height (cm),170.0,Age (years),40.0,Walking speed (km/h),4.5,95,2
+Person height (cm),175.0,Age (years),25.0,Walking speed (km/h),5.2,95,3
+Person height (cm),165.0,Age (years),35.0,Walking speed (km/h),4.3,95,4
+Person height (cm),185.0,Age (years),35.0,Walking speed (km/h),5.8,95,5
+Person height (cm),175.0,Age (years),45.0,Walking speed (km/h),4.7,95,6
+Person height (cm),170.0,Age (years),28.0,Walking speed (km/h),5.0,95,7
+Person height (cm),160.0,Age (years),38.0,Walking speed (km/h),4.2,95,8
+Person height (cm),190.0,Age (years),27.0,Walking speed (km/h),6.0,95,9
+Person height (cm),180.0,Age (years),37.0,Walking speed (km/h),5.0,95,10
+Person height (cm),165.0,Age (years),32.0,Walking speed (km/h),4.8,95,11
+Person height (cm),155.0,Age (years),42.0,Walking speed (km/h),4.0,95,12
+Person height (cm),175.0,Age (years),29.0,Walking speed (km/h),5.3,95,13
+Person height (cm),165.0,Age (years),39.0,Walking speed (km/h),4.4,95,14
+Person height (cm),180.0,Age (years),31.0,Walking speed (km/h),5.6,95,15
+Person height (cm),170.0,Age (years),41.0,Walking speed (km/h),4.6,95,16
+Person height (cm),168.0,Age (years),26.0,Walking speed (km/h),5.0,95,17
+Person height (cm),158.0,Age (years),36.0,Walking speed (km/h),4.1,95,18
+Person height (cm),178.0,Age (years),33.0,Walking speed (km/h),5.7,95,19
+Person height (cm),168.0,Age (years),43.0,Walking speed (km/h),4.8,95,20
+Age (years),5.0,Number of Pets,2,Energy Level (scale 1-10),6.0,96,1
+Age (years),8.0,Number of Pets,3,Energy Level (scale 1-10),3.0,96,2
+Age (years),7.0,Number of Pets,1,Energy Level (scale 1-10),4.0,96,3
+Age (years),4.0,Number of Pets,2,Energy Level (scale 1-10),5.0,96,4
+Age (years),6.0,Number of Pets,3,Energy Level (scale 1-10),5.0,96,5
+Age (years),9.0,Number of Pets,4,Energy Level (scale 1-10),2.0,96,6
+Age (years),8.0,Number of Pets,2,Energy Level (scale 1-10),3.0,96,7
+Age (years),5.0,Number of Pets,1,Energy Level (scale 1-10),4.0,96,8
+Age (years),10.0,Number of Pets,4,Energy Level (scale 1-10),2.0,96,9
+Age (years),7.0,Number of Pets,3,Energy Level (scale 1-10),3.0,96,10
+Age (years),4.0,Number of Pets,1,Energy Level (scale 1-10),5.0,96,11
+Age (years),6.0,Number of Pets,2,Energy Level (scale 1-10),4.0,96,12
+Age (years),9.0,Number of Pets,3,Energy Level (scale 1-10),2.0,96,13
+Age (years),5.0,Number of Pets,1,Energy Level (scale 1-10),3.0,96,14
+Age (years),3.0,Number of Pets,2,Energy Level (scale 1-10),6.0,96,15
+Age (years),7.0,Number of Pets,4,Energy Level (scale 1-10),3.0,96,16
+Age (years),6.0,Number of Pets,1,Energy Level (scale 1-10),4.0,96,17
+Age (years),8.0,Number of Pets,3,Energy Level (scale 1-10),2.0,96,18
+Age (years),5.0,Number of Pets,3,Energy Level (scale 1-10),5.0,96,19
+Age (years),4.0,Number of Pets,2,Energy Level (scale 1-10),4.0,96,20
+Distance (km),10.0,Speed (km/h),60,Travel Time (min),10.0,97,1
+Distance (km),15.0,Speed (km/h),50,Travel Time (min),18.0,97,2
+Distance (km),12.0,Speed (km/h),70,Travel Time (min),9.0,97,3
+Distance (km),10.0,Speed (km/h),60,Travel Time (min),10.0,97,4
+Distance (km),14.0,Speed (km/h),80,Travel Time (min),10.0,97,5
+Distance (km),16.0,Speed (km/h),55,Travel Time (min),18.0,97,6
+Distance (km),8.0,Speed (km/h),50,Travel Time (min),10.0,97,7
+Distance (km),12.0,Speed (km/h),65,Travel Time (min),9.0,97,8
+Distance (km),16.0,Speed (km/h),90,Travel Time (min),11.0,97,9
+Distance (km),18.0,Speed (km/h),45,Travel Time (min),24.0,97,10
+Distance (km),10.0,Speed (km/h),55,Travel Time (min),11.0,97,11
+Distance (km),13.0,Speed (km/h),60,Travel Time (min),13.0,97,12
+Distance (km),15.0,Speed (km/h),75,Travel Time (min),12.0,97,13
+Distance (km),17.0,Speed (km/h),60,Travel Time (min),14.0,97,14
+Distance (km),12.0,Speed (km/h),65,Travel Time (min),9.0,97,15
+Distance (km),14.0,Speed (km/h),70,Travel Time (min),10.0,97,16
+Distance (km),9.0,Speed (km/h),50,Travel Time (min),11.0,97,17
+Distance (km),11.0,Speed (km/h),60,Travel Time (min),9.0,97,18
+Distance (km),18.0,Speed (km/h),85,Travel Time (min),13.0,97,19
+Distance (km),20.0,Speed (km/h),50,Travel Time (min),24.0,97,20
+Plant Height,30.0,Water Amount,1,Plant Health,7.0,98,1
+Plant Height,30.0,Water Amount,2,Plant Health,6.0,98,2
+Plant Height,40.0,Water Amount,1,Plant Health,8.0,98,3
+Plant Height,40.0,Water Amount,2,Plant Health,7.0,98,4
+Plant Height,50.0,Water Amount,1,Plant Health,9.0,98,5
+Plant Height,50.0,Water Amount,2,Plant Health,8.0,98,6
+Plant Height,60.0,Water Amount,1,Plant Health,10.0,98,7
+Plant Height,60.0,Water Amount,2,Plant Health,9.0,98,8
+Plant Height,70.0,Water Amount,1,Plant Health,11.0,98,9
+Plant Height,70.0,Water Amount,2,Plant Health,10.0,98,10
+Plant Height,80.0,Water Amount,1,Plant Health,12.0,98,11
+Plant Height,80.0,Water Amount,2,Plant Health,11.0,98,12
+Plant Height,90.0,Water Amount,1,Plant Health,13.0,98,13
+Plant Height,90.0,Water Amount,2,Plant Health,12.0,98,14
+Plant Height,100.0,Water Amount,1,Plant Health,14.0,98,15
+Plant Height,100.0,Water Amount,2,Plant Health,13.0,98,16
+Plant Height,110.0,Water Amount,1,Plant Health,15.0,98,17
+Plant Height,110.0,Water Amount,2,Plant Health,14.0,98,18
+Plant Height,120.0,Water Amount,1,Plant Health,16.0,98,19
+Plant Height,120.0,Water Amount,2,Plant Health,15.0,98,20
+Phone RAM,4.0,Phone Storage,64,App Performance,3.0,99,1
+Phone RAM,4.0,Phone Storage,128,App Performance,3.0,99,2
+Phone RAM,6.0,Phone Storage,64,App Performance,4.0,99,3
+Phone RAM,6.0,Phone Storage,128,App Performance,4.0,99,4
+Phone RAM,8.0,Phone Storage,64,App Performance,5.0,99,5
+Phone RAM,8.0,Phone Storage,128,App Performance,5.0,99,6
+Phone RAM,12.0,Phone Storage,64,App Performance,6.0,99,7
+Phone RAM,12.0,Phone Storage,128,App Performance,6.0,99,8
+Phone RAM,16.0,Phone Storage,64,App Performance,7.0,99,9
+Phone RAM,16.0,Phone Storage,128,App Performance,7.0,99,10
+Phone RAM,2.0,Phone Storage,64,App Performance,2.0,99,11
+Phone RAM,2.0,Phone Storage,128,App Performance,2.0,99,12
+Phone RAM,4.0,Phone Storage,64,App Performance,3.0,99,13
+Phone RAM,4.0,Phone Storage,128,App Performance,3.0,99,14
+Phone RAM,6.0,Phone Storage,64,App Performance,4.0,99,15
+Phone RAM,6.0,Phone Storage,128,App Performance,4.0,99,16
+Phone RAM,8.0,Phone Storage,64,App Performance,5.0,99,17
+Phone RAM,8.0,Phone Storage,128,App Performance,5.0,99,18
+Phone RAM,12.0,Phone Storage,64,App Performance,6.0,99,19
+Phone RAM,12.0,Phone Storage,128,App Performance,6.0,99,20
+Restaurant Wait Time (in mins),10.0,Restaurant Rating (1-5),4,Customer Satisfaction,8.0,100,1
+Restaurant Wait Time (in mins),20.0,Restaurant Rating (1-5),3,Customer Satisfaction,6.0,100,2
+Restaurant Wait Time (in mins),15.0,Restaurant Rating (1-5),5,Customer Satisfaction,7.0,100,3
+Restaurant Wait Time (in mins),25.0,Restaurant Rating (1-5),2,Customer Satisfaction,5.0,100,4
+Restaurant Wait Time (in mins),5.0,Restaurant Rating (1-5),4,Customer Satisfaction,9.0,100,5
+Restaurant Wait Time (in mins),30.0,Restaurant Rating (1-5),1,Customer Satisfaction,4.0,100,6
+Restaurant Wait Time (in mins),20.0,Restaurant Rating (1-5),5,Customer Satisfaction,6.0,100,7
+Restaurant Wait Time (in mins),10.0,Restaurant Rating (1-5),3,Customer Satisfaction,7.0,100,8
+Restaurant Wait Time (in mins),12.0,Restaurant Rating (1-5),4,Customer Satisfaction,8.0,100,9
+Restaurant Wait Time (in mins),22.0,Restaurant Rating (1-5),2,Customer Satisfaction,6.0,100,10
+Restaurant Wait Time (in mins),8.0,Restaurant Rating (1-5),5,Customer Satisfaction,9.0,100,11
+Restaurant Wait Time (in mins),28.0,Restaurant Rating (1-5),1,Customer Satisfaction,4.0,100,12
+Restaurant Wait Time (in mins),18.0,Restaurant Rating (1-5),4,Customer Satisfaction,7.0,100,13
+Restaurant Wait Time (in mins),12.0,Restaurant Rating (1-5),3,Customer Satisfaction,8.0,100,14
+Restaurant Wait Time (in mins),14.0,Restaurant Rating (1-5),5,Customer Satisfaction,7.0,100,15
+Restaurant Wait Time (in mins),24.0,Restaurant Rating (1-5),2,Customer Satisfaction,5.0,100,16
+Restaurant Wait Time (in mins),10.0,Restaurant Rating (1-5),4,Customer Satisfaction,8.0,100,17
+Restaurant Wait Time (in mins),26.0,Restaurant Rating (1-5),1,Customer Satisfaction,4.0,100,18
+Restaurant Wait Time (in mins),16.0,Restaurant Rating (1-5),5,Customer Satisfaction,6.0,100,19
+Restaurant Wait Time (in mins),14.0,Restaurant Rating (1-5),3,Customer Satisfaction,7.0,100,20

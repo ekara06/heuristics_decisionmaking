@@ -1,0 +1,51 @@
+Feature_3 name;Feature 1 name;Feature 2 name;condition;corr_1_3;corr_2_3;known_ranking;known_direction
+Performance Score (1-100);Hours of Practice;Number of Lessons;direction;0.94;0.97;False;True
+Apartment price;Distance from city center;Room size;direction;0.82;0.97;False;True
+Muscle gain;Minutes of exercise;Protein intake;direction;0.78;0.97;False;True
+Recipe difficulty;Number of ingredients;Prep time (minutes);direction;0.99;0.99;False;True
+Speed;Car Engine Size;Horsepower;direction;0.97;0.98;False;True
+Comfort;Shoe Weight;Brand Reputation;direction;0.94;1.0;False;True
+Flavor Strength;Coffee Bean Size;Bean Roast;direction;0.89;0.92;False;True
+Growth Rate;Plant Leaf Size;Plant Height;direction;1.0;1.0;False;True
+Natural light;Room size;Window count;direction;0.54;1.0;False;True
+Weight loss;Exercise duration;Intensity level;direction;0.8;0.97;False;True
+Battery life;Phone battery;Screen size;direction;0.89;0.95;False;True
+Home value;House size;Neighborhood quality;direction;0.87;0.93;False;True
+Engagement rate (%);Number of followers;Post quality score;direction;0.27;0.35;False;True
+Reading time;Book pages;Book chapters;direction;0.97;0.98;False;True
+Movie enjoyment;Movie runtime;Movie rating;direction;0.93;0.97;False;True
+Performance;Hours of Practice;Natural Talent (1-10);direction;0.27;0.72;False;True
+House Price (thousands);House Size (m²);House Distance to City (km);direction;0.99;0.99;False;True
+Tea Strength (1-10);Tea Leaf Quality (1-10);Tea Steeping Time (minutes);direction;1.0;1.0;False;True
+Plant Growth Rate (cm/week);Plant Soil Quality (1-10);Plant Water Frequency (times/week);direction;1.0;1.0;False;True
+Training Difficulty (1-10);Dog Size;Dog Energy Level;direction;0.94;1.0;False;True
+Growth Rate (cm/week);Plant Leaf Size;Plant Water Usage;direction;0.99;0.99;False;True
+Physical strength;Height (cm);Weight (kg);direction;0.93;0.93;False;True
+Light amount;Room size (m2);Number of windows;direction;0.32;0.86;False;True
+Phone Performance;Phone RAM;Phone Storage;direction;0.76;0.77;False;True
+Bike Speed;Bike Weight;Bike Power;direction;1.0;1.0;False;True
+Dog Energy Lvl;Dog Size;Exercise Needs;direction;0.37;0.9;False;True
+Room Area (m²);Room Length (m);Room Width (m);direction;0.1;0.42;False;True
+Market value ($);Number of bedrooms;House size (sq ft);direction;0.68;0.93;False;True
+Exam score;Study time (hours);Class attendance (%);direction;0.34;0.82;False;True
+Post reach;Number of followers;Engagement rate (%);direction;0.09;0.8;False;True
+Exam Score (out of 100);Time Spent Studying (hours);Number of Chapters Covered;direction;0.69;0.93;False;True
+Exercise Intensity;Time to Walk (min);Number of Steps;direction;0.97;1.0;False;True
+Prep Time (min);Number of Ingredients;Cooking Time (min);direction;0.81;0.96;False;True
+Product Score;Price ($);Rating (1-10);direction;0.29;0.57;False;True
+Fun Score;Number of Players;Game Length (min);direction;0.75;0.88;False;True
+Value Score;Price ($);Size (GB);direction;0.08;0.21;False;True
+Instrument Performance;Skill Level;Practice Time;direction;0.07;0.46;False;True
+Coffee Enjoyment;Coffee price;Coffee acidity;direction;1.0;1.0;False;True
+Book Reading Time;Book Thickness;Book Length;direction;0.97;0.97;False;True
+Recipe Complexity;Recipe Servings;Recipe Ingredients;direction;0.95;0.97;False;True
+Bike Efficiency;Bike Weight;Bike Wheel Size;direction;0.63;0.96;False;True
+Room Size;Room Width;Room Length;direction;0.99;0.99;False;True
+Quality;Price;Size;direction;0.89;0.9;False;True
+Distance Traveled;Speed;Weight;direction;0.96;0.98;False;True
+Strength;Coffee Beans;Water;direction;0.99;0.99;False;True
+Top Speed;Engine Size;Horsepower;direction;0.99;0.99;False;True
+Job Success;Age;Experience;direction;0.98;0.99;False;True
+Jump Height;Height;Arm Length;direction;0.98;0.99;False;True
+Time to destination (hours);Distance (miles);Speed (mph);direction;1.0;1.0;False;True
+User satisfaction;Screen size (inches);RAM (GB);direction;1.0;1.0;False;True

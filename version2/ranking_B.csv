@@ -1,0 +1,51 @@
+Feature_3 name;Feature 1 name;Feature 2 name;condition;corr_1_3;corr_2_3;known_ranking;known_direction
+Car speed (mph);Engine power (hp);Weight (kg);ranking;0.97;-0.23;True;False
+Height (cm);Age of the plant (weeks);Water given (ml/day);ranking;0.97;-0.93;True;False
+Post reach (people);Number of likes (count);Time posted (hours ago);ranking;1.0;-0.59;True;False
+Commute time (minutes);Distance to work (miles);Number of traffic lights;ranking;0.96;-0.78;True;False
+Morning alertness (1-10);Amount of sleep (hours);Time to bed (minutes past 10pm);ranking;0.95;-0.93;True;False
+Engagement rate (%);Number of followers (count);Time posted (hours ago);ranking;0.89;-0.79;True;False
+House Value;House Size;Housing Age;ranking;0.97;-0.08;True;False
+Shoe Demand;Shoe price (in USD);Comfort rating (1-10);ranking;-0.98;-0.96;True;False
+Fuel Efficiency (km/l);Car Engine Size (liters);Weight (kg);ranking;-0.96;-0.82;True;False
+Battery Life (hours);Phone RAM (GB);Screen Size (inches);ranking;0.27;-0.25;True;False
+Bike Speed;Bike Weight;Bike Frame Size;ranking;-1.0;-0.9;True;False
+Mood Score (1-10);Hours of Sleep;Screen Time (hours);ranking;0.96;-0.74;True;False
+Project Success (%);Experience (years);Team Size;ranking;-0.32;-0.3;True;False
+Energy Boost (1-10);Number of Calories;Sugar (g);ranking;-0.96;-0.32;True;False
+Weight Loss (lbs);Exercise Minutes;Diet Score (1-10);ranking;1.0;-0.12;True;False
+Reading time (hours);Book pages;Book weight (g);ranking;0.99;-0.5;True;False
+Lighting (lux);Room size (m2);Number of windows;ranking;0.91;-0.59;True;False
+Calories burned;Exercise time (min);Heart rate (bpm);ranking;0.89;-0.28;True;False
+Battery life (hours);Laptop weight (kg);Screen size (inches);ranking;-0.11;-0.06;True;False
+Speed (km/h);Bicycle weight (kg);Wheel size (inches);ranking;-0.94;0.72;True;False
+Garden yield (kg);Amount of fertilizer (grams);Rainfall (mm/week);ranking;0.96;-0.86;True;False
+Endurance;Age;Height;ranking;-0.83;0.69;True;False
+Car Value;Age (years);Mileage (km);ranking;-0.94;-0.92;True;False
+Exam Grade;Study Time (hours);Difficulty Level (1-10);ranking;0.91;-0.8;True;False
+Reading Enjoyment;Book Length;Author Fame;ranking;1.0;-0.99;True;False
+Comfort Level;Room Size;Lighting;ranking;-1.0;0.95;True;False
+Job Success;Age;Experience;ranking;-1.0;0.91;True;False
+Popularity;Book age;Page count;ranking;-0.94;-0.78;True;False
+Physical Endurance;Age;Height;ranking;-0.99;-0.77;True;False
+Nutritional Value;Weight;Calories;ranking;-0.96;-0.84;True;False
+Skill Level;Experience;Years of Education;ranking;0.57;-0.45;True;False
+Daily travel cost ($);Distance to work (miles);Commute time (minutes);ranking;0.97;-0.56;True;False
+Exam score (%);Time spent studying (hours);Number of breaks (times);ranking;0.94;-0.48;True;False
+Cooking time (minutes);Number of ingredients;Prep time (minutes);ranking;0.7;-0.6;True;False
+Cooling Time (min);Room Size (m²);Window Size (m²);ranking;-0.97;-0.93;True;False
+100m sprint time (s);Runner stride length (cm);Runner age (years);ranking;-0.96;0.93;True;False
+Flower size (cm);Plant height (cm);Plant age (months);ranking;-0.97;-0.85;True;False
+Taste Rating;Number of Ingredients;Prep Time (min);ranking;-1.0;-0.95;True;False
+Heating cost (per month);House size (sqm);Number of windows;ranking;0.98;-0.92;True;False
+Phone price ($);Phone battery capacity (mAh);Phone screen size (inches);ranking;-0.25;-0.17;True;False
+Flower blooming time;Hours of sunlight;Humidity;ranking;-0.96;0.78;True;False
+Morning Alertness;Hours of Sleep;Number of Alarms;ranking;0.92;-0.86;True;False
+Retention Rate (%);Study Time (hours);Number of Distractions;ranking;0.91;-0.88;True;False
+Walking speed (km/h);Person height (cm);Age (years);ranking;0.92;-0.6;True;False
+Energy Level (scale 1-10);Age (years);Number of Pets;ranking;-0.85;-0.48;True;False
+Travel Time (min);Distance (km);Speed (km/h);ranking;0.73;-0.47;True;False
+Plant Health;Plant Height;Water Amount;ranking;0.99;-0.17;True;False
+App Performance;Phone RAM;Phone Storage;ranking;0.98;0.0;True;False
+Customer Satisfaction;Restaurant Wait Time (in mins);Restaurant Rating (1-5);ranking;-0.96;0.72;True;False
+Reliability;Car age;Maintenance cost;ranking;-0.98;0.93;True;False

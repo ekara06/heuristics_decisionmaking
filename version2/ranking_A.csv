@@ -1,0 +1,51 @@
+Feature_3 name;Feature 1 name;Feature 2 name;condition;corr_1_3;corr_2_3;known_ranking;known_direction
+Enjoyment (1-10);Book Thickness (cm);Author Fame (1-10);ranking;0.5;-0.31;True;False
+Fatigue (1-10);Exercise Duration (min);Rest Time (min);ranking;0.92;-0.31;True;False
+Comfort (1-10);Shoe Width (cm);Arch Support (1-10);ranking;-1.0;0.74;True;False
+Student Exam Score;Student Study Hours;Student Distractions;ranking;0.98;-0.96;True;False
+House Price;House Square Feet;House Age;ranking;1.0;-0.99;True;False
+Phone Performance Score;Phone Processor Speed;Phone Battery Capacity;ranking;1.0;-0.99;True;False
+Restaurant Rating;Restaurant Menu Variety;Restaurant Wait Time;ranking;1.0;-0.99;True;False
+Dog Obedience Score;Dog Training Hours;Dog Distractions;ranking;0.98;-0.96;True;False
+Exercise Burned Calories;Exercise Intensity;Exercise Duration;ranking;1.0;-0.99;True;False
+Price;House Size;Bedrooms;ranking;0.91;-0.71;True;False
+Heart Health;Age;Exercise Hours;ranking;-0.92;0.91;True;False
+BMI;Height;Weight;ranking;-0.58;0.28;True;False
+Coffee Rating;Coffee Amount;Sugar Amount;ranking;-0.36;0.29;True;False
+Quality;Price;Size;ranking;-0.95;-0.93;True;False
+Energy Boost (scale 1-10);Coffee Strength (scale 1-10);Caffeine Content (mg);ranking;0.68;-0.5;True;False
+Cooking Time (minutes);Number of Ingredients;Prep Time (minutes);ranking;-0.57;-0.55;True;False
+Comfort Rating;Shoe Weight;Brand Popularity;ranking;-0.93;0.58;True;False
+Time to Destination (hours);Car Speed (mph);Fuel Efficiency (mpg);ranking;-0.97;0.95;True;False
+Shade Area (sq ft);Tree Height (ft);Tree Diameter (in);ranking;1.0;-0.94;True;False
+Warmth Rating (1-10);Shirt Thickness (mm);Shirt Weight (g);ranking;0.99;-0.93;True;False
+Race Finish Time (minutes);Runner Speed (mph);Runner Weight (lbs);ranking;-1.0;0.97;True;False
+School Success;Student Study Time;Student Sleep Hours;ranking;1.0;-0.94;True;False
+Bicycle Speed;Bicycle Weight;Bicycle Price;ranking;-0.86;0.75;True;False
+Mobile Phone Performance;Mobile Phone RAM;Mobile Phone Battery Size;ranking;0.94;-0.92;True;False
+Fuel efficiency (km/l);Engine size (cc);Weight (kg);ranking;-0.97;-0.72;True;False
+Rent (per month);Distance from center (km);Size (m²);ranking;-0.94;-0.16;True;False
+Energy level (1-10);Hours of sleep;Caffeine intake (mg);ranking;0.96;-0.94;True;False
+Customer satisfaction (1-10);Number of reviews;Price (in $);ranking;0.93;-0.82;True;False
+Shadow coverage;Tree height;Tree thickness;ranking;0.96;-0.72;True;False
+Comfort level;Room size;Room furniture;ranking;0.98;-0.86;True;False
+Weight loss;Exercise intensity;Exercise duration;ranking;0.97;-0.92;True;False
+Flower production;Plant height;Plant width;ranking;0.99;-0.97;True;False
+Market value;House size;House floors;ranking;0.99;-0.75;True;False
+Deliciousness;Cooking Time;Ingredients;ranking;-0.9;0.85;True;False
+Comfort;Age;Size;ranking;-0.88;0.07;True;False
+Distance;Fuel Efficiency;Weight;ranking;0.95;-0.41;True;False
+Calories Burned;Exercise Duration;Exercise Intensity;ranking;0.55;-0.43;True;False
+Test Score;Student Study Time;Student Distractions;ranking;-0.41;-0.28;True;False
+Water Usage (ml/day);Plant Height;Plant Leaves;ranking;-0.48;-0.16;True;False
+Wait Time (minutes);Restaurant Size;Restaurant Reviews;ranking;0.69;-0.38;True;False
+Battery life;Battery capacity;Weight;ranking;1.0;-0.57;True;False
+Salary;Experience;Years since graduation;ranking;0.98;-0.55;True;False
+Heart rate;Age;Exercise hours;ranking;0.99;-0.96;True;False
+Exam Score;Student Study Time;Time Spent on Social Media;ranking;0.98;-0.83;True;False
+Health index;Age;Exercise hours;ranking;-0.89;0.79;True;False
+Enjoyment;Book pages;Author fame;ranking;0.94;-0.81;True;False
+Energy boost;Coffee strength;Caffeine content;ranking;-0.93;0.81;True;False
+Muscle gain;Exercise intensity;Water intake;ranking;0.42;-0.22;True;False
+Car efficiency;Engine power (in horsepower);Weight (in kg);ranking;-0.96;-0.95;True;False
+Exam points;Time spent studying (hours);Number of breaks (times);ranking;0.91;-0.63;True;False
