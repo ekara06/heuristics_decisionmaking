@@ -1,0 +1,51 @@
+prolific_id,condition_group,source_file,question_number,target,target_value,option1,option2,selected_option,button_pressed,optionA_trial_id,optionA_task_id,optionA_values,optionA_target_value,optionA_value1,optionA_value2,optionB_trial_id,optionB_task_id,optionB_values,optionB_target_value,optionB_value1,optionB_value2
+UNKNOWN,,comp-result_1248683_data.json,1,Dog Activity Level,,Dog Size,Dog Exercise Needs,OptionA,F,1,2,"50.0, 2.0",7,50.0,2.0,9,2,"25.0, 1.0",4,25.0,1.0
+UNKNOWN,,comp-result_1248683_data.json,2,Performance Quality (on scale 1-10),,Hours of Practice,Musical Experience (years),OptionA,F,17,14,"80.0, 5.0",9,80.0,5.0,3,14,"60.0, 4.0",8,60.0,4.0
+UNKNOWN,,comp-result_1248683_data.json,3,Energy Boost,,Coffee Caffeine Content,Coffee Richness,OptionA,F,10,3,"100.0, 4.0",7,100.0,4.0,1,3,"100.0, 3.0",7,100.0,3.0
+UNKNOWN,,comp-result_1248683_data.json,4,Book Knowledge Content,,Book Page Count,Book Reading Level,OptionA,F,19,1,"270.0, 2.0",4,270.0,2.0,5,1,"200.0, 2.0",5,200.0,2.0
+UNKNOWN,,comp-result_1248683_data.json,5,Restaurant Popularity (on scale 1-10),,Number of Reviews,Average Rating (out of 5),OptionA,F,19,15,"220.0, 4.7",9,220.0,4.7,7,15,"150.0, 4.3",7,150.0,4.3
+UNKNOWN,,comp-result_1248683_data.json,6,Exam Score,,Hours of Study,Difficulty Level,OptionA,F,2,9,"6.0, 4.0",73,6.0,4.0,1,9,"5.0, 3.0",70,5.0,3.0
+UNKNOWN,,comp-result_1248683_data.json,7,Photo Quality,,Phone Price,Phone Camera Megapixels,OptionB,J,3,4,"500.0, 10.0",7,500.0,10.0,9,4,"650.0, 14.0",8,650.0,14.0
+UNKNOWN,,comp-result_1248683_data.json,8,Satiety (on scale 1-10),,Number of Calories,Protein (g),OptionA,F,10,13,"450.0, 22.0",10,450.0,22.0,14,13,"500.0, 18.0",9,500.0,18.0
+UNKNOWN,,comp-result_1248683_data.json,9,Fun Level,,Number of Players,Game Duration (minutes),OptionB,J,1,10,"4.0, 60.0",8,4.0,60.0,2,10,"6.0, 50.0",8,6.0,50.0
+UNKNOWN,,comp-result_1248683_data.json,10,Durability Perception (1-10),,Price ($),Warranty (years),OptionB,J,2,6,"250.0, 2.0",6,250.0,2.0,5,6,"180.0, 2.0",6,180.0,2.0
+UNKNOWN,,comp-result_1248683_data.json,11,Distance Covered,,Bike Speed,Bike Weight,OptionB,J,4,5,"26.0, 13.0",57,26.0,13.0,18,5,"20.0, 10.0",49,20.0,10.0
+UNKNOWN,,comp-result_1248683_data.json,12,Home Comfort (1-10),,Number of Bedrooms,Square Feet,OptionA,F,1,7,"3.0, 1500.0",7,3.0,1500.0,4,7,"3.0, 1500.0",6,3.0,1500.0
+UNKNOWN,,comp-result_1248683_data.json,13,Fat Burn (in grams),,Exercise Time (minutes),Heart Rate (bpm),OptionA,F,20,16,"70.0, 140.0",24,70.0,140.0,18,16,"60.0, 130.0",19,60.0,130.0
+UNKNOWN,,comp-result_1248683_data.json,14,Natural Light (on scale 1-10),,Room Area (m2),Number of Windows,OptionB,J,20,12,"30.0, 4.0",8,30.0,4.0,18,12,"24.0, 3.0",7,24.0,3.0
+UNKNOWN,,comp-result_1248683_data.json,15,Taste Rating,,Number of Ingredients,Cooking Time (minutes),OptionA,F,18,11,"7.0, 23.0",6,7.0,23.0,12,11,"6.0, 27.0",7,6.0,27.0
+UNKNOWN,,comp-result_1248683_data.json,16,Enjoyment Rating (1-10),,Number of Pages,Reading Time (minutes),OptionB,J,20,8,"410.0, 155.0",6,410.0,155.0,18,8,"340.0, 125.0",5,340.0,125.0
+UNKNOWN,,comp-result_1248683_data.json,17,Brightness,,Phone Battery Capacity,Screen Size,OptionB,J,1,31,"3000.0, 5.0",650,3000.0,5.0,4,31,"4500.0, 5.0",680,4500.0,5.0
+UNKNOWN,,comp-result_1248683_data.json,18,Restaurant Customer Satisfaction,,Restaurant Menu Size,Restaurant Online Rating,OptionB,J,18,20,"17.0, 4.6",8.6,17.0,4.6,17,20,"23.0, 4.8",8.9,23.0,4.8
+UNKNOWN,,comp-result_1248683_data.json,19,Fat Burn (g),,Exercise Time (min),Heart Rate (bpm),OptionB,J,12,23,"35.0, 115.0",35,35.0,115.0,10,23,"45.0, 125.0",50,45.0,125.0
+UNKNOWN,,comp-result_1248683_data.json,20,Book Rating,,Book Page Count,Author Rating,OptionA,F,17,18,"350.0, 4.8",4.7,350.0,4.8,18,18,"400.0, 4.7",4.6,400.0,4.7
+UNKNOWN,,comp-result_1248683_data.json,21,House Demand,,House Size sqft,House Location Rating,OptionA,F,1,19,"2000.0, 8.0",400000,2000.0,8.0,2,19,"2500.0, 7.0",420000,2500.0,7.0
+UNKNOWN,,comp-result_1248683_data.json,22,Enjoyment,,Taste rating,Price,OptionB,J,18,21,"7.0, 7.0",13,7.0,7.0,14,21,"8.0, 6.0",13,8.0,6.0
+UNKNOWN,,comp-result_1248683_data.json,23,Social Engagement (on scale 1-10),,Number of Friends,Average Message Frequency,OptionA,F,18,17,"160.0, 4.0",8,160.0,4.0,17,17,"140.0, 3.0",7,140.0,3.0
+UNKNOWN,,comp-result_1248683_data.json,24,Warmth Rating,,Shirt Weight (g),Fabric Thickness (mm),OptionA,F,1,26,"200.0, 1.5",4,200.0,1.5,2,26,"180.0, 1.2",3.5,180.0,1.2
+UNKNOWN,,comp-result_1248683_data.json,25,Light Level,,Room Size (sq ft),Number of Windows,OptionB,J,1,30,"200.0, 3.0",7,200.0,3.0,19,30,"230.0, 5.0",9,230.0,5.0
+UNKNOWN,,comp-result_1248683_data.json,26,Enjoyment Score,,Book Length (pages),Author Fame (1-10),OptionB,J,2,24,"250.0, 6.0",7.5,250.0,6.0,9,24,"250.0, 7.0",8,250.0,7.0
+UNKNOWN,,comp-result_1248683_data.json,27,Deliciousness,,Cooking time,Ingredients count,OptionA,F,9,22,"25.0, 6.0",70,25.0,6.0,11,22,"50.0, 5.0",60,50.0,5.0
+UNKNOWN,,comp-result_1248683_data.json,28,Fuel Consumption (L),,Flight Duration (hours),Distance (km),OptionA,F,18,28,"3.2, 800.0",800,3.2,800.0,2,28,"3.0, 750.0",750,3.0,750.0
+UNKNOWN,,comp-result_1248683_data.json,29,Age (years),,Tree Height (m),Trunk Diameter (cm),OptionB,J,20,27,"10.0, 29.0",50,10.0,29.0,19,27,"12.0, 34.0",60,12.0,34.0
+UNKNOWN,,comp-result_1248683_data.json,30,Performance Rating,,Computer Weight (kg),RAM (GB),OptionA,F,3,29,"1.8, 12.0",8,1.8,12.0,9,29,"1.6, 10.0",7.5,1.6,10.0
+UNKNOWN,,comp-result_1248683_data.json,31,Battery Life (hours),,Phone Weight (g),Battery Capacity (mAh),OptionB,J,1,25,"150.0, 4000.0",10,150.0,4000.0,17,25,"155.0, 4100.0",10.3,155.0,4100.0
+UNKNOWN,,comp-result_1248683_data.json,32,House Price,,House Size,Neighborhood Rating,OptionA,F,4,32,"1800.0, 8.0",410,1800.0,8.0,17,32,"1700.0, 6.0",310,1700.0,6.0
+UNKNOWN,,comp-result_1248683_data.json,33,App Popularity,,App User Ratings (1-5),Number of Reviews,OptionB,J,16,36,"4.0, 400.0",96,4.0,400.0,18,36,"5.0, 80.0",70,5.0,80.0
+UNKNOWN,,comp-result_1248683_data.json,34,Comfort Score,,Price ($),Size (sqft),OptionB,J,2,38,"280000.0, 160.0",8,280000.0,160.0,10,38,"270000.0, 150.0",8,270000.0,150.0
+UNKNOWN,,comp-result_1248683_data.json,35,Home Value (thousands),,House Size (sqm),Neighborhood Safety (1-10),OptionA,F,4,35,"110.0, 8.0",280,110.0,8.0,9,35,"140.0, 6.0",280,140.0,6.0
+UNKNOWN,,comp-result_1248683_data.json,36,Exam Grade,,Student Study Time (hours),Class Attendance (%),OptionB,J,17,34,"6.0, 85.0",74,6.0,85.0,19,34,"5.0, 90.0",76,5.0,90.0
+UNKNOWN,,comp-result_1248683_data.json,37,Phone Performance Score,,Phone RAM (GB),Battery Capacity (mAh),OptionA,F,17,33,"5.0, 2700.0",69,5.0,2700.0,1,33,"4.0, 3000.0",70,4.0,3000.0
+UNKNOWN,,comp-result_1248683_data.json,38,Energy Level,,Hours of Sleep,Caffeine Intake (mg),OptionA,F,1,39,"8.0, 50.0",7,8.0,50.0,14,39,"7.0, 30.0",5,7.0,30.0
+UNKNOWN,,comp-result_1248683_data.json,39,Fuel Consumption (L/100km),,Speed (km/h),Weight (kg),OptionA,F,19,37,"145.0, 1900.0",13,145.0,1900.0,1,37,"120.0, 1500.0",9,120.0,1500.0
+UNKNOWN,,comp-result_1248683_data.json,40,Fitness Level,,Exercise Time (min/day),Healthy Diet (%),OptionA,F,18,40,"40.0, 70.0",6,40.0,70.0,19,40,"40.0, 85.0",8,40.0,85.0
+UNKNOWN,,comp-result_1248683_data.json,41,Popularity Score,,Number of Likes,Number of Comments,OptionB,J,19,44,"110.0, 22.0",132,110.0,22.0,18,44,"150.0, 30.0",180,150.0,30.0
+UNKNOWN,,comp-result_1248683_data.json,42,Natural Light,,Problem 6: Room Size,Number of Windows,OptionB,J,2,47,"250.0, 3.0",7,250.0,3.0,19,47,"160.0, 2.0",4,160.0,2.0
+UNKNOWN,,comp-result_1248683_data.json,43,Cooking Time (min),,Number of Ingredients,Prep Time (min),OptionB,J,13,42,"4.0, 9.0",21,4.0,9.0,9,42,"5.0, 10.0",25,5.0,10.0
+UNKNOWN,,comp-result_1248683_data.json,44,Speed (km/h),,Engine Horsepower,Weight (kg),OptionA,F,2,41,"180.0, 1300.0",185,180.0,1300.0,4,41,"220.0, 1500.0",195,220.0,1500.0
+UNKNOWN,,comp-result_1248683_data.json,45,Weight Loss,,Problem 4: Calories,Exercise Time,OptionB,J,4,45,"700.0, 30.0",1.5,700.0,30.0,7,45,"400.0, 40.0",1.5,400.0,40.0
+UNKNOWN,,comp-result_1248683_data.json,46,Customer Satisfaction,,Price ($),Quality Rating (1-10),OptionA,F,14,43,"120.0, 8.0",8,120.0,8.0,17,43,"80.0, 6.0",7,80.0,6.0
+UNKNOWN,,comp-result_1248683_data.json,47,Battery Life,,Phone Weight,Battery Capacity,OptionA,F,1,48,"200.0, 4000.0",32,200.0,4000.0,4,48,"200.0, 3600.0",29,200.0,3600.0
+UNKNOWN,,comp-result_1248683_data.json,48,User Satisfaction,,Problem 5: Screen Size,Battery Life,OptionA,F,2,46,"7.0, 25.0",6,7.0,25.0,1,46,"6.0, 30.0",7,6.0,30.0
+UNKNOWN,,comp-result_1248683_data.json,49,Doneness,,Cooking Time,Size,OptionA,F,2,50,"35.0, 220.0",75,35.0,220.0,1,50,"30.0, 200.0",70,30.0,200.0
+UNKNOWN,,comp-result_1248683_data.json,50,Tea Taste,,Leaf Strength,Flavor Variety,OptionB,J,2,49,"6.0, 2.0",7,6.0,2.0,4,49,"5.0, 3.0",7.4,5.0,3.0
