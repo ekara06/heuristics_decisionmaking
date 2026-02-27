@@ -20,12 +20,15 @@ for i, condition in enumerate(['ranking', 'direction']):
     # groupBMC
     result = GroupBMC(-model_performances[1:]).get_result()
     frequency_mean = [result.frequency_mean[0], result.frequency_mean[1], result.frequency_mean[2] + result.frequency_mean[3]]
+    frequency_var = [result.frequency_var[0], result.frequency_var[1], result.frequency_var[2] + result.frequency_var[3]]
     protected_exceedance_probability = [result.protected_exceedance_probability[0], result.protected_exceedance_probability[1], result.protected_exceedance_probability[2] + result.protected_exceedance_probability[3]]
+    
+    
 
     print(frequency_mean)
     print(protected_exceedance_probability)
 
-    axs[0, i].bar(['weighted\nadditive', 'equal\nweighting', 'single\ncue'], frequency_mean)
+    axs[0, i].bar(['weighted\nadditive', 'equal\nweighting', 'single\ncue'], frequency_mean, yerr=np.sqrt(frequency_var))
     axs[1, i].bar(['weighted\nadditive', 'equal\nweighting', 'single\ncue'], protected_exceedance_probability)
     axs[0, i].set_ylabel('model frequency')
     axs[1, i].set_ylabel('protected exceedance probability')
